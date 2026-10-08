@@ -1,0 +1,18 @@
+Candidate: Sarah Reddy
+Title: Software Engineer (Mid-Level)
+Email: sarah.reddy@techdev.net
+
+Professional Summary:
+Software engineer with 3.2 years of experience supporting web applications, basic REST APIs, and backend data processing.
+
+Skills:
+Kafka, Python, Docker, PostgreSQL, Prometheus, Cassandra, HTML/CSS, Git, Jira.
+
+Work Experience:
+Software Developer | Pinnacle Cloud Services (3.2 years)
+- Developed API endpoints and integrated third-party payment gateways.
+- Assisted lead architect with database schema updates and Docker configuration files.
+- Participated in weekly agile stand-ups and code reviews.
+
+Education:
+Bachelor of Science in Information Technology, Delhi Technological University

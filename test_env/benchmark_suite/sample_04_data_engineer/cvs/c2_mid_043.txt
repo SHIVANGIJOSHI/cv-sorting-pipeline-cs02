@@ -1,0 +1,9 @@
+Candidate: Emily Patel (Associate Developer)
+Email: emily.patel@workmail.com
+Summary:
+Software developer with 2.4 years of professional experience supporting web and system infrastructure.
+Skills: Apache Spark, SQL, Airflow, dbt, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Apache Spark endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

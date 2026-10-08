@@ -1,0 +1,11 @@
+Candidate: Sarah Johnson (Senior Specialist)
+Email: sarah.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.7 years of experience designing and shipping scalable systems, specializing in TypeScript, Docker, REST APIs, PostgreSQL.
+Technical Skills: TypeScript, Docker, REST APIs, PostgreSQL, Node.js, Express, React, TailwindCSS, Prisma, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (3.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TypeScript and Docker.
+Education: B.Tech in Computer Science, Delhi Technological University

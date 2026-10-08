@@ -1,0 +1,11 @@
+Candidate: Priya Brown (Senior Specialist)
+Email: priya.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.3 years of experience designing and shipping scalable systems, specializing in JavaScript, React, TypeScript, GraphQL.
+Technical Skills: JavaScript, React, TypeScript, GraphQL, Redux, Jest, TailwindCSS, Cypress, HTML5, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (4.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using JavaScript and React.
+Education: B.Tech in Computer Science, Anna University

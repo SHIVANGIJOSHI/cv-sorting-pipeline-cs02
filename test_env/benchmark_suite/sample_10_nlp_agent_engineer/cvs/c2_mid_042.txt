@@ -1,0 +1,9 @@
+Candidate: Deepak Smith (Associate Developer)
+Email: deepak.smith@workmail.com
+Summary:
+Software developer with 2.7 years of professional experience supporting web and system infrastructure.
+Skills: Vector Databases, RAG, LangChain, Prompt Engineering, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (2.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vector Databases endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

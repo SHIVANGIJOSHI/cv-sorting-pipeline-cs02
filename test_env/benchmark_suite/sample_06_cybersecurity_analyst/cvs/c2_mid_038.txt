@@ -1,0 +1,9 @@
+Candidate: Ananya Mukherjee (Associate Developer)
+Email: ananya.mukherjee@workmail.com
+Summary:
+Software developer with 3.2 years of professional experience supporting web and system infrastructure.
+Skills: OWASP, Python, Splunk, Cryptography, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained OWASP endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

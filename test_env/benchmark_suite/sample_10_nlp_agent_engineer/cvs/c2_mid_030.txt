@@ -1,0 +1,9 @@
+Candidate: Deepak Sharma (Associate Developer)
+Email: deepak.sharma@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: RAG, FastAPI, LangChain, Vector Databases, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained RAG endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

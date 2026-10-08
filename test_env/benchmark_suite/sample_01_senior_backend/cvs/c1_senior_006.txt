@@ -1,0 +1,11 @@
+Candidate: Elena Johnson (Senior Specialist)
+Email: elena.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.1 years of experience designing and shipping scalable systems, specializing in AWS, Redis, Java, Kafka.
+Technical Skills: AWS, Redis, Java, Kafka, PostgreSQL, Kubernetes, Python, Prometheus, gRPC, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (3.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using AWS and Redis.
+Education: B.Tech in Computer Science, NIT Trichy

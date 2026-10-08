@@ -1,0 +1,11 @@
+Candidate: Fatima Gupta (Senior Specialist)
+Email: fatima.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.5 years of experience designing and shipping scalable systems, specializing in High Availability, MySQL, Replication, SQL.
+Technical Skills: High Availability, MySQL, Replication, SQL, Database Tuning, PostgreSQL, Linux, Prometheus, Patroni, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (6.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using High Availability and MySQL.
+Education: B.Tech in Computer Science, IIT Kharagpur

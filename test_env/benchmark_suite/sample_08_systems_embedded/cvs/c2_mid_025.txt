@@ -1,0 +1,9 @@
+Candidate: James Williams (Associate Developer)
+Email: james.williams@workmail.com
+Summary:
+Software developer with 1.5 years of professional experience supporting web and system infrastructure.
+Skills: SPI, RTOS, GDB, ARM Cortex, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (1.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained SPI endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,10 @@
+Candidate: Fatima Reddy (Junior Trainee / Fresher)
+Email: fatima.reddy@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus.
+Skills Inventory:
+PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.6 years):
+  Reviewed tutorials and observed team workflows covering PostgreSQL, Python, Linux, Bash.
+Education: Diploma in Computer Applications

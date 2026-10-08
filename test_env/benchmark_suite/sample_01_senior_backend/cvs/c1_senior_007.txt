@@ -1,0 +1,11 @@
+Candidate: Priya Kulkarni (Senior Specialist)
+Email: priya.kulkarni@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.8 years of experience designing and shipping scalable systems, specializing in Kafka, Kubernetes, Python, Java.
+Technical Skills: Kafka, Kubernetes, Python, Java, AWS, FastAPI, Docker, gRPC, Terraform, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.8 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Kafka and Kubernetes.
+Education: B.Tech in Computer Science, IIT Kharagpur

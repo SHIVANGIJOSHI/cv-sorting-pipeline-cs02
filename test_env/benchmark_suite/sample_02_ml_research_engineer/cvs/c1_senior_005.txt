@@ -1,0 +1,11 @@
+Candidate: Elena Sharma (Senior Specialist)
+Email: elena.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.3 years of experience designing and shipping scalable systems, specializing in HuggingFace, JAX, RAG, LangChain.
+Technical Skills: HuggingFace, JAX, RAG, LangChain, PyTorch, CUDA, Python, TensorRT, Weights & Biases, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (2.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using HuggingFace and JAX.
+Education: B.Tech in Computer Science, Delhi Technological University

@@ -1,0 +1,11 @@
+Candidate: Sarah Iyer (Senior Specialist)
+Email: sarah.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.0 years of experience designing and shipping scalable systems, specializing in TailwindCSS, JavaScript, Next.js, GraphQL.
+Technical Skills: TailwindCSS, JavaScript, Next.js, GraphQL, TypeScript, React, Webpack, HTML5, Node.js, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (3.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TailwindCSS and JavaScript.
+Education: B.Tech in Computer Science, IIT Kharagpur

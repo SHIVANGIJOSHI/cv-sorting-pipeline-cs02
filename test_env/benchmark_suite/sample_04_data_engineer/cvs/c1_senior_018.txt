@@ -1,0 +1,11 @@
+Candidate: Priya Gupta (Senior Specialist)
+Email: priya.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.7 years of experience designing and shipping scalable systems, specializing in PostgreSQL, Airflow, Kafka, Python.
+Technical Skills: PostgreSQL, Airflow, Kafka, Python, Apache Spark, dbt, Snowflake, Databricks, BigQuery, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (4.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using PostgreSQL and Airflow.
+Education: B.Tech in Computer Science, Delhi Technological University

@@ -1,0 +1,18 @@
+Candidate: David Kulkarni
+Title: Software Engineer (Mid-Level)
+Email: david.kulkarni@techdev.net
+
+Professional Summary:
+Software engineer with 3.1 years of experience supporting web applications, basic REST APIs, and backend data processing.
+
+Skills:
+Python, FastAPI, PostgreSQL, Kafka, RabbitMQ, Terraform, HTML/CSS, Git, Jira.
+
+Work Experience:
+Software Developer | HyperScale Labs (3.1 years)
+- Developed API endpoints and integrated third-party payment gateways.
+- Assisted lead architect with database schema updates and Docker configuration files.
+- Participated in weekly agile stand-ups and code reviews.
+
+Education:
+Bachelor of Science in Information Technology, IIIT Hyderabad

@@ -1,0 +1,11 @@
+Candidate: James Rao (Senior Specialist)
+Email: james.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.2 years of experience designing and shipping scalable systems, specializing in Apache Spark, Python, Hadoop, dbt.
+Technical Skills: Apache Spark, Python, Hadoop, dbt, Kafka, SQL, Airflow, Databricks, BigQuery, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Apache Spark and Python.
+Education: B.Tech in Computer Science, BITS Pilani

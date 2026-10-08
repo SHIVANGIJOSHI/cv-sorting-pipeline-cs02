@@ -1,0 +1,11 @@
+Candidate: Vikram Nair (Senior Specialist)
+Email: vikram.nair@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.8 years of experience designing and shipping scalable systems, specializing in SQL, Snowflake, Airflow, PostgreSQL.
+Technical Skills: SQL, Snowflake, Airflow, PostgreSQL, Apache Spark, Python, Kafka, Presto, BigQuery, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (5.8 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using SQL and Snowflake.
+Education: B.Tech in Computer Science, BITS Pilani

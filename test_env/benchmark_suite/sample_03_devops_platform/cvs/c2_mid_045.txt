@@ -1,0 +1,9 @@
+Candidate: Michael Nair (Associate Developer)
+Email: michael.nair@workmail.com
+Summary:
+Software developer with 3.8 years of professional experience supporting web and system infrastructure.
+Skills: Terraform, AWS, Prometheus, Docker, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Terraform endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

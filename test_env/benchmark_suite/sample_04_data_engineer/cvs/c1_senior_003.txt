@@ -1,0 +1,11 @@
+Candidate: Sarah Kulkarni (Senior Specialist)
+Email: sarah.kulkarni@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.9 years of experience designing and shipping scalable systems, specializing in Apache Spark, Snowflake, SQL, Python.
+Technical Skills: Apache Spark, Snowflake, SQL, Python, Kafka, Hadoop, PostgreSQL, BigQuery, Presto, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (5.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Apache Spark and Snowflake.
+Education: B.Tech in Computer Science, BITS Pilani

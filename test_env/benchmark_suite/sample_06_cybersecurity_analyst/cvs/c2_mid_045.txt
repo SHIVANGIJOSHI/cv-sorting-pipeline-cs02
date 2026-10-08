@@ -1,0 +1,9 @@
+Candidate: Priya Nair (Associate Developer)
+Email: priya.nair@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: OWASP, Vulnerability Assessment, Splunk, SIEM, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained OWASP endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

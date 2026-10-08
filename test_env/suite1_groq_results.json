@@ -1,0 +1,3082 @@
+{
+  "job_description_path": "../../test_env/benchmark_suite/sample_01_senior_backend/job_description.txt",
+  "total_candidates_processed": 100,
+  "top_candidates_count": 20,
+  "ranked_candidates": [
+    {
+      "rank": 1,
+      "candidate_id": "CAND_005",
+      "file_name": "c1_senior_005.txt",
+      "inferred_name": "Candidate: Aarav Iyer (Senior Specialist",
+      "final_score": 84.27,
+      "stage1_dense_score": 88.75,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 85.5,
+      "rubric_breakdown": {
+        "technical_depth": 80.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 70.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "python"
+      ],
+      "audit_justification": "Aarav Iyer brings solid experience (7.4 years) and a strong skill set in Docker, Kubernetes, Java, FastAPI, PostgreSQL, Redis, Kafka, GraphQL, and Prometheus, aligning well with the core requirements. However, the absence of Python and AWS—both mandatory for the role—creates a notable gap. The candidate’s background in CI/CD, automated testing, and scalable system design is a strong match, but the missing key technologies may limit immediate contribution without additional ramp‑up.",
+      "security_flag": false
+    },
+    {
+      "rank": 2,
+      "candidate_id": "CAND_006",
+      "file_name": "c1_senior_006.txt",
+      "inferred_name": "Candidate: Elena Johnson (Senior Special",
+      "final_score": 83.83,
+      "stage1_dense_score": 89.17,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 84.75,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 85.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "fastapi"
+      ],
+      "audit_justification": "Elena Johnson brings solid senior-level experience (5.1 years) and a strong skill set in AWS, Java, Python, Kubernetes, PostgreSQL, Redis, Kafka, and Prometheus, aligning well with the core requirements of the Senior Backend & Distributed Systems Engineer role. She demonstrates proven architectural and performance‑optimization work, but lacks explicit experience with Docker, FastAPI, and gRPC (though she lists gRPC), which are listed as mandatory or preferred. Overall, she is a strong fit with minor gaps that could be addressed through on‑the‑job learning or targeted training.",
+      "security_flag": false
+    },
+    {
+      "rank": 3,
+      "candidate_id": "CAND_016",
+      "file_name": "c1_senior_016.txt",
+      "inferred_name": "Candidate: Emily Nair (Senior Specialist",
+      "final_score": 83.81,
+      "stage1_dense_score": 89.98,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 84.5,
+      "rubric_breakdown": {
+        "technical_depth": 80.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 80.0,
+        "education_certs": 90.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "java",
+        "python"
+      ],
+      "audit_justification": "Emily Nair brings strong experience in scalable PostgreSQL, AWS, Redis, Kafka, Docker, Kubernetes, and FastAPI, aligning well with the core requirements. However, the absence of explicit Java experience and limited mention of CI/CD tooling depth slightly reduce her fit for the senior backend role that emphasizes Java-based microservices. Overall, she is a solid candidate with a few gaps that could be addressed through targeted skill development or team collaboration.",
+      "security_flag": false
+    },
+    {
+      "rank": 4,
+      "candidate_id": "CAND_010",
+      "file_name": "c1_senior_010.txt",
+      "inferred_name": "Candidate: Michael Iyer (Senior Speciali",
+      "final_score": 83.62,
+      "stage1_dense_score": 88.16,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 84.75,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 85.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "fastapi",
+        "java",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "kubernetes"
+      ],
+      "audit_justification": "Michael Iyer demonstrates strong alignment with the core requirements of the Senior Backend & Distributed Systems Engineer role, boasting 8 years of experience and a robust skill set that includes Python, Java, AWS, PostgreSQL, FastAPI, Redis, Kafka, Terraform, and Prometheus. His background in scalable system design and automated testing aligns well with the job’s emphasis on resilient microservices and CI/CD practices. However, the resume lacks explicit experience with Kubernetes and Docker—critical components of the JD—potentially limiting his fit for the distributed systems focus. Additionally, while his education (B.Tech in Computer Science) is solid, it does not include advanced certifications that could further strengthen his candidacy. Overall, he is a strong contender but would benefit from demonstrating proficiency in container orchestration and Docker to fully meet the technical depth expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 5,
+      "candidate_id": "CAND_013",
+      "file_name": "c1_senior_013.txt",
+      "inferred_name": "Candidate: Deepak Rao (Senior Specialist",
+      "final_score": 83.5,
+      "stage1_dense_score": 88.97,
+      "stage1_lexical_score": 77.78,
+      "stage2_rerank_score": 82.75,
+      "rubric_breakdown": {
+        "technical_depth": 80.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 75.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "kubernetes"
+      ],
+      "audit_justification": "Deepak Rao brings solid experience and a strong skill set that aligns well with the core requirements of the Senior Backend & Distributed Systems Engineer role. While he demonstrates depth in Python, Java, Docker, AWS, FastAPI, PostgreSQL, and Redis, the absence of Kubernetes and Kafka—key components of the job—limits full alignment. Nonetheless, his proven track record of scaling distributed workflows and improving throughput positions him as a strong candidate with room to grow into the missing areas.",
+      "security_flag": false
+    },
+    {
+      "rank": 6,
+      "candidate_id": "CAND_009",
+      "file_name": "c1_senior_009.txt",
+      "inferred_name": "Candidate: Emily Smith (Senior Specialis",
+      "final_score": 83.2,
+      "stage1_dense_score": 90.11,
+      "stage1_lexical_score": 77.78,
+      "stage2_rerank_score": 82.0,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 80.0,
+        "education_certs": 85.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "python"
+      ],
+      "audit_justification": "Emily Smith brings strong experience in Kubernetes, Java, FastAPI, AWS, PostgreSQL, Redis, and Docker, aligning well with most core requirements. However, the absence of Python and Kafka experience—key for the role—creates a notable gap. Overall, she is a solid candidate but would need to demonstrate proficiency in the missing technologies to fully meet the senior engineer expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 7,
+      "candidate_id": "CAND_020",
+      "file_name": "c1_senior_020.txt",
+      "inferred_name": "Candidate: Aarav Reddy (Senior Specialis",
+      "final_score": 83.08,
+      "stage1_dense_score": 88.05,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 84.0,
+      "rubric_breakdown": {
+        "technical_depth": 80.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 90.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "fastapi",
+        "java",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "kubernetes"
+      ],
+      "audit_justification": "Aarav Reddy brings solid experience in AWS, Python, Java, PostgreSQL, FastAPI, Redis, and Kafka, aligning well with the core backend and distributed systems requirements. However, the resume lacks explicit experience with Kubernetes and Docker, which are mandatory for this role, potentially limiting his fit for the full stack of required technologies. Overall, his strong tenure and proven ability to scale systems make him a promising candidate, though the missing container orchestration skills should be addressed.",
+      "security_flag": false
+    },
+    {
+      "rank": 8,
+      "candidate_id": "CAND_003",
+      "file_name": "c1_senior_003.txt",
+      "inferred_name": "Candidate: David Williams (Senior Specia",
+      "final_score": 83.04,
+      "stage1_dense_score": 88.76,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 83.75,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 85.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "redis"
+      ],
+      "audit_justification": "David Williams brings strong experience in Java, Python, Kubernetes, Docker, PostgreSQL, FastAPI, and Kafka, aligning well with the core requirements. However, the resume lacks evidence of Redis and AWS expertise, which are mandatory for this role, potentially limiting his fit for the full stack of services expected. Overall, his tenure and proven impact in scaling distributed workflows make him a promising candidate, provided the missing skills can be quickly acquired or supplemented.",
+      "security_flag": false
+    },
+    {
+      "rank": 9,
+      "candidate_id": "CAND_008",
+      "file_name": "c1_senior_008.txt",
+      "inferred_name": "Candidate: Neha Iyer (Senior Specialist)",
+      "final_score": 82.77,
+      "stage1_dense_score": 88.28,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 83.5,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 70.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "python"
+      ],
+      "audit_justification": "Neha Iyer brings strong experience in Kubernetes, FastAPI, Kafka, PostgreSQL, Docker, Java, and Redis, aligning well with most core requirements. However, the absence of Python and AWS—key mandatory skills—limits full alignment with the senior backend role. Her tenure exceeds the minimum, and her education is solid, but the missing core technologies reduce overall fit.",
+      "security_flag": false
+    },
+    {
+      "rank": 10,
+      "candidate_id": "CAND_001",
+      "file_name": "c1_senior_001.txt",
+      "inferred_name": "Candidate: Michael Gupta (Senior Special",
+      "final_score": 82.75,
+      "stage1_dense_score": 89.93,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 83.0,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 80.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "java",
+        "python"
+      ],
+      "audit_justification": "Michael Gupta brings strong distributed‑systems experience and a solid tech stack that aligns well with the role, especially in Kubernetes, PostgreSQL, Redis, Kafka, Docker, FastAPI, and AWS. However, the absence of demonstrated Python and Java work—core to the senior backend position—creates a notable gap that could limit his immediate effectiveness. Overall, he is a strong candidate but would benefit from evidence of proficiency in the missing languages to fully meet the job’s technical requirements.",
+      "security_flag": false
+    },
+    {
+      "rank": 11,
+      "candidate_id": "CAND_011",
+      "file_name": "c1_senior_011.txt",
+      "inferred_name": "Candidate: Fatima Kulkarni (Senior Speci",
+      "final_score": 82.74,
+      "stage1_dense_score": 89.86,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 83.0,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 80.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "kubernetes"
+      ],
+      "audit_justification": "Fatima Kulkarni brings solid experience in Python, Java, Docker, PostgreSQL, FastAPI, Redis, and Kafka, aligning well with core job requirements. However, the absence of Kubernetes and AWS experience is a notable gap for a Senior Backend & Distributed Systems Engineer role that emphasizes cloud-native orchestration and infrastructure. Her demonstrated ability to scale systems and implement CI/CD pipelines suggests strong technical depth, but the missing key platform skills may limit immediate impact.",
+      "security_flag": false
+    },
+    {
+      "rank": 12,
+      "candidate_id": "CAND_002",
+      "file_name": "c1_senior_002.txt",
+      "inferred_name": "Candidate: Neha Williams (Senior Special",
+      "final_score": 82.68,
+      "stage1_dense_score": 87.82,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 83.5,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 70.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "docker",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "fastapi"
+      ],
+      "audit_justification": "Neha Williams brings solid experience in Python, Java, Kubernetes, Docker, PostgreSQL, Redis, Kafka, and gRPC, aligning well with the core requirements of the Senior Backend & Distributed Systems Engineer role. However, the resume lacks explicit experience with FastAPI and AWS, which are mandatory for this position. Her demonstrated ability to scale distributed workflows and improve throughput is a strong asset, but the missing key technologies may limit her fit for the full scope of responsibilities. Overall, she is a strong candidate with some gaps that need to be addressed.",
+      "security_flag": false
+    },
+    {
+      "rank": 13,
+      "candidate_id": "CAND_004",
+      "file_name": "c1_senior_004.txt",
+      "inferred_name": "Candidate: Elena Rao (Senior Specialist)",
+      "final_score": 81.35,
+      "stage1_dense_score": 89.94,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 81.0,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 100.0,
+        "domain_fit": 60.0,
+        "education_certs": 90.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "java",
+        "kubernetes"
+      ],
+      "audit_justification": "Elena Rao brings strong experience in Python, Docker, FastAPI, PostgreSQL, Redis, Kafka, and AWS, aligning well with many core requirements. However, the absence of Java and Kubernetes experience limits her fit for the full stack and orchestration responsibilities outlined in the role. Her proven track record of scaling systems and mentoring adds valuable depth, but the missing key technologies should be addressed before consideration.",
+      "security_flag": false
+    },
+    {
+      "rank": 14,
+      "candidate_id": "CAND_007",
+      "file_name": "c1_senior_007.txt",
+      "inferred_name": "Candidate: Priya Kulkarni (Senior Specia",
+      "final_score": 80.94,
+      "stage1_dense_score": 89.63,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 80.5,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 80.0,
+        "education_certs": 90.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Priya Kulkarni brings solid experience in distributed systems, with strong expertise in Python, Java, Kubernetes, Docker, FastAPI, Kafka, and AWS—core to the role. However, her résumé lacks explicit PostgreSQL and Redis experience, which are mandatory for this position, and her skill set does not mention CI/CD tooling or monitoring tools such as Prometheus. Overall, she is a strong candidate but would need to demonstrate proficiency with the missing database and caching technologies to fully meet the job’s requirements.",
+      "security_flag": false
+    },
+    {
+      "rank": 15,
+      "candidate_id": "CAND_017",
+      "file_name": "c1_senior_017.txt",
+      "inferred_name": "Candidate: Deepak Verma (Senior Speciali",
+      "final_score": 80.62,
+      "stage1_dense_score": 88.9,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 80.25,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 85.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "python"
+      ],
+      "audit_justification": "Deepak Verma demonstrates strong senior-level experience with 8.4 years in scalable backend systems, aligning well with the role’s focus on distributed services. His skill set covers most core requirements—Docker, FastAPI, Java, Kubernetes, PostgreSQL, Redis, Kafka, and Prometheus—yet lacks explicit Python and AWS expertise, which are mandatory for this position. While his experience in CI/CD and automated testing is evident, the absence of Python and AWS may limit his immediate fit for the full stack responsibilities. Overall, he is a solid candidate with a few gaps that could be mitigated through rapid upskilling or pairing with a Python/AWS specialist.",
+      "security_flag": false
+    },
+    {
+      "rank": 16,
+      "candidate_id": "CAND_015",
+      "file_name": "c1_senior_015.txt",
+      "inferred_name": "Candidate: Michael Gupta (Senior Special",
+      "final_score": 80.47,
+      "stage1_dense_score": 89.03,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 80.0,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 70.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "java",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "fastapi",
+        "kubernetes"
+      ],
+      "audit_justification": "Michael Gupta brings strong experience in Docker, AWS, Kafka, Python, Redis, Java, and PostgreSQL, aligning well with most core requirements. However, the absence of Kubernetes and FastAPI—critical for the role’s microservices architecture—creates a notable gap. Overall, he is a solid candidate but would need to demonstrate proficiency in the missing technologies to fully meet the senior engineering expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 17,
+      "candidate_id": "CAND_018",
+      "file_name": "c1_senior_018.txt",
+      "inferred_name": "Candidate: Emily Nair (Senior Specialist",
+      "final_score": 80.4,
+      "stage1_dense_score": 89.53,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 79.75,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 90.0,
+        "domain_fit": 85.0,
+        "education_certs": 75.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "java",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "fastapi",
+        "kubernetes"
+      ],
+      "audit_justification": "Emily Nair brings strong senior-level experience (7.8 years) and a solid technical stack that aligns well with the core requirements—Python, Java, Docker, PostgreSQL, Redis, Kafka, and AWS. She demonstrates proven architectural leadership and performance improvements, which are valuable for a senior backend role. However, the resume lacks explicit experience with Kubernetes, FastAPI, and gRPC, which are listed as mandatory or preferred skills in the JD. The absence of these key technologies may limit her fit for the most demanding aspects of the position, especially around container orchestration and modern API frameworks. Overall, she is a strong candidate but would benefit from highlighting any Kubernetes or FastAPI exposure or providing concrete examples of how she has addressed similar challenges in past projects.",
+      "security_flag": false
+    },
+    {
+      "rank": 18,
+      "candidate_id": "CAND_019",
+      "file_name": "c1_senior_019.txt",
+      "inferred_name": "Candidate: James Williams (Senior Specia",
+      "final_score": 79.95,
+      "stage1_dense_score": 88.74,
+      "stage1_lexical_score": 77.78,
+      "stage2_rerank_score": 77.75,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 80.0,
+        "domain_fit": 85.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "postgresql"
+      ],
+      "audit_justification": "James Williams brings strong experience in Java, Python, Kubernetes, Docker, FastAPI, Redis, and AWS, aligning well with the core requirements of the Senior Backend & Distributed Systems Engineer role. However, the resume lacks explicit experience with PostgreSQL and Kafka, which are critical for the position, and there is no mention of Kafka queue design or PostgreSQL database scaling. Overall, he is a solid candidate with some gaps that could be addressed through targeted learning or on-the-job exposure.",
+      "security_flag": false
+    },
+    {
+      "rank": 19,
+      "candidate_id": "CAND_014",
+      "file_name": "c1_senior_014.txt",
+      "inferred_name": "Candidate: Neha Sharma (Senior Specialis",
+      "final_score": 73.55,
+      "stage1_dense_score": 89.39,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 70.0,
+      "rubric_breakdown": {
+        "technical_depth": 70.0,
+        "experience_relevance": 65.0,
+        "domain_fit": 75.0,
+        "education_certs": 80.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "java",
+        "kubernetes"
+      ],
+      "audit_justification": "Neha Sharma brings solid experience and a strong skill set in AWS, FastAPI, PostgreSQL, and Redis, aligning well with the core requirements. However, the absence of Java and Kubernetes—critical for this senior role—creates a notable gap that could limit her effectiveness in the full stack of responsibilities. Overall, she is a promising candidate but would need to demonstrate proficiency in the missing technologies to fully meet the job’s expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 20,
+      "candidate_id": "CAND_012",
+      "file_name": "c1_senior_012.txt",
+      "inferred_name": "Candidate: Rohan Johnson (Senior Special",
+      "final_score": 72.44,
+      "stage1_dense_score": 89.1,
+      "stage1_lexical_score": 66.67,
+      "stage2_rerank_score": 68.5,
+      "rubric_breakdown": {
+        "technical_depth": 75.0,
+        "experience_relevance": 60.0,
+        "domain_fit": 70.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "kubernetes",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "java",
+        "postgresql"
+      ],
+      "audit_justification": "Rohan Johnson brings strong experience in Python, Kafka, and distributed systems, with solid tenure and proven impact on throughput. However, the absence of Java and PostgreSQL experience limits full alignment with the senior backend role’s core stack, and the resume lacks depth on CI/CD tooling and monitoring practices. Overall, he is a solid candidate but would need to demonstrate proficiency in the missing key technologies to fully meet the job’s requirements.",
+      "security_flag": false
+    },
+    {
+      "rank": 21,
+      "candidate_id": "CAND_050",
+      "file_name": "c3_stuffer_050.txt",
+      "inferred_name": "Candidate: Deepak Choudhury (Junior Trai",
+      "final_score": 55.21,
+      "stage1_dense_score": 89.84,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 40.5,
+      "rubric_breakdown": {
+        "technical_depth": 50.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 70.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Deepak Choudhury demonstrates a broad skill set aligned with the technical requirements of the Senior Backend & Distributed Systems Engineer role, including Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, and Prometheus. However, the candidate’s professional experience is limited to 1.3 years as a trainee intern, falling short of the 4+ years minimum tenure specified in the job description. Additionally, the educational background is a diploma rather than a bachelor’s or master’s degree, which may not meet the preferred qualifications for a senior-level position. While the candidate shows potential and a willingness to learn, the lack of substantial industry experience and depth of hands‑on project ownership makes them less suitable for a senior role at this time.",
+      "security_flag": false
+    },
+    {
+      "rank": 22,
+      "candidate_id": "CAND_067",
+      "file_name": "c3_stuffer_067.txt",
+      "inferred_name": "Candidate: Emily Rao (Junior Trainee / F",
+      "final_score": 54.97,
+      "stage1_dense_score": 90.4,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 40.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 80.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Emily Rao demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, but her 1.4 years of experience falls short of the 4‑year minimum. The resume lists many relevant technologies, yet lacks evidence of leading or architecting production‑grade services, which limits her suitability for a senior position. Her educational background is a diploma, which may be acceptable but does not compensate for the significant experience gap.",
+      "security_flag": false
+    },
+    {
+      "rank": 23,
+      "candidate_id": "CAND_054",
+      "file_name": "c3_stuffer_054.txt",
+      "inferred_name": "Candidate: Neha Patel (Junior Trainee / ",
+      "final_score": 53.83,
+      "stage1_dense_score": 89.06,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 38.75,
+      "rubric_breakdown": {
+        "technical_depth": 35.0,
+        "experience_relevance": 25.0,
+        "domain_fit": 80.0,
+        "education_certs": 40.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Neha Patel demonstrates a broad skill set that aligns with the technical requirements of the role, but her single year of experience falls short of the 4‑year minimum and her résumé lacks concrete evidence of depth or leadership in backend or distributed systems. The resume also appears to be a keyword‑heavy list with minimal context, suggesting limited hands‑on impact. Overall, she would be better suited for a junior or trainee position rather than a senior engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 24,
+      "candidate_id": "CAND_060",
+      "file_name": "c3_stuffer_060.txt",
+      "inferred_name": "Candidate: Priya Nair (Junior Trainee / ",
+      "final_score": 52.78,
+      "stage1_dense_score": 89.96,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 37.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Priya Nair demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, including Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, her experience is limited to 1.1 years as a trainee intern, falling short of the 4+ year minimum tenure specified in the job description. While her knowledge base is extensive, the lack of substantial hands‑on production experience and depth in system design and architecture reduces her suitability for a senior position at this time.",
+      "security_flag": false
+    },
+    {
+      "rank": 25,
+      "candidate_id": "CAND_049",
+      "file_name": "c3_stuffer_049.txt",
+      "inferred_name": "Candidate: Neha Verma (Junior Trainee / ",
+      "final_score": 52.66,
+      "stage1_dense_score": 89.34,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 37.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Neha demonstrates a broad skill set aligned with the required technologies, yet her professional experience is limited to 1.5 years as a trainee, falling short of the 4‑year minimum for a senior role. While she has exposure to key tools like Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS, the depth and leadership impact expected for a senior engineer are not evident. The resume also lacks evidence of designing or scaling production‑grade services, which is central to the position.",
+      "security_flag": false
+    },
+    {
+      "rank": 26,
+      "candidate_id": "CAND_053",
+      "file_name": "c3_stuffer_053.txt",
+      "inferred_name": "Candidate: Elena Sharma (Junior Trainee ",
+      "final_score": 52.5,
+      "stage1_dense_score": 90.3,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 36.5,
+      "rubric_breakdown": {
+        "technical_depth": 50.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 60.0,
+        "education_certs": 40.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Elena demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, yet her experience is only 0.5 years, falling far short of the 4‑year minimum. The resume appears to list many technologies without depth or demonstrable project ownership, suggesting keyword stuffing rather than substantive expertise. Consequently, while her technical breadth is promising, the lack of tenure and concrete achievements severely limits her fit for a senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 27,
+      "candidate_id": "CAND_058",
+      "file_name": "c3_stuffer_058.txt",
+      "inferred_name": "Candidate: Aarav Reddy (Junior Trainee /",
+      "final_score": 52.08,
+      "stage1_dense_score": 89.96,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 36.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 80.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Aarav Reddy demonstrates a broad skill set that aligns well with the technical requirements of the Senior Backend & Distributed Systems Engineer role, covering key technologies such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, the candidate’s tenure of only 1.2 years falls significantly short of the 4+ year experience threshold, raising concerns about their depth of real‑world system design and production‑grade service delivery. While the resume lists many relevant tools, the lack of substantive project details and limited experience suggest a junior level rather than a senior engineer.",
+      "security_flag": false
+    },
+    {
+      "rank": 28,
+      "candidate_id": "CAND_069",
+      "file_name": "c3_stuffer_069.txt",
+      "inferred_name": "Candidate: Kavita Brown (Junior Trainee ",
+      "final_score": 52.03,
+      "stage1_dense_score": 89.69,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 36.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 80.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Kavita Brown demonstrates a broad skill set that aligns with many of the technical requirements for the Senior Backend & Distributed Systems Engineer role, including Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, her professional experience is limited to 0.7 years as a trainee intern, falling significantly short of the 4+ years of senior-level experience mandated by the job description. The resume also lacks evidence of depth in system design, architecture, and production‑grade service delivery, which are critical for a senior position. Consequently, while her skill inventory is impressive, the lack of substantive experience and demonstrated depth makes her a poor fit for this senior role at this time.",
+      "security_flag": false
+    },
+    {
+      "rank": 29,
+      "candidate_id": "CAND_065",
+      "file_name": "c3_stuffer_065.txt",
+      "inferred_name": "Candidate: Michael Johnson (Junior Train",
+      "final_score": 52.0,
+      "stage1_dense_score": 89.55,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 36.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 80.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Michael Johnson demonstrates a strong skill set that aligns with the core technical requirements of the Senior Backend & Distributed Systems Engineer role, including proficiency in Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, his experience is limited to only one year as a trainee intern, falling short of the 4+ years seniority expected for this position. Additionally, while he lists many advanced technologies, the depth and practical application of these skills appear superficial, suggesting he may not yet possess the seasoned expertise required for a senior engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 30,
+      "candidate_id": "CAND_072",
+      "file_name": "c3_stuffer_072.txt",
+      "inferred_name": "Candidate: Elena Gupta (Junior Trainee /",
+      "final_score": 51.39,
+      "stage1_dense_score": 90.02,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 35.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Elena Gupta demonstrates a broad skill set aligned with the technical requirements of the Senior Backend & Distributed Systems Engineer role, including Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, her professional experience is limited to 1.3 years as a trainee intern, falling short of the 4+ years minimum tenure specified in the job description. Additionally, her educational background is a diploma rather than a bachelor's or higher degree, which may not meet the preferred qualifications for a senior-level position. While her technical knowledge appears comprehensive, the lack of substantial hands‑on experience in designing and maintaining production‑grade services, as well as the absence of a senior‑level track record, significantly reduces her fit for this role.",
+      "security_flag": false
+    },
+    {
+      "rank": 31,
+      "candidate_id": "CAND_059",
+      "file_name": "c3_stuffer_059.txt",
+      "inferred_name": "Candidate: Deepak Johnson (Junior Traine",
+      "final_score": 51.36,
+      "stage1_dense_score": 89.84,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 35.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 80.0,
+        "education_certs": 40.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Deepak Johnson demonstrates a broad skill set that aligns with many of the required technologies, but his 1.4‑year tenure falls short of the 4‑year minimum, limiting his readiness for a senior role. The résumé reads like a keyword list with minimal evidence of hands‑on project ownership or architectural impact, suggesting limited depth in system design and production‑grade engineering. While he has exposure to core tools, the lack of demonstrable senior‑level experience and depth in distributed systems reduces his fit for this position.",
+      "security_flag": false
+    },
+    {
+      "rank": 32,
+      "candidate_id": "CAND_071",
+      "file_name": "c3_stuffer_071.txt",
+      "inferred_name": "Candidate: Aarav Williams (Junior Traine",
+      "final_score": 51.2,
+      "stage1_dense_score": 89.04,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 35.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Aarav Williams demonstrates a broad skill set aligned with the technical requirements of the Senior Backend & Distributed Systems Engineer role, listing all mandatory technologies such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, the candidate’s professional experience is limited to a single year as a trainee intern, falling short of the 4‑year minimum tenure specified in the job description. Additionally, the educational background is a diploma rather than a bachelor’s or master’s degree, which may not meet the preferred qualifications for a senior-level position. While the resume showcases familiarity with many relevant tools and concepts, the lack of substantial project ownership, depth of architectural experience, and proven track record in production‑grade service design reduce confidence in the candidate’s readiness for a senior role.",
+      "security_flag": false
+    },
+    {
+      "rank": 33,
+      "candidate_id": "CAND_046",
+      "file_name": "c3_stuffer_046.txt",
+      "inferred_name": "Candidate: Neha Williams (Junior Trainee",
+      "final_score": 50.77,
+      "stage1_dense_score": 88.67,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 34.5,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 70.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Neha demonstrates a broad skill set that aligns with the technical requirements of the role, but her 1.2‑year tenure falls short of the 4‑year minimum, limiting her readiness for senior responsibilities. The resume lists many relevant technologies, yet the lack of concrete project outcomes or leadership experience suggests shallow depth. Overall, she would be better suited for a junior or mid‑level position rather than a senior engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 34,
+      "candidate_id": "CAND_075",
+      "file_name": "c3_stuffer_075.txt",
+      "inferred_name": "Candidate: Neha Choudhury (Junior Traine",
+      "final_score": 50.33,
+      "stage1_dense_score": 89.95,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 33.5,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 70.0,
+        "education_certs": 40.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Neha demonstrates a broad skill set that aligns with the technical requirements of the role, but her 1.4‑year tenure falls short of the 4‑year minimum for a senior position. The resume indicates exposure rather than deep, production‑level experience, and her educational background is a diploma rather than a degree or advanced certification. Consequently, while she could be a strong candidate for a junior or mid‑level role, she does not meet the senior experience threshold.",
+      "security_flag": false
+    },
+    {
+      "rank": 35,
+      "candidate_id": "CAND_074",
+      "file_name": "c3_stuffer_074.txt",
+      "inferred_name": "Candidate: Priya Rao (Junior Trainee / F",
+      "final_score": 50.09,
+      "stage1_dense_score": 90.51,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 33.0,
+      "rubric_breakdown": {
+        "technical_depth": 35.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Priya Rao demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, covering key technologies such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, her experience is limited to 1.1 years in a trainee/intern capacity, falling short of the 4+ years of senior-level experience mandated by the job description. Additionally, her educational background is a diploma rather than a bachelor’s or master’s degree, which further reduces her fit for a senior position. While her enthusiasm and wide-ranging skill inventory are promising, the lack of substantive project ownership and depth in system design and architecture makes her current profile more suitable for a junior or mid-level role rather than the senior level sought.",
+      "security_flag": false
+    },
+    {
+      "rank": 36,
+      "candidate_id": "CAND_064",
+      "file_name": "c3_stuffer_064.txt",
+      "inferred_name": "Candidate: James Choudhury (Junior Train",
+      "final_score": 49.94,
+      "stage1_dense_score": 89.78,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 33.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "James Choudhury demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role. However, his experience is limited to 1.1 years as a trainee, falling short of the 4+ year minimum and lacking demonstrable depth in designing production‑grade services. The resume also reads like a keyword‑filled list rather than evidence of real-world impact, which raises concerns about readiness for a senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 37,
+      "candidate_id": "CAND_051",
+      "file_name": "c3_stuffer_051.txt",
+      "inferred_name": "Candidate: Rohan Kulkarni (Junior Traine",
+      "final_score": 49.82,
+      "stage1_dense_score": 90.89,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 32.5,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 70.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Rohan Kulkarni demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, covering all mandatory technologies such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, the candidate’s professional experience is limited to 0.7 years as a trainee intern, falling significantly short of the 4+ years of senior-level experience expected for this position. Additionally, the educational background is a diploma rather than a bachelor’s or master’s degree, which further reduces the fit for a senior role that typically requires a higher level of formal education. The resume also lacks concrete project outcomes, performance metrics, or evidence of leadership in designing and scaling production systems, indicating a shallow depth of technical expertise. Consequently, while the skill set is technically adequate, the overall experience and depth do not meet the senior-level expectations of the role.",
+      "security_flag": false
+    },
+    {
+      "rank": 38,
+      "candidate_id": "CAND_066",
+      "file_name": "c3_stuffer_066.txt",
+      "inferred_name": "Candidate: Fatima Williams (Junior Train",
+      "final_score": 49.76,
+      "stage1_dense_score": 88.86,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 33.0,
+      "rubric_breakdown": {
+        "technical_depth": 35.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 60.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Candidate demonstrates familiarity with many required technologies but lacks the 4+ years of senior-level experience and depth of architectural responsibility. The resume lists numerous skills without evidence of hands‑on production deployments or leadership. Overall, the profile is more suited to a junior or trainee role rather than a senior backend engineer.",
+      "security_flag": false
+    },
+    {
+      "rank": 39,
+      "candidate_id": "CAND_061",
+      "file_name": "c3_stuffer_061.txt",
+      "inferred_name": "Candidate: Elena Johnson (Junior Trainee",
+      "final_score": 49.47,
+      "stage1_dense_score": 90.02,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 32.25,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 55.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Elena demonstrates a broad skill set but only 1.4 years of experience, falling short of the 4‑year senior threshold. Her résumé lists many technologies without concrete project details or evidence of architectural ownership, limiting confidence in her depth. The lack of a formal degree or advanced credentials further weakens her fit for a senior role.",
+      "security_flag": false
+    },
+    {
+      "rank": 40,
+      "candidate_id": "CAND_052",
+      "file_name": "c3_stuffer_052.txt",
+      "inferred_name": "Candidate: Vikram Smith (Junior Trainee ",
+      "final_score": 48.91,
+      "stage1_dense_score": 89.87,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 31.5,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 60.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Vikram demonstrates a broad skill set that aligns with the technical requirements, yet his experience is limited to a 0.6‑year internship, falling far short of the 4‑year minimum. The resume lists many relevant technologies, but the depth and real‑world application of these skills remain unclear. Without substantive project ownership or proven production deployments, the candidate is unlikely to meet the senior role’s expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 41,
+      "candidate_id": "CAND_073",
+      "file_name": "c3_stuffer_073.txt",
+      "inferred_name": "Candidate: Michael Patel (Junior Trainee",
+      "final_score": 48.11,
+      "stage1_dense_score": 89.38,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 30.5,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 50.0,
+        "education_certs": 40.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Michael Patel demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, including Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, his experience is limited to 1.1 years as a trainee, falling short of the 4+ years seniority expected for this position. The resume lacks concrete project details, architectural decisions, or measurable impact, which diminishes confidence in his depth of technical expertise and ability to independently design and maintain production-grade services. Consequently, while his skill inventory is comprehensive, the lack of senior-level experience and contextual depth makes him an unsuitable fit for this senior role.",
+      "security_flag": false
+    },
+    {
+      "rank": 42,
+      "candidate_id": "CAND_068",
+      "file_name": "c3_stuffer_068.txt",
+      "inferred_name": "Candidate: Sarah Nair (Junior Trainee / ",
+      "final_score": 47.95,
+      "stage1_dense_score": 90.32,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 30.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 50.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Sarah Nair demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, covering key technologies such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. However, her experience is limited to 0.9 years as a trainee intern, falling significantly short of the 4+ years minimum tenure specified in the job description. Additionally, her educational background is a diploma rather than a bachelor’s or master’s degree, which further reduces her fit for a senior-level position. While her enthusiasm and knowledge breadth are promising, the lack of substantial professional experience and advanced credentials make her unsuitable for this senior role at this time.",
+      "security_flag": false
+    },
+    {
+      "rank": 43,
+      "candidate_id": "CAND_057",
+      "file_name": "c3_stuffer_057.txt",
+      "inferred_name": "Candidate: Ananya Williams (Junior Train",
+      "final_score": 47.84,
+      "stage1_dense_score": 89.77,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 30.0,
+      "rubric_breakdown": {
+        "technical_depth": 40.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 50.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Ananya Williams demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, listing key technologies such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, and Prometheus. However, the résumé lacks depth in terms of real-world project experience, concrete achievements, and measurable impact. The candidate’s tenure of only 0.8 years falls significantly short of the 4‑year minimum experience requirement, and the educational background is limited to a diploma rather than a bachelor’s or master’s degree. Consequently, while the skill inventory is comprehensive, the overall fit is weak due to insufficient experience and depth, making the candidate more suitable for an entry‑level or junior role rather than a senior engineering position.",
+      "security_flag": false
+    },
+    {
+      "rank": 44,
+      "candidate_id": "CAND_055",
+      "file_name": "c3_stuffer_055.txt",
+      "inferred_name": "Candidate: Kavita Rao (Junior Trainee / ",
+      "final_score": 46.12,
+      "stage1_dense_score": 89.91,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 27.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 50.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Kavita Rao demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, including Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, and Prometheus. However, the resume indicates only 1 year of professional experience as a trainee intern, falling short of the 4+ years minimum tenure specified in the job description. Additionally, while the candidate lists many relevant technologies, the depth of hands‑on, production‑grade experience appears limited, and the educational background is a diploma rather than a bachelor’s or master’s degree. Consequently, the candidate is not a strong fit for a senior‑level position that requires proven architectural leadership and extensive system‑design expertise.",
+      "security_flag": false
+    },
+    {
+      "rank": 45,
+      "candidate_id": "CAND_047",
+      "file_name": "c3_stuffer_047.txt",
+      "inferred_name": "Candidate: Aditya Mukherjee (Junior Trai",
+      "final_score": 44.47,
+      "stage1_dense_score": 90.41,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 25.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 30.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Aditya Mukherjee demonstrates a broad skill set that aligns with the technical requirements of the Senior Backend & Distributed Systems Engineer role, yet his experience is limited to 0.8 years, falling short of the 4+ year minimum. While he lists many relevant technologies, the lack of substantive project experience and depth in system design reduces confidence in his ability to independently architect production-grade services. The resume appears to be keyword‑heavy with minimal concrete achievements, indicating a need for more detailed evidence of hands‑on expertise.",
+      "security_flag": false
+    },
+    {
+      "rank": 46,
+      "candidate_id": "CAND_056",
+      "file_name": "c3_stuffer_056.txt",
+      "inferred_name": "Candidate: Elena Kulkarni (Junior Traine",
+      "final_score": 43.72,
+      "stage1_dense_score": 90.15,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 24.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 30.0,
+        "education_certs": 40.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Elena Kulkarni demonstrates familiarity with many of the required technologies, but her experience is limited to a single year as a trainee, falling short of the 4‑year minimum for a senior role. The resume lists numerous skills without concrete project details or evidence of system‑level design, indicating a lack of depth needed for a senior backend engineer. Overall, she is not a strong fit for this position at the senior level.",
+      "security_flag": false
+    },
+    {
+      "rank": 47,
+      "candidate_id": "CAND_021",
+      "file_name": "c2_mid_021.txt",
+      "inferred_name": "Candidate: Vikram Reddy (Associate Devel",
+      "final_score": 43.7,
+      "stage1_dense_score": 84.26,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 32.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 40.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "fastapi",
+        "kubernetes",
+        "postgresql",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "java",
+        "redis"
+      ],
+      "audit_justification": "Vikram Reddy has a solid foundation in Python and FastAPI, but lacks critical experience with Java, Docker, AWS, Redis, and Kafka—core requirements for the Senior Backend role. His 3.1 years of tenure falls short of the 4-year minimum, and the resume does not demonstrate the depth of distributed systems or CI/CD expertise needed. Overall, he is not a strong fit for this senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 48,
+      "candidate_id": "CAND_036",
+      "file_name": "c2_mid_036.txt",
+      "inferred_name": "Candidate: David Iyer (Associate Develop",
+      "final_score": 43.17,
+      "stage1_dense_score": 85.42,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 32.5,
+      "rubric_breakdown": {
+        "technical_depth": 35.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "fastapi",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python"
+      ],
+      "audit_justification": "David Iyer demonstrates familiarity with several core technologies such as FastAPI, Redis, Kafka, and AWS, but lacks experience with key mandatory skills like Java, Docker, Kubernetes, and PostgreSQL. His 2.1 years of professional experience falls short of the 4+ year requirement, limiting his readiness for a senior role that demands proven architectural and scalability expertise. While his educational background is solid, the overall depth and breadth of his technical skill set do not align closely enough with the senior backend and distributed systems responsibilities outlined in the job description.",
+      "security_flag": false
+    },
+    {
+      "rank": 49,
+      "candidate_id": "CAND_025",
+      "file_name": "c2_mid_025.txt",
+      "inferred_name": "Candidate: Elena Smith (Associate Develo",
+      "final_score": 43.11,
+      "stage1_dense_score": 86.56,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 30.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 30.0,
+        "domain_fit": 20.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java"
+      ],
+      "audit_justification": "Elena Smith demonstrates foundational backend skills with Python, PostgreSQL, Kubernetes, and Redis, but lacks critical experience in Java, Docker, FastAPI, Kafka, and AWS required for a senior role. Her 2.5 years of tenure falls short of the 4+ year minimum, limiting her readiness for complex distributed system design. The resume also omits evidence of CI/CD, monitoring, and large-scale architecture work, reducing confidence in her fit for the senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 50,
+      "candidate_id": "CAND_029",
+      "file_name": "c2_mid_029.txt",
+      "inferred_name": "Candidate: Michael Gupta (Associate Deve",
+      "final_score": 42.85,
+      "stage1_dense_score": 85.28,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 30.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 30.0,
+        "domain_fit": 20.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "kubernetes",
+        "postgresql",
+        "python"
+      ],
+      "audit_justification": "Michael Gupta demonstrates foundational experience with Java, Docker, FastAPI, and Redis, but lacks the critical skills and depth required for a Senior Backend & Distributed Systems Engineer role. His 2.7‑year tenure falls short of the 4‑year minimum, and he does not show evidence of working with Python, Kubernetes, PostgreSQL, Kafka, or AWS—core components of the position. Additionally, the resume provides limited context on architectural responsibilities, CI/CD practices, or performance optimization, indicating a mismatch in technical depth and domain fit.",
+      "security_flag": false
+    },
+    {
+      "rank": 51,
+      "candidate_id": "CAND_031",
+      "file_name": "c2_mid_031.txt",
+      "inferred_name": "Candidate: Kavita Mukherjee (Associate D",
+      "final_score": 42.56,
+      "stage1_dense_score": 85.89,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 31.5,
+      "rubric_breakdown": {
+        "technical_depth": 35.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 60.0
+      },
+      "matched_skills": [
+        "aws",
+        "kubernetes",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Kavita Mukherjee has a modest 2.4‑year background and demonstrates familiarity with AWS, Kubernetes, Python, and Kafka, but falls short of the 4‑year minimum and lacks several core requirements such as Java, Docker, PostgreSQL, FastAPI, and Redis. The résumé offers limited detail on architectural responsibilities or performance‑scaling work, suggesting a shallow technical depth for a senior role. Overall, the candidate does not meet the key experience or skill criteria for this senior backend position.",
+      "security_flag": false
+    },
+    {
+      "rank": 52,
+      "candidate_id": "CAND_040",
+      "file_name": "c2_mid_040.txt",
+      "inferred_name": "Candidate: Fatima Reddy (Associate Devel",
+      "final_score": 42.07,
+      "stage1_dense_score": 84.87,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 29.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 30.0,
+        "domain_fit": 20.0,
+        "education_certs": 60.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "java",
+        "kubernetes",
+        "postgresql"
+      ],
+      "audit_justification": "Fatima Reddy demonstrates foundational experience with Python, Docker, FastAPI, and Redis, but falls short of the senior-level expectations for a 4+ year tenure and lacks critical skills such as Java, Kubernetes, PostgreSQL, Kafka, and AWS. Her résumé reflects limited depth in distributed system design and automation, with only basic test suites and bug‑fix work noted. Consequently, while her educational background is solid, the overall fit for the Senior Backend & Distributed Systems Engineer role is modest.",
+      "security_flag": false
+    },
+    {
+      "rank": 53,
+      "candidate_id": "CAND_033",
+      "file_name": "c2_mid_033.txt",
+      "inferred_name": "Candidate: Aarav Nair (Associate Develop",
+      "final_score": 41.98,
+      "stage1_dense_score": 86.5,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 30.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 30.0,
+        "domain_fit": 20.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "java",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "kubernetes",
+        "postgresql"
+      ],
+      "audit_justification": "Aarav Nair has a modest 2.4‑year background and a limited skill set that covers only a subset of the required technologies. The resume lacks evidence of experience with Kubernetes, Docker, PostgreSQL, FastAPI, or AWS, and the depth of work described is shallow. Consequently, the candidate does not meet the senior‑level expectations of the role.",
+      "security_flag": false
+    },
+    {
+      "rank": 54,
+      "candidate_id": "CAND_034",
+      "file_name": "c2_mid_034.txt",
+      "inferred_name": "Candidate: Aarav Patel (Associate Develo",
+      "final_score": 41.98,
+      "stage1_dense_score": 84.75,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 31.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 40.0,
+        "education_certs": 60.0
+      },
+      "matched_skills": [
+        "aws",
+        "kubernetes",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Aarav Patel brings a solid foundation in AWS, Kubernetes, and Python, but falls short of the 4‑year seniority threshold and lacks key stack components such as Java, Docker, PostgreSQL, FastAPI, and Redis. His experience appears limited to bug fixes and basic test suites rather than designing resilient microservices or managing Kafka queues. Consequently, while he shows potential, he does not yet meet the depth and breadth required for this senior role.",
+      "security_flag": false
+    },
+    {
+      "rank": 55,
+      "candidate_id": "CAND_022",
+      "file_name": "c2_mid_022.txt",
+      "inferred_name": "Candidate: Neha Verma (Associate Develop",
+      "final_score": 41.65,
+      "stage1_dense_score": 86.26,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 28.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "java",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "python"
+      ],
+      "audit_justification": "Neha Verma demonstrates foundational backend skills but falls short of the 4+ year senior-level experience required. Her skill set lacks critical technologies such as Python, FastAPI, Docker, AWS, and Kafka, limiting her fit for the role’s microservices and distributed systems focus. The resume also provides minimal evidence of architectural design or CI/CD implementation, indicating limited depth for a senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 56,
+      "candidate_id": "CAND_042",
+      "file_name": "c2_mid_042.txt",
+      "inferred_name": "Candidate: Rohan Mukherjee (Associate De",
+      "final_score": 41.45,
+      "stage1_dense_score": 85.27,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 28.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "java",
+        "kubernetes",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Rohan Mukherjee demonstrates foundational backend skills with Python, Java, Kubernetes, and AWS, but lacks critical experience with Docker, FastAPI, PostgreSQL, Redis, and Kafka required for the Senior role. His 2.9‑year tenure falls short of the 4‑year minimum, and his responsibilities appear limited to bug fixes rather than designing resilient microservices. Overall, he is not a strong fit for this senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 57,
+      "candidate_id": "CAND_062",
+      "file_name": "c3_stuffer_062.txt",
+      "inferred_name": "Candidate: David Mukherjee (Junior Train",
+      "final_score": 41.33,
+      "stage1_dense_score": 90.44,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 20.5,
+      "rubric_breakdown": {
+        "technical_depth": 15.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 60.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "David Mukherjee’s résumé lists many of the mandatory technical skills, but the role demands 4+ years of hands‑on experience building production‑grade services. With only 0.6 years as a trainee and a diploma rather than a bachelor’s or master’s degree, the candidate falls short on both tenure and formal credentials. The skill list appears largely keyword‑heavy with little evidence of deep, real‑world application or architectural ownership. Consequently, while the skill match is moderate, the overall fit for a senior backend and distributed systems engineer is weak.",
+      "security_flag": false
+    },
+    {
+      "rank": 58,
+      "candidate_id": "CAND_028",
+      "file_name": "c2_mid_028.txt",
+      "inferred_name": "Candidate: Sarah Smith (Associate Develo",
+      "final_score": 40.71,
+      "stage1_dense_score": 87.14,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 28.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "kubernetes",
+        "postgresql"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Sarah Smith demonstrates foundational experience with AWS, Kubernetes, PostgreSQL, and Kafka, but falls short of the 4+ year senior-level requirement and lacks critical skills such as Python, Java, Docker, FastAPI, and Redis. Her resume also provides limited evidence of designing resilient microservices or implementing CI/CD pipelines, which are core to the role. Overall, she does not meet the minimum tenure or depth of technical expertise expected for this senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 59,
+      "candidate_id": "CAND_026",
+      "file_name": "c2_mid_026.txt",
+      "inferred_name": "Candidate: Priya Smith (Associate Develo",
+      "final_score": 40.66,
+      "stage1_dense_score": 86.89,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 28.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "fastapi",
+        "kubernetes",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "java",
+        "postgresql",
+        "python"
+      ],
+      "audit_justification": "Priya Smith demonstrates familiarity with several key technologies such as FastAPI, Kubernetes, Redis, and Kafka, but lacks experience with core requirements like Python, Java, Docker, PostgreSQL, and AWS. With only 2 years of professional experience, she falls short of the 4‑year minimum tenure specified for the Senior role, limiting her readiness for the responsibilities of designing resilient microservices and scalable databases. While her educational background is solid, the depth and breadth of her technical skill set do not fully align with the senior-level expectations of the position.",
+      "security_flag": false
+    },
+    {
+      "rank": 60,
+      "candidate_id": "CAND_070",
+      "file_name": "c3_stuffer_070.txt",
+      "inferred_name": "Candidate: Aditya Patel (Junior Trainee ",
+      "final_score": 40.65,
+      "stage1_dense_score": 90.55,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 19.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 20.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Aditya Patel’s résumé demonstrates familiarity with many of the required technologies, yet the experience is limited to a 0.6‑year internship and lacks demonstrable project ownership or architectural responsibility. The résumé also contains a long list of buzzwords without concrete examples of implementation or impact, which reduces confidence in the depth of expertise. Additionally, the educational background is a diploma rather than a bachelor’s or master’s degree, and the tenure falls well below the 4‑year minimum specified in the job description. Consequently, the candidate does not meet the core seniority and experience criteria for this role.",
+      "security_flag": false
+    },
+    {
+      "rank": 61,
+      "candidate_id": "CAND_048",
+      "file_name": "c3_stuffer_048.txt",
+      "inferred_name": "Candidate: Neha Iyer (Junior Trainee / F",
+      "final_score": 40.52,
+      "stage1_dense_score": 89.02,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 19.75,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 35.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Neha Iyer demonstrates a broad skill set that aligns with the technical requirements of the role, but her experience is limited to 0.6 years, falling far short of the 4+ year minimum. The resume appears to be a keyword‑heavy list with little evidence of hands‑on project ownership or depth in distributed systems. Without demonstrable senior‑level experience or concrete achievements, she would not be a strong fit for a senior engineering position.",
+      "security_flag": false
+    },
+    {
+      "rank": 62,
+      "candidate_id": "CAND_038",
+      "file_name": "c2_mid_038.txt",
+      "inferred_name": "Candidate: Michael Kulkarni (Associate D",
+      "final_score": 39.17,
+      "stage1_dense_score": 86.42,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 26.5,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 20.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "kubernetes",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Michael Kulkarni has a solid foundation in Kubernetes and Python, but his 3.3 years of experience fall short of the 4+ year requirement for a Senior Backend & Distributed Systems Engineer. He lacks key technical competencies such as Docker, FastAPI, Java, PostgreSQL, and Redis, which are critical for the role. While his education is solid, the overall fit is limited by both tenure and skill gaps.",
+      "security_flag": false
+    },
+    {
+      "rank": 63,
+      "candidate_id": "CAND_024",
+      "file_name": "c2_mid_024.txt",
+      "inferred_name": "Candidate: Aditya Nair (Associate Develo",
+      "final_score": 38.61,
+      "stage1_dense_score": 83.35,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 25.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 40.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "docker",
+        "fastapi",
+        "java",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Aditya Nair demonstrates solid experience with Java, Python, Docker, and FastAPI, but falls short of the 4‑year minimum and lacks key technologies such as Kubernetes, PostgreSQL, Redis, and Kafka required for the Senior Backend & Distributed Systems Engineer role. The resume also lacks evidence of designing resilient microservices or implementing CI/CD pipelines, which are critical for this position. Overall, the candidate does not meet the core experience and technical depth expectations for this senior role.",
+      "security_flag": false
+    },
+    {
+      "rank": 64,
+      "candidate_id": "CAND_063",
+      "file_name": "c3_stuffer_063.txt",
+      "inferred_name": "Candidate: Kavita Nair (Junior Trainee /",
+      "final_score": 37.62,
+      "stage1_dense_score": 89.4,
+      "stage1_lexical_score": 88.89,
+      "stage2_rerank_score": 15.5,
+      "rubric_breakdown": {
+        "technical_depth": 15.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 20.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd"
+      ],
+      "audit_justification": "Kavita Nair demonstrates a broad list of technical keywords but lacks substantive project experience or depth in backend and distributed systems architecture. The resume lists many relevant technologies, yet the only professional role is a 1.1‑year trainee internship with no evidence of designing or deploying production‑grade services, monitoring, or CI/CD pipelines. The candidate’s education is a diploma, which does not meet typical senior‑level expectations. Overall, the profile falls short of the 4‑year minimum tenure and the depth required for a Senior Backend & Distributed Systems Engineer.",
+      "security_flag": false
+    },
+    {
+      "rank": 65,
+      "candidate_id": "CAND_035",
+      "file_name": "c2_mid_035.txt",
+      "inferred_name": "Candidate: Michael Choudhury (Associate ",
+      "final_score": 37.14,
+      "stage1_dense_score": 86.78,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 23.5,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes"
+      ],
+      "audit_justification": "Michael Choudhury has a solid foundation in Python, PostgreSQL, Redis, and Kafka, but lacks critical experience with Java, Kubernetes, Docker, FastAPI, and AWS—core requirements for the Senior Backend & Distributed Systems Engineer role. His 3.3 years of tenure falls short of the 4+ year minimum, and his responsibilities appear limited to bug fixes and basic test suites rather than designing resilient microservices or managing CI/CD pipelines. Consequently, he does not meet the minimum tenure or technical depth needed for this senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 66,
+      "candidate_id": "CAND_043",
+      "file_name": "c2_mid_043.txt",
+      "inferred_name": "Candidate: Sarah Nair (Associate Develop",
+      "final_score": 35.62,
+      "stage1_dense_score": 86.18,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 21.5,
+      "rubric_breakdown": {
+        "technical_depth": 25.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "docker",
+        "java",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "fastapi",
+        "kubernetes",
+        "postgresql",
+        "python"
+      ],
+      "audit_justification": "Sarah Nair demonstrates foundational backend skills with Java, Docker, Redis, and Kafka, but lacks critical experience in Python, Kubernetes, PostgreSQL, FastAPI, and AWS—core requirements for the Senior Backend & Distributed Systems Engineer role. Additionally, her 2.6‑year tenure falls short of the 4‑year minimum, limiting her suitability for a senior position that demands proven design and scaling expertise. The résumé also offers minimal depth on system architecture or CI/CD practices, further reducing confidence in her ability to meet the role’s responsibilities.",
+      "security_flag": false
+    },
+    {
+      "rank": 67,
+      "candidate_id": "CAND_023",
+      "file_name": "c2_mid_023.txt",
+      "inferred_name": "Candidate: Fatima Brown (Associate Devel",
+      "final_score": 35.49,
+      "stage1_dense_score": 86.96,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 19.5,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "kubernetes",
+        "postgresql"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "fastapi",
+        "java",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Fatima Brown has a solid foundation in backend technologies but falls short of the 4‑year minimum and lacks several core skills such as Java, FastAPI, Redis, and Kafka. Her experience is limited to basic maintenance and bug fixes, which does not demonstrate the depth required for a senior role. Overall, she would need significant skill and experience growth to meet the position’s expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 68,
+      "candidate_id": "CAND_039",
+      "file_name": "c2_mid_039.txt",
+      "inferred_name": "Candidate: David Choudhury (Associate De",
+      "final_score": 35.39,
+      "stage1_dense_score": 86.49,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 19.5,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "fastapi",
+        "kubernetes",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "java",
+        "postgresql",
+        "python"
+      ],
+      "audit_justification": "David Choudhury demonstrates familiarity with several key technologies (AWS, FastAPI, Kubernetes, Redis) but lacks critical experience with Java, PostgreSQL, Kafka, and the depth of distributed system design expected for a Senior Backend Engineer. His 3.1‑year tenure falls short of the 4‑year minimum, and his résumé provides only surface‑level descriptions of responsibilities, indicating limited exposure to production‑grade microservices and CI/CD pipelines. Consequently, he does not meet the seniority or technical depth required for this role.",
+      "security_flag": false
+    },
+    {
+      "rank": 69,
+      "candidate_id": "CAND_030",
+      "file_name": "c2_mid_030.txt",
+      "inferred_name": "Candidate: Elena Verma (Associate Develo",
+      "final_score": 35.33,
+      "stage1_dense_score": 86.48,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 21.0,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 40.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "java",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "kubernetes",
+        "python"
+      ],
+      "audit_justification": "Elena Verma has a solid foundation in Java and PostgreSQL, but her 3.2 years of experience falls short of the 4+ year requirement for a senior role. She lacks key technical competencies such as Python, Docker, Kubernetes, FastAPI, and AWS, which are critical for the position. Consequently, she would not be a strong fit for this senior backend and distributed systems engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 70,
+      "candidate_id": "CAND_037",
+      "file_name": "c2_mid_037.txt",
+      "inferred_name": "Candidate: Emily Mukherjee (Associate De",
+      "final_score": 35.3,
+      "stage1_dense_score": 86.03,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 19.5,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "docker",
+        "kubernetes",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "fastapi",
+        "java",
+        "postgresql"
+      ],
+      "audit_justification": "Emily Mukherjee has a solid foundation in Python, Kubernetes, Docker, and Redis, but her experience falls short of the 4-year minimum and lacks critical skills such as Java, PostgreSQL, Kafka, and AWS required for the Senior Backend & Distributed Systems Engineer role. Her resume also does not demonstrate proficiency in CI/CD pipelines, FastAPI, or advanced monitoring, which are essential for this position. Consequently, she does not meet the technical depth or tenure expectations for this senior-level role.",
+      "security_flag": false
+    },
+    {
+      "rank": 71,
+      "candidate_id": "CAND_027",
+      "file_name": "c2_mid_027.txt",
+      "inferred_name": "Candidate: James Nair (Associate Develop",
+      "final_score": 35.24,
+      "stage1_dense_score": 85.71,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 19.5,
+      "rubric_breakdown": {
+        "technical_depth": 20.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 30.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "fastapi",
+        "java",
+        "kubernetes"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "docker",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "James Nair has a solid foundation in several core backend technologies, but his experience falls short of the 4‑year minimum and he lacks key required skills such as Docker, PostgreSQL, Python, Redis, and CI/CD tooling. The resume also shows limited depth in distributed systems and asynchronous messaging, which are critical for the role. Overall, he does not meet the primary qualifications for this senior position.",
+      "security_flag": false
+    },
+    {
+      "rank": 72,
+      "candidate_id": "CAND_045",
+      "file_name": "c2_mid_045.txt",
+      "inferred_name": "Candidate: Ananya Mukherjee (Associate D",
+      "final_score": 35.13,
+      "stage1_dense_score": 85.18,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 19.5,
+      "rubric_breakdown": {
+        "technical_depth": 15.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 20.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "aws",
+        "docker",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "ci/cd",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql"
+      ],
+      "audit_justification": "Ananya Mukherjee demonstrates foundational experience with Docker, AWS, Python, and Redis, but falls short of the 4+ year tenure and critical skill set (Java, Kubernetes, PostgreSQL, FastAPI, Kafka) required for the Senior Backend & Distributed Systems Engineer role. Her background appears more aligned with entry‑level or associate developer positions rather than senior architecture responsibilities.",
+      "security_flag": false
+    },
+    {
+      "rank": 73,
+      "candidate_id": "CAND_044",
+      "file_name": "c2_mid_044.txt",
+      "inferred_name": "Candidate: Ananya Verma (Associate Devel",
+      "final_score": 35.05,
+      "stage1_dense_score": 85.07,
+      "stage1_lexical_score": 33.33,
+      "stage2_rerank_score": 21.0,
+      "rubric_breakdown": {
+        "technical_depth": 30.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 20.0,
+        "education_certs": 60.0
+      },
+      "matched_skills": [
+        "fastapi",
+        "kubernetes",
+        "python"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "java",
+        "postgresql",
+        "redis"
+      ],
+      "audit_justification": "Ananya Verma’s profile falls short of the Senior Backend & Distributed Systems Engineer role. With only 3.4 years of experience, she does not meet the 4‑year minimum, and her skill set lacks several core requirements such as Java, Docker, AWS, Redis, and PostgreSQL. While she has exposure to FastAPI, Python, Kubernetes, and Kafka, the depth and breadth of her experience are insufficient for a senior‑level position. Her educational background is solid but does not compensate for the missing technical competencies and tenure.",
+      "security_flag": false
+    },
+    {
+      "rank": 74,
+      "candidate_id": "CAND_041",
+      "file_name": "c2_mid_041.txt",
+      "inferred_name": "Candidate: Emily Brown (Associate Develo",
+      "final_score": 32.73,
+      "stage1_dense_score": 85.44,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 16.0,
+      "rubric_breakdown": {
+        "technical_depth": 15.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 20.0,
+        "education_certs": 70.0
+      },
+      "matched_skills": [
+        "fastapi",
+        "kubernetes",
+        "python",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "java",
+        "postgresql"
+      ],
+      "audit_justification": "Emily Brown demonstrates foundational backend skills with experience in Python, FastAPI, Kubernetes, and Redis, but falls short of the 4‑year seniority threshold and lacks key mandatory technologies such as Java, Docker, PostgreSQL, Kafka, and AWS. Her résumé also provides limited evidence of architectural design, CI/CD, or distributed system expertise, which are critical for the Senior Backend & Distributed Systems Engineer role.",
+      "security_flag": false
+    },
+    {
+      "rank": 75,
+      "candidate_id": "CAND_032",
+      "file_name": "c2_mid_032.txt",
+      "inferred_name": "Candidate: Vikram Patel (Associate Devel",
+      "final_score": 32.27,
+      "stage1_dense_score": 86.62,
+      "stage1_lexical_score": 44.44,
+      "stage2_rerank_score": 15.0,
+      "rubric_breakdown": {
+        "technical_depth": 15.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 20.0,
+        "education_certs": 60.0
+      },
+      "matched_skills": [
+        "docker",
+        "kubernetes",
+        "postgresql",
+        "redis"
+      ],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "fastapi",
+        "java",
+        "python"
+      ],
+      "audit_justification": "Vikram Patel lacks several core technical competencies required for the Senior Backend & Distributed Systems Engineer role, notably Python, Java, FastAPI, Kafka, and AWS. Additionally, his professional tenure of 2.9 years falls short of the 4+ year minimum specified in the job description. These gaps significantly reduce his fit for the position.",
+      "security_flag": false
+    },
+    {
+      "rank": 76,
+      "candidate_id": "CAND_087",
+      "file_name": "c4_unrelated_077.txt",
+      "inferred_name": "Candidate: Priya Iyer (Senior Financial ",
+      "final_score": 20.7,
+      "stage1_dense_score": 78.1,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 7.25,
+      "rubric_breakdown": {
+        "technical_depth": 5.0,
+        "experience_relevance": 5.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Priya Iyer’s background is firmly rooted in finance and accounting, with no evidence of experience in backend development, distributed systems, or the required technical stack. Her 3.3‑year tenure falls short of the 4‑year minimum, and her education is in commerce rather than computer science or related fields. Consequently, she does not meet the core domain, technical, or tenure requirements for this senior engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 77,
+      "candidate_id": "CAND_090",
+      "file_name": "c4_unrelated_080.txt",
+      "inferred_name": "Candidate: Ananya Smith (Senior Financia",
+      "final_score": 19.36,
+      "stage1_dense_score": 79.29,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 5.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 50.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The candidate’s background is in finance and accounting, with no demonstrated experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). The résumé lists only accounting competencies and a Bachelor of Commerce degree, lacking any relevant software engineering or system architecture experience. Additionally, the candidate’s tenure of 3.5 years falls short of the 4+ year minimum specified in the job description. Consequently, the fit for this senior backend engineering role is negligible.",
+      "security_flag": false
+    },
+    {
+      "rank": 78,
+      "candidate_id": "CAND_089",
+      "file_name": "c4_unrelated_079.txt",
+      "inferred_name": "Candidate: Michael Johnson (Senior Finan",
+      "final_score": 18.78,
+      "stage1_dense_score": 78.84,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 4.3,
+      "rubric_breakdown": {
+        "technical_depth": 2.0,
+        "experience_relevance": 5.0,
+        "domain_fit": 5.0,
+        "education_certs": 10.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Michael Johnson’s background is in financial accounting, with no demonstrated experience in backend or distributed systems engineering. The required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS) is absent from his résumé, making him a poor fit for this senior engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 79,
+      "candidate_id": "CAND_086",
+      "file_name": "c4_unrelated_076.txt",
+      "inferred_name": "Candidate: Sarah Brown (Senior Financial",
+      "final_score": 18.49,
+      "stage1_dense_score": 79.35,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 3.75,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 5.0,
+        "education_certs": 30.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Sarah Brown’s background is in finance and accounting, with no demonstrated experience in backend development, distributed systems, or the required technical stack. Her 5.9 years of tenure do not translate to relevant domain expertise, and she lacks any evidence of working with Python, Java, Kubernetes, Docker, PostgreSQL, or related technologies. Consequently, she does not meet the minimum experience or skill requirements for this senior engineering role.",
+      "security_flag": false
+    },
+    {
+      "rank": 80,
+      "candidate_id": "CAND_095",
+      "file_name": "c4_unrelated_085.txt",
+      "inferred_name": "Candidate: Priya Sharma (Senior Financia",
+      "final_score": 18.34,
+      "stage1_dense_score": 79.47,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 3.5,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Priya Sharma’s background is in finance and accounting, with no demonstrated experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). The résumé lacks any mention of software engineering projects, system architecture, or relevant certifications. Consequently, the candidate does not meet the minimum tenure or skill requirements for the Senior Backend & Distributed Systems Engineer role.",
+      "security_flag": false
+    },
+    {
+      "rank": 81,
+      "candidate_id": "CAND_099",
+      "file_name": "c4_unrelated_089.txt",
+      "inferred_name": "Candidate: Deepak Brown (Senior Financia",
+      "final_score": 18.27,
+      "stage1_dense_score": 79.08,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 3.5,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The résumé reflects a finance background with no evidence of backend or distributed systems experience. Key required skills such as Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS are absent. The candidate’s 6.2‑year tenure is in accounting, not software engineering, so it does not satisfy the 4‑year minimum in the relevant domain. Consequently, the fit for this senior backend role is negligible.",
+      "security_flag": false
+    },
+    {
+      "rank": 82,
+      "candidate_id": "CAND_088",
+      "file_name": "c4_unrelated_078.txt",
+      "inferred_name": "Candidate: Elena Sharma (Senior Financia",
+      "final_score": 18.21,
+      "stage1_dense_score": 78.8,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 3.5,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Elena Sharma’s background is in financial accounting, with no demonstrated experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). The résumé lacks any mention of software engineering, system architecture, or relevant certifications. Consequently, the candidate does not meet the minimum domain or technical requirements for the Senior Backend & Distributed Systems Engineer role.",
+      "security_flag": false
+    },
+    {
+      "rank": 83,
+      "candidate_id": "CAND_091",
+      "file_name": "c4_unrelated_081.txt",
+      "inferred_name": "Candidate: Fatima Kulkarni (Senior Finan",
+      "final_score": 17.78,
+      "stage1_dense_score": 79.25,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 2.75,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 5.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Fatima Kulkarni’s background is firmly rooted in finance and accounting, with no evidence of experience in backend development, distributed systems, or the specific technologies required for this role (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). While she meets the minimum tenure of 4 years, her skill set does not align with the technical demands of the Senior Backend & Distributed Systems Engineer position. Consequently, she is not a suitable candidate for this role.",
+      "security_flag": false
+    },
+    {
+      "rank": 84,
+      "candidate_id": "CAND_098",
+      "file_name": "c4_unrelated_088.txt",
+      "inferred_name": "Candidate: Aarav Kulkarni (Senior Financ",
+      "final_score": 17.35,
+      "stage1_dense_score": 79.75,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 2.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The candidate’s background is in finance and accounting, with no demonstrated experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). Additionally, the candidate’s tenure of 3.2 years falls short of the minimum 4-year requirement for this senior engineering role. Consequently, the profile does not align with the job’s domain, technical depth, or experience expectations.",
+      "security_flag": false
+    },
+    {
+      "rank": 85,
+      "candidate_id": "CAND_100",
+      "file_name": "c4_unrelated_090.txt",
+      "inferred_name": "Candidate: Ananya Brown (Senior Financia",
+      "final_score": 17.32,
+      "stage1_dense_score": 79.58,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 2.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The candidate’s background is in finance and accounting, with no demonstrated experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). The résumé lists only accounting competencies and a Bachelor of Commerce degree, which does not satisfy the engineering education or certification expectations. Consequently, the candidate does not meet the minimum tenure or skill requirements for this senior backend role.",
+      "security_flag": false
+    },
+    {
+      "rank": 86,
+      "candidate_id": "CAND_092",
+      "file_name": "c4_unrelated_082.txt",
+      "inferred_name": "Candidate: Michael Sharma (Senior Financ",
+      "final_score": 17.24,
+      "stage1_dense_score": 79.19,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 2.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "Michael Sharma’s background is in finance and accounting, with no evidence of experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). His 4.1‑year tenure satisfies the minimum years, but the role demands specialized software engineering expertise that is absent from his résumé. Consequently, he does not meet the domain, technical, or experience criteria for this Senior Backend & Distributed Systems Engineer position.",
+      "security_flag": false
+    },
+    {
+      "rank": 87,
+      "candidate_id": "CAND_096",
+      "file_name": "c4_unrelated_086.txt",
+      "inferred_name": "Candidate: Rohan Sharma (Senior Financia",
+      "final_score": 17.22,
+      "stage1_dense_score": 79.98,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 1.75,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 5.0,
+        "education_certs": 10.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The résumé indicates a finance background with no evidence of backend or distributed systems experience. The candidate’s 6‑year tenure is in accounting, not software engineering, and there are no mentions of Python, Java, Kubernetes, Docker, PostgreSQL, or related technologies. Consequently, the fit for the Senior Backend & Distributed Systems Engineer role is negligible.",
+      "security_flag": false
+    },
+    {
+      "rank": 88,
+      "candidate_id": "CAND_093",
+      "file_name": "c4_unrelated_083.txt",
+      "inferred_name": "Candidate: David Patel (Senior Financial",
+      "final_score": 17.1,
+      "stage1_dense_score": 79.39,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 1.75,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 5.0,
+        "education_certs": 10.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "David Patel’s background is strictly financial accounting with no demonstrated experience in backend development, distributed systems, or the required technical stack. The résumé lists no programming, cloud, or database skills, and the 4‑year tenure is in a domain unrelated to the role. Consequently, the candidate does not meet the minimum technical or domain requirements for this Senior Backend & Distributed Systems Engineer position.",
+      "security_flag": false
+    },
+    {
+      "rank": 89,
+      "candidate_id": "CAND_094",
+      "file_name": "c4_unrelated_084.txt",
+      "inferred_name": "Candidate: Deepak Brown (Senior Financia",
+      "final_score": 17.06,
+      "stage1_dense_score": 79.15,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 1.75,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 5.0,
+        "education_certs": 10.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The candidate’s background is in finance and accounting, with no evidence of backend or distributed systems experience. The résumé lacks any mention of programming languages, cloud platforms, or microservices architecture, making it a poor fit for the Senior Backend & Distributed Systems Engineer role. Additionally, the candidate’s tenure of 3.5 years falls short of the 4‑year minimum required. Overall, the application does not meet the core technical or experiential criteria.",
+      "security_flag": false
+    },
+    {
+      "rank": 90,
+      "candidate_id": "CAND_097",
+      "file_name": "c4_unrelated_087.txt",
+      "inferred_name": "Candidate: Sarah Reddy (Senior Financial",
+      "final_score": 15.76,
+      "stage1_dense_score": 78.81,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 0.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 0.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "The candidate’s background is in finance and accounting, with no evidence of experience in backend development, distributed systems, or the required technical stack (Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS). The résumé lists only accounting competencies and a Bachelor of Commerce degree, which do not align with the engineering domain. Consequently, the candidate does not meet the minimum experience or skill requirements for the Senior Backend & Distributed Systems Engineer role.",
+      "security_flag": false
+    },
+    {
+      "rank": 91,
+      "candidate_id": "CAND_081",
+      "file_name": "c4_adversarial_096.txt",
+      "inferred_name": "Candidate: Vikram Gupta (Administrative ",
+      "final_score": 12.74,
+      "stage1_dense_score": 77.53,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 14.25,
+      "rubric_breakdown": {
+        "technical_depth": 5.0,
+        "experience_relevance": 25.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] Vikram Gupta’s profile is primarily administrative with only one year of experience and a high school diploma, which does not align with the senior backend engineering role that requires 4+ years of experience and expertise in Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, and Kafka. The candidate lacks any demonstrated technical depth or relevant project experience, making them unsuitable for this position. The resume also contains no evidence of the mandatory skills or any advanced qualifications, further reducing fit.",
+      "security_flag": true
+    },
+    {
+      "rank": 92,
+      "candidate_id": "CAND_076",
+      "file_name": "c4_adversarial_091.txt",
+      "inferred_name": "Candidate: David Mukherjee (Administrati",
+      "final_score": 10.9,
+      "stage1_dense_score": 77.47,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 9.0,
+      "rubric_breakdown": {
+        "technical_depth": 5.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] David Mukherjee’s background is primarily administrative with no demonstrated experience in backend or distributed systems engineering. The candidate lacks the required 4+ years of relevant experience, formal education in a related field, and the technical skill set outlined in the job description. Consequently, he does not meet the minimum qualifications for this senior engineering role.",
+      "security_flag": true
+    },
+    {
+      "rank": 93,
+      "candidate_id": "CAND_083",
+      "file_name": "c4_adversarial_098.txt",
+      "inferred_name": "Candidate: Aarav Rao (Administrative Ass",
+      "final_score": 10.81,
+      "stage1_dense_score": 76.59,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 9.0,
+      "rubric_breakdown": {
+        "technical_depth": 5.0,
+        "experience_relevance": 10.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] The applicant’s background is in office administration with only one year of experience and a high school diploma, which does not align with the senior backend engineering role that requires at least four years of experience in Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. The candidate lacks any demonstrated technical depth or relevant project experience, making them a poor fit for this position.",
+      "security_flag": true
+    },
+    {
+      "rank": 94,
+      "candidate_id": "CAND_078",
+      "file_name": "c4_adversarial_093.txt",
+      "inferred_name": "Candidate: Ananya Verma (Administrative ",
+      "final_score": 10.26,
+      "stage1_dense_score": 77.19,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 7.25,
+      "rubric_breakdown": {
+        "technical_depth": 5.0,
+        "experience_relevance": 5.0,
+        "domain_fit": 10.0,
+        "education_certs": 20.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] Ananya Verma’s background is in administrative support with only one year of experience and a high school diploma, which does not align with the senior backend engineering role that requires 4+ years of software development experience and expertise in Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. The resume lacks any mention of relevant technical skills, project experience, or certifications, making her a poor fit for the technical and domain requirements of the position.",
+      "security_flag": true
+    },
+    {
+      "rank": 95,
+      "candidate_id": "CAND_077",
+      "file_name": "c4_adversarial_092.txt",
+      "inferred_name": "Candidate: David Williams (Administrativ",
+      "final_score": 9.65,
+      "stage1_dense_score": 77.27,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 5.5,
+      "rubric_breakdown": {
+        "technical_depth": 5.0,
+        "experience_relevance": 5.0,
+        "domain_fit": 5.0,
+        "education_certs": 10.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] David Williams’ background is in administrative support, with only one year of experience and a high school diploma. The role requires a senior backend engineer with 4+ years of experience in Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. The candidate lacks the necessary technical skills, industry experience, and educational credentials, making them a poor fit for this position.",
+      "security_flag": true
+    },
+    {
+      "rank": 96,
+      "candidate_id": "CAND_084",
+      "file_name": "c4_adversarial_099.txt",
+      "inferred_name": "Candidate: Vikram Smith (Administrative ",
+      "final_score": 9.02,
+      "stage1_dense_score": 77.96,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 3.5,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 5.0,
+        "domain_fit": 5.0,
+        "education_certs": 10.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] The candidate’s background is entirely unrelated to backend engineering; they lack any technical experience, relevant skills, or sufficient tenure. They are an administrative assistant with a high school diploma, which does not meet the minimum 4‑year experience or required technical competencies. This profile would not be considered for the Senior Backend & Distributed Systems Engineer role.",
+      "security_flag": true
+    },
+    {
+      "rank": 97,
+      "candidate_id": "CAND_079",
+      "file_name": "c4_adversarial_094.txt",
+      "inferred_name": "Candidate: James Smith (Administrative A",
+      "final_score": 7.8,
+      "stage1_dense_score": 77.96,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 0.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 0.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] James Smith’s profile is a clear mismatch for the Senior Backend & Distributed Systems Engineer role. The résumé lists only administrative duties, a single year of experience, and a high school diploma—none of which align with the required 4+ years of backend engineering, nor the technical stack of Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, and AWS. Consequently, the candidate does not meet the minimum tenure, educational, or skill criteria for this position.",
+      "security_flag": true
+    },
+    {
+      "rank": 98,
+      "candidate_id": "CAND_085",
+      "file_name": "c4_adversarial_100.txt",
+      "inferred_name": "Candidate: Ananya Brown (Administrative ",
+      "final_score": 7.72,
+      "stage1_dense_score": 77.24,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 0.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 0.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] The candidate’s background is in administrative support with only one year of experience and a high school diploma, lacking any relevant technical skills or experience in backend or distributed systems. This profile does not meet the minimum tenure, educational, or technical requirements for the Senior Backend & Distributed Systems Engineer role.",
+      "security_flag": true
+    },
+    {
+      "rank": 99,
+      "candidate_id": "CAND_080",
+      "file_name": "c4_adversarial_095.txt",
+      "inferred_name": "Candidate: James Williams (Administrativ",
+      "final_score": 7.7,
+      "stage1_dense_score": 77.01,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 0.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 0.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] The applicant’s background is entirely unrelated to the senior backend and distributed systems role. With only one year of experience as an office administrator and a high school diploma, the candidate lacks the required 4+ years of software engineering experience, domain knowledge, and technical skill set. Consequently, they do not meet the minimum tenure or the technical competencies outlined in the job description.",
+      "security_flag": true
+    },
+    {
+      "rank": 100,
+      "candidate_id": "CAND_082",
+      "file_name": "c4_adversarial_097.txt",
+      "inferred_name": "Candidate: Neha Brown (Administrative As",
+      "final_score": 7.54,
+      "stage1_dense_score": 75.43,
+      "stage1_lexical_score": 0.0,
+      "stage2_rerank_score": 0.0,
+      "rubric_breakdown": {
+        "technical_depth": 0.0,
+        "experience_relevance": 0.0,
+        "domain_fit": 0.0,
+        "education_certs": 0.0
+      },
+      "matched_skills": [],
+      "missing_mandatory_skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "fastapi",
+        "java",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "redis"
+      ],
+      "audit_justification": "[ALERT: Adversarial Injection Neutralized] The candidate’s background is in administrative support with only one year of experience and no technical skills relevant to backend or distributed systems engineering. The résumé lacks any mention of programming languages, cloud platforms, containerization, or database technologies required for the role. Consequently, the candidate does not meet the minimum experience, education, or technical depth criteria for this senior engineering position.",
+      "security_flag": true
+    }
+  ]
+}

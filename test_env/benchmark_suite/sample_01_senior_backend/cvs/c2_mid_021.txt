@@ -1,0 +1,9 @@
+Candidate: Vikram Reddy (Associate Developer)
+Email: vikram.reddy@workmail.com
+Summary:
+Software developer with 3.1 years of professional experience supporting web and system infrastructure.
+Skills: Python, FastAPI, Kubernetes, PostgreSQL, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Python endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

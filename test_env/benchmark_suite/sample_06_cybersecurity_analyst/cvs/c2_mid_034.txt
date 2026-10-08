@@ -1,0 +1,9 @@
+Candidate: Priya Iyer (Associate Developer)
+Email: priya.iyer@workmail.com
+Summary:
+Software developer with 3.1 years of professional experience supporting web and system infrastructure.
+Skills: Vulnerability Assessment, SIEM, Python, OWASP, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vulnerability Assessment endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

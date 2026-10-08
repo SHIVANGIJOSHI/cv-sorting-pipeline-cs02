@@ -1,0 +1,10 @@
+Candidate: Rohan Rao (Junior Trainee / Fresher)
+Email: rohan.rao@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.8 years):
+  Reviewed tutorials and observed team workflows covering Kubernetes, Terraform, Docker, Linux.
+Education: Diploma in Computer Applications

@@ -1,0 +1,11 @@
+Candidate: Sarah Reddy (Senior Specialist)
+Email: sarah.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.6 years of experience designing and shipping scalable systems, specializing in RTOS, C, SPI, ARM Cortex.
+Technical Skills: RTOS, C, SPI, ARM Cortex, C++, I2C, UART, Oscilloscope, CAN bus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (2.6 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using RTOS and C.
+Education: B.Tech in Computer Science, Anna University

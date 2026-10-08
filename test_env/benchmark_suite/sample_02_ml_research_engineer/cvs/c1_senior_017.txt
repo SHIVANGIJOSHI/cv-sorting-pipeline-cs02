@@ -1,0 +1,11 @@
+Candidate: Priya Nair (Senior Specialist)
+Email: priya.nair@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.9 years of experience designing and shipping scalable systems, specializing in RAG, Python, Triton, vLLM.
+Technical Skills: RAG, Python, Triton, vLLM, HuggingFace, PyTorch, LangChain, FAISS, Weights & Biases, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (4.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using RAG and Python.
+Education: B.Tech in Computer Science, Anna University

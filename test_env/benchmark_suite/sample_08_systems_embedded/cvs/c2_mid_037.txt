@@ -1,0 +1,9 @@
+Candidate: Sarah Patel (Associate Developer)
+Email: sarah.patel@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: ARM Cortex, SPI, I2C, RTOS, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained ARM Cortex endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

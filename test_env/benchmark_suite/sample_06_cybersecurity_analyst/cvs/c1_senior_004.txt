@@ -1,0 +1,11 @@
+Candidate: Elena Brown (Senior Specialist)
+Email: elena.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in Linux, Vulnerability Assessment, Wireshark, Python.
+Technical Skills: Linux, Vulnerability Assessment, Wireshark, Python, SIEM, Cryptography, Splunk, IAM, Snort, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Linux and Vulnerability Assessment.
+Education: B.Tech in Computer Science, IIT Kharagpur

@@ -1,0 +1,11 @@
+Candidate: Sarah Gupta (Senior Specialist)
+Email: sarah.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 9.0 years of experience designing and shipping scalable systems, specializing in Grafana, Helm, AWS, Docker.
+Technical Skills: Grafana, Helm, AWS, Docker, CI/CD, Prometheus, Kubernetes, ArgoCD, Vault, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (7.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Grafana and Helm.
+Education: B.Tech in Computer Science, IIIT Hyderabad

@@ -1,0 +1,11 @@
+Candidate: James Choudhury (Senior Specialist)
+Email: james.choudhury@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.7 years of experience designing and shipping scalable systems, specializing in RTOS, UART, Linux Kernel, ARM Cortex.
+Technical Skills: RTOS, UART, Linux Kernel, ARM Cortex, I2C, SPI, C, Microcontrollers, Oscilloscope, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (3.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using RTOS and UART.
+Education: B.Tech in Computer Science, NIT Trichy

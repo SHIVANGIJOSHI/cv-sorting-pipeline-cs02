@@ -1,0 +1,9 @@
+Candidate: Deepak Patel (Associate Developer)
+Email: deepak.patel@workmail.com
+Summary:
+Software developer with 4.5 years of professional experience supporting web and system infrastructure.
+Skills: Helm, CI/CD, Grafana, Linux, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (4.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Helm endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

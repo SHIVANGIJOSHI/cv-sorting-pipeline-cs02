@@ -1,0 +1,22 @@
+Candidate: Rohan Williams
+Title: Senior Backend & Distributed Systems Engineer
+Email: rohan.williams@engineering.io
+
+Executive Summary:
+Principal software engineer offering 6.5 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Python, AWS, PostgreSQL, FastAPI, Kafka
+Infrastructure & Storage: Redis, Java, RabbitMQ, GraphQL, Terraform
+
+Professional Experience:
+1. Lead Software Engineer | Nexus Fintech (4.5 years)
+   - Designed asynchronous message brokering layer using Kafka and Redis to decouple payment workflows.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | OmniData Solutions (2.0 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 40k requests/second.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, IIT Kharagpur

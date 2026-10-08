@@ -1,0 +1,10 @@
+Candidate: Kavita Nair (Junior Trainee / Fresher)
+Email: kavita.nair@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.3 years):
+  Reviewed tutorials and observed team workflows covering AWS, Prometheus, CI/CD, Linux.
+Education: Diploma in Computer Applications

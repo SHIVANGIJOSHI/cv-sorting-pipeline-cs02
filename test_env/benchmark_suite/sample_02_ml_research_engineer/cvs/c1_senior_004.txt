@@ -1,0 +1,11 @@
+Candidate: Aditya Mukherjee (Senior Specialist)
+Email: aditya.mukherjee@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.4 years of experience designing and shipping scalable systems, specializing in LangChain, RAG, Triton, JAX.
+Technical Skills: LangChain, RAG, Triton, JAX, HuggingFace, vLLM, CUDA, FAISS, Ray, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (2.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using LangChain and RAG.
+Education: B.Tech in Computer Science, Delhi Technological University

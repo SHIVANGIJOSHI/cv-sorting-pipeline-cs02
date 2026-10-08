@@ -1,0 +1,10 @@
+Candidate: Elena Sharma (Junior Trainee / Fresher)
+Email: elena.sharma@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, Prometheus.
+Skills Inventory:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.5 years):
+  Reviewed tutorials and observed team workflows covering Java, FastAPI, Kafka, PostgreSQL.
+Education: Diploma in Computer Applications

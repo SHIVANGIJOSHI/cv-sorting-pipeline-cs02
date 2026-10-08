@@ -1,0 +1,9 @@
+Candidate: Fatima Reddy (Associate Developer)
+Email: fatima.reddy@workmail.com
+Summary:
+Software developer with 2.8 years of professional experience supporting web and system infrastructure.
+Skills: Redis, Docker, Python, FastAPI, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (2.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Redis endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

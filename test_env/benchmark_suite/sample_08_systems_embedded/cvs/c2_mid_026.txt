@@ -1,0 +1,9 @@
+Candidate: Rohan Johnson (Associate Developer)
+Email: rohan.johnson@workmail.com
+Summary:
+Software developer with 2.8 years of professional experience supporting web and system infrastructure.
+Skills: I2C, ARM Cortex, GDB, RTOS, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained I2C endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

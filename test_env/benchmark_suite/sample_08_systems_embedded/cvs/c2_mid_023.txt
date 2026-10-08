@@ -1,0 +1,9 @@
+Candidate: Fatima Iyer (Associate Developer)
+Email: fatima.iyer@workmail.com
+Summary:
+Software developer with 1.9 years of professional experience supporting web and system infrastructure.
+Skills: C, ARM Cortex, SPI, I2C, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (1.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,11 @@
+Candidate: Rohan Johnson (Senior Specialist)
+Email: rohan.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.2 years of experience designing and shipping scalable systems, specializing in React, Docker, REST APIs, PostgreSQL.
+Technical Skills: React, Docker, REST APIs, PostgreSQL, Node.js, Express, AWS, MongoDB, Redis, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (2.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using React and Docker.
+Education: B.Tech in Computer Science, Anna University

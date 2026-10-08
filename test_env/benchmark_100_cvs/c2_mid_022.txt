@@ -1,0 +1,18 @@
+Candidate: Priya Smith
+Title: Software Engineer (Mid-Level)
+Email: priya.smith@techdev.net
+
+Professional Summary:
+Software engineer with 2.5 years of experience supporting web applications, basic REST APIs, and backend data processing.
+
+Skills:
+Kafka, Kubernetes, FastAPI, Java, Terraform, MongoDB, HTML/CSS, Git, Jira.
+
+Work Experience:
+Software Developer | Apex Core Systems (2.5 years)
+- Developed API endpoints and integrated third-party payment gateways.
+- Assisted lead architect with database schema updates and Docker configuration files.
+- Participated in weekly agile stand-ups and code reviews.
+
+Education:
+Bachelor of Science in Information Technology, BITS Pilani

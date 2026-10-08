@@ -1,0 +1,9 @@
+Candidate: David Patel (Associate Developer)
+Email: david.patel@workmail.com
+Summary:
+Software developer with 3.4 years of professional experience supporting web and system infrastructure.
+Skills: Grafana, Docker, Terraform, Kubernetes, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (3.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Grafana endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

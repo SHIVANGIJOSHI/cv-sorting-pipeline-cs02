@@ -1,0 +1,9 @@
+Candidate: Rohan Reddy (Associate Developer)
+Email: rohan.reddy@workmail.com
+Summary:
+Software developer with 1.7 years of professional experience supporting web and system infrastructure.
+Skills: GDB, RTOS, ARM Cortex, UART, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (1.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained GDB endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

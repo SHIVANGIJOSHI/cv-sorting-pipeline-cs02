@@ -1,0 +1,11 @@
+Candidate: Elena Patel (Senior Specialist)
+Email: elena.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.6 years of experience designing and shipping scalable systems, specializing in Database Tuning, MySQL, Replication, Bash.
+Technical Skills: Database Tuning, MySQL, Replication, Bash, PostgreSQL, Python, High Availability, Prometheus, PgBouncer, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (4.6 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Database Tuning and MySQL.
+Education: B.Tech in Computer Science, NIT Trichy

@@ -1,0 +1,9 @@
+Candidate: Sarah Williams (Associate Developer)
+Email: sarah.williams@workmail.com
+Summary:
+Software developer with 3.8 years of professional experience supporting web and system infrastructure.
+Skills: Linux, Docker, Grafana, Prometheus, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (3.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Linux endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

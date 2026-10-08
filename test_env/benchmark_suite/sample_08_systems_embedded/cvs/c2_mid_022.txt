@@ -1,0 +1,9 @@
+Candidate: Michael Kulkarni (Associate Developer)
+Email: michael.kulkarni@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: GDB, C++, ARM Cortex, RTOS, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained GDB endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

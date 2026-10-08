@@ -1,0 +1,9 @@
+Candidate: Michael Gupta (Associate Developer)
+Email: michael.gupta@workmail.com
+Summary:
+Software developer with 2.7 years of professional experience supporting web and system infrastructure.
+Skills: Java, Redis, Docker, FastAPI, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Java endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

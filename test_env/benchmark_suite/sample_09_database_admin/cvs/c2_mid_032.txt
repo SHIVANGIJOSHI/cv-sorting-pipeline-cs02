@@ -1,0 +1,9 @@
+Candidate: Rohan Reddy (Associate Developer)
+Email: rohan.reddy@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: MySQL, Linux, Replication, Python, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained MySQL endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

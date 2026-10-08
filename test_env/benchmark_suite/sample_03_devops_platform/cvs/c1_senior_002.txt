@@ -1,0 +1,11 @@
+Candidate: Elena Rao (Senior Specialist)
+Email: elena.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 9.2 years of experience designing and shipping scalable systems, specializing in Terraform, AWS, Helm, Kubernetes.
+Technical Skills: Terraform, AWS, Helm, Kubernetes, Linux, Prometheus, Docker, Bash, ArgoCD, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (7.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Terraform and AWS.
+Education: B.Tech in Computer Science, Anna University

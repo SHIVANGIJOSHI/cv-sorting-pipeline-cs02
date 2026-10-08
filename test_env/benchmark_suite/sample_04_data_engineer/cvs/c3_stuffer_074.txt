@@ -1,0 +1,10 @@
+Candidate: Kavita Kulkarni (Junior Trainee / Fresher)
+Email: kavita.kulkarni@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink.
+Skills Inventory:
+Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.8 years):
+  Reviewed tutorials and observed team workflows covering SQL, Python, Hadoop, Snowflake.
+Education: Diploma in Computer Applications

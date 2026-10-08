@@ -1,0 +1,11 @@
+Candidate: Vikram Reddy (Senior Specialist)
+Email: vikram.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.7 years of experience designing and shipping scalable systems, specializing in SQL, Replication, Bash, PostgreSQL.
+Technical Skills: SQL, Replication, Bash, PostgreSQL, Python, Database Tuning, MySQL, PgBouncer, Patroni, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using SQL and Replication.
+Education: B.Tech in Computer Science, NIT Trichy

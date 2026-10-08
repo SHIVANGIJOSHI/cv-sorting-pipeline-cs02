@@ -1,0 +1,9 @@
+Candidate: Deepak Choudhury (Associate Developer)
+Email: deepak.choudhury@workmail.com
+Summary:
+Software developer with 2.4 years of professional experience supporting web and system infrastructure.
+Skills: C, UART, GDB, SPI, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

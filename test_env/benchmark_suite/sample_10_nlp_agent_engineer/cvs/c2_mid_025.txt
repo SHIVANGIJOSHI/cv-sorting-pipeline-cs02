@@ -1,0 +1,9 @@
+Candidate: Emily Williams (Associate Developer)
+Email: emily.williams@workmail.com
+Summary:
+Software developer with 2.9 years of professional experience supporting web and system infrastructure.
+Skills: Python, OpenAI API, Prompt Engineering, Vector Databases, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Python endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

@@ -1,0 +1,9 @@
+Candidate: Neha Iyer (Associate Developer)
+Email: neha.iyer@workmail.com
+Summary:
+Software developer with 1.7 years of professional experience supporting web and system infrastructure.
+Skills: UART, GDB, C++, I2C, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (1.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained UART endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

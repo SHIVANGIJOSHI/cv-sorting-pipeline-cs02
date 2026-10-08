@@ -1,0 +1,9 @@
+Candidate: Aditya Johnson (Associate Developer)
+Email: aditya.johnson@workmail.com
+Summary:
+Software developer with 3.7 years of professional experience supporting web and system infrastructure.
+Skills: Replication, Bash, PostgreSQL, Linux, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Replication endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

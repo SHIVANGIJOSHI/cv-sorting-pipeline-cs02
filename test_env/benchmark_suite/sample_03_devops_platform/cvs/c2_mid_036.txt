@@ -1,0 +1,9 @@
+Candidate: Aarav Choudhury (Associate Developer)
+Email: aarav.choudhury@workmail.com
+Summary:
+Software developer with 3.7 years of professional experience supporting web and system infrastructure.
+Skills: Terraform, Helm, Docker, Kubernetes, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Terraform endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

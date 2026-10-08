@@ -1,0 +1,9 @@
+Candidate: Kavita Nair (Associate Developer)
+Email: kavita.nair@workmail.com
+Summary:
+Software developer with 2.0 years of professional experience supporting web and system infrastructure.
+Skills: REST APIs, Docker, TypeScript, Git, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained REST APIs endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

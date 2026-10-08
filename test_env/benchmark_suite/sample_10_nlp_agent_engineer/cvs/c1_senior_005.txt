@@ -1,0 +1,11 @@
+Candidate: Sarah Brown (Senior Specialist)
+Email: sarah.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.5 years of experience designing and shipping scalable systems, specializing in LlamaIndex, Python, OpenAI API, Docker.
+Technical Skills: LlamaIndex, Python, OpenAI API, Docker, Vector Databases, Prompt Engineering, LangChain, Semantic Kernel, ChromaDB, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (3.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using LlamaIndex and Python.
+Education: B.Tech in Computer Science, BITS Pilani

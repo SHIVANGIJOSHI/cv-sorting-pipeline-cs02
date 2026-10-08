@@ -1,0 +1,9 @@
+Candidate: Kavita Choudhury (Associate Developer)
+Email: kavita.choudhury@workmail.com
+Summary:
+Software developer with 1.0 years of professional experience supporting web and system infrastructure.
+Skills: Docker, REST APIs, PostgreSQL, AWS, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (1.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Docker endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

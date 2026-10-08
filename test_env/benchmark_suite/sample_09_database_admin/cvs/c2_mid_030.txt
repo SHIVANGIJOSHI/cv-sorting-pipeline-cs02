@@ -1,0 +1,9 @@
+Candidate: Fatima Choudhury (Associate Developer)
+Email: fatima.choudhury@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: Python, Replication, Linux, SQL, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Python endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

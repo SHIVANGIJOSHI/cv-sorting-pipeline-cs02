@@ -1,0 +1,9 @@
+Candidate: Priya Verma (Associate Developer)
+Email: priya.verma@workmail.com
+Summary:
+Software developer with 1.5 years of professional experience supporting web and system infrastructure.
+Skills: C, GDB, I2C, Linux Kernel, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (1.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

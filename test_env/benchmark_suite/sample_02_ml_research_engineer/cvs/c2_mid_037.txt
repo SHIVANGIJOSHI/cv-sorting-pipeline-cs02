@@ -1,0 +1,9 @@
+Candidate: Vikram Gupta (Associate Developer)
+Email: vikram.gupta@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: vLLM, HuggingFace, LangChain, JAX, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained vLLM endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

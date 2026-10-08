@@ -1,0 +1,11 @@
+Candidate: Ananya Williams (Senior Specialist)
+Email: ananya.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in SPI, I2C, RTOS, GDB.
+Technical Skills: SPI, I2C, RTOS, GDB, C++, ARM Cortex, UART, FreeRTOS, Device Drivers, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using SPI and I2C.
+Education: B.Tech in Computer Science, Delhi Technological University

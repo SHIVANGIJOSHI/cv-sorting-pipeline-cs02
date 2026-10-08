@@ -1,0 +1,9 @@
+Candidate: Ananya Mukherjee (Associate Developer)
+Email: ananya.mukherjee@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: RAG, JAX, Triton, HuggingFace, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained RAG endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

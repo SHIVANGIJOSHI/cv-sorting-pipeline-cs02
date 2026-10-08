@@ -1,0 +1,9 @@
+Candidate: Kavita Rao (Associate Developer)
+Email: kavita.rao@workmail.com
+Summary:
+Software developer with 3.4 years of professional experience supporting web and system infrastructure.
+Skills: Apache Spark, dbt, Snowflake, PostgreSQL, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Apache Spark endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

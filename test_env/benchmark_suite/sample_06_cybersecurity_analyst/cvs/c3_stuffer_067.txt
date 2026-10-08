@@ -1,0 +1,10 @@
+Candidate: Fatima Reddy (Junior Trainee / Fresher)
+Email: fatima.reddy@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography, Metasploit, Snort, Suricata, NIST, IAM.
+Skills Inventory:
+SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography, Metasploit, Snort, Suricata, NIST, IAM, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.9 years):
+  Reviewed tutorials and observed team workflows covering OWASP, Splunk, Wireshark, Python.
+Education: Diploma in Computer Applications

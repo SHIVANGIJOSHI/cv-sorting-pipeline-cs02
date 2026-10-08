@@ -1,0 +1,9 @@
+Candidate: Deepak Johnson (Associate Developer)
+Email: deepak.johnson@workmail.com
+Summary:
+Software developer with 3.0 years of professional experience supporting web and system infrastructure.
+Skills: Vulnerability Assessment, Linux, Splunk, Burp Suite, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (3.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vulnerability Assessment endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

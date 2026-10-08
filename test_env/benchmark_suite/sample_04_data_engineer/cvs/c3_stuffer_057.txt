@@ -1,0 +1,10 @@
+Candidate: James Gupta (Junior Trainee / Fresher)
+Email: james.gupta@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink.
+Skills Inventory:
+Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.2 years):
+  Reviewed tutorials and observed team workflows covering Python, Apache Spark, dbt, Hadoop.
+Education: Diploma in Computer Applications

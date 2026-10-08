@@ -1,0 +1,18 @@
+Candidate: Aditya Johnson
+Title: Junior Associate / Software Trainee
+Email: aditya.johnson@entrylevel.org
+
+Summary:
+Enthusiastic beginner and fast learner possessing broad theoretical familiarity across modern enterprise stacks:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, GraphQL, MongoDB, Elasticsearch, gRPC, Prometheus, Terraform, RabbitMQ, Cassandra, Airflow.
+
+Technical Keyword Inventory:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, GraphQL, MongoDB, Elasticsearch, gRPC, Prometheus, Terraform, RabbitMQ, Cassandra, Airflow, Artificial Intelligence, Deep Learning, Blockchain, DevOps, Cloud.
+
+Experience:
+Junior Intern | Tech Solutions Hub (0.7 years)
+- Reviewed online documentation and completed lab tutorials covering Java, Redis, Python, FastAPI, Docker.
+- Maintained documentation for team meetings and assisted with manual testing.
+
+Education:
+Diploma in Computer Applications

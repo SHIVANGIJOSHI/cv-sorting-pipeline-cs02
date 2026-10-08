@@ -1,0 +1,9 @@
+Candidate: Vikram Patel (Associate Developer)
+Email: vikram.patel@workmail.com
+Summary:
+Software developer with 1.7 years of professional experience supporting web and system infrastructure.
+Skills: PostgreSQL, Express, React, Docker, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (1.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained PostgreSQL endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,9 @@
+Candidate: Michael Kulkarni (Associate Developer)
+Email: michael.kulkarni@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: Kubernetes, AWS, Kafka, Python, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Kubernetes endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

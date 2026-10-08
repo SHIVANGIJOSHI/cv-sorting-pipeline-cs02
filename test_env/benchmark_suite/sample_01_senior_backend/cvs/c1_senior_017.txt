@@ -1,0 +1,11 @@
+Candidate: Deepak Verma (Senior Specialist)
+Email: deepak.verma@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.4 years of experience designing and shipping scalable systems, specializing in Docker, FastAPI, Redis, PostgreSQL.
+Technical Skills: Docker, FastAPI, Redis, PostgreSQL, Java, Kubernetes, Kafka, Prometheus, Terraform, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (6.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and FastAPI.
+Education: B.Tech in Computer Science, NIT Trichy

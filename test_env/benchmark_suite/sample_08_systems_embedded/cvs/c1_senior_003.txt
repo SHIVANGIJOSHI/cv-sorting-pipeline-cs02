@@ -1,0 +1,11 @@
+Candidate: Sarah Patel (Senior Specialist)
+Email: sarah.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.1 years of experience designing and shipping scalable systems, specializing in C, UART, RTOS, C++.
+Technical Skills: C, UART, RTOS, C++, I2C, SPI, ARM Cortex, Oscilloscope, Device Drivers, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (5.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using C and UART.
+Education: B.Tech in Computer Science, IIT Kharagpur

@@ -1,0 +1,10 @@
+Candidate: Aditya Iyer (Junior Trainee / Fresher)
+Email: aditya.iyer@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography, Metasploit, Snort, Suricata, NIST, IAM.
+Skills Inventory:
+SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography, Metasploit, Snort, Suricata, NIST, IAM, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.5 years):
+  Reviewed tutorials and observed team workflows covering OWASP, Python, Splunk, Vulnerability Assessment.
+Education: Diploma in Computer Applications

@@ -1,0 +1,10 @@
+Candidate: Aarav Reddy (Junior Trainee / Fresher)
+Email: aarav.reddy@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.9 years):
+  Reviewed tutorials and observed team workflows covering Grafana, Linux, Prometheus, Helm.
+Education: Diploma in Computer Applications

@@ -1,0 +1,9 @@
+Candidate: Priya Reddy (Associate Developer)
+Email: priya.reddy@workmail.com
+Summary:
+Software developer with 3.4 years of professional experience supporting web and system infrastructure.
+Skills: Burp Suite, Python, SIEM, OWASP, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Burp Suite endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

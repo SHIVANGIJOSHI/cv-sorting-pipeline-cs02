@@ -1,0 +1,9 @@
+Candidate: Elena Iyer (Associate Developer)
+Email: elena.iyer@workmail.com
+Summary:
+Software developer with 1.1 years of professional experience supporting web and system infrastructure.
+Skills: LangChain, vLLM, CUDA, Triton, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (1.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LangChain endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

@@ -1,0 +1,11 @@
+Candidate: Elena Rao (Senior Specialist)
+Email: elena.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.4 years of experience designing and shipping scalable systems, specializing in Redis, Python, Docker, PostgreSQL.
+Technical Skills: Redis, Python, Docker, PostgreSQL, FastAPI, Kafka, AWS, Prometheus, Cassandra, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (5.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Redis and Python.
+Education: B.Tech in Computer Science, IIT Kharagpur

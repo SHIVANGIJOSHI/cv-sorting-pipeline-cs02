@@ -1,0 +1,10 @@
+Candidate: Aditya Mukherjee (Junior Trainee / Fresher)
+Email: aditya.mukherjee@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, Prometheus.
+Skills Inventory:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.8 years):
+  Reviewed tutorials and observed team workflows covering PostgreSQL, Python, AWS, FastAPI.
+Education: Diploma in Computer Applications

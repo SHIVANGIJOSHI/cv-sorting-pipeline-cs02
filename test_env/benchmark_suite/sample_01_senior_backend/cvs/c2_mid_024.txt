@@ -1,0 +1,9 @@
+Candidate: Aditya Nair (Associate Developer)
+Email: aditya.nair@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: Java, Docker, FastAPI, Python, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Java endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

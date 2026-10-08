@@ -1,0 +1,9 @@
+Candidate: Priya Smith (Associate Developer)
+Email: priya.smith@workmail.com
+Summary:
+Software developer with 1.1 years of professional experience supporting web and system infrastructure.
+Skills: Git, Docker, TypeScript, React, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (1.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Git endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

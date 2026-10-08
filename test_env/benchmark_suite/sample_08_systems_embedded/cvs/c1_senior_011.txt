@@ -1,0 +1,11 @@
+Candidate: David Williams (Senior Specialist)
+Email: david.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.7 years of experience designing and shipping scalable systems, specializing in Linux Kernel, UART, GDB, SPI.
+Technical Skills: Linux Kernel, UART, GDB, SPI, C, RTOS, I2C, Microcontrollers, CAN bus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (2.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Linux Kernel and UART.
+Education: B.Tech in Computer Science, Anna University

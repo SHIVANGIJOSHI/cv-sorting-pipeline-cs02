@@ -1,0 +1,178 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{url}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=blue
+}
+
+\setstretch{1.10}
+\setlength{\parindent}{0.18in}
+\setlength{\parskip}{0pt}
+
+% Compressed vertical equation spacing
+\setlength{\abovedisplayskip}{2pt}
+\setlength{\belowdisplayskip}{2pt}
+\setlength{\abovedisplayshortskip}{1pt}
+\setlength{\belowdisplayshortskip}{1pt}
+
+% Compact section formatting
+\titleformat{\section}{\normalfont\fontsize{12}{14}\bfseries}{\thesection}{0.5em}{}
+\titleformat{\subsection}{\normalfont\fontsize{10.5}{12.5}\bfseries}{\thesubsection}{0.5em}{}
+\titlespacing*{\section}{0pt}{3pt}{1pt}
+\titlespacing*{\subsection}{0pt}{2pt}{1pt}
+
+\begin{document}
+
+\begin{center}
+    {\fontsize{14}{16}\bfseries Two-Stage Cascaded Information Retrieval and LLM Orchestration for Automated Resume Screening}\\[2.5pt]
+    {\fontsize{10.5}{12.5}\bfseries Capstone Project CS[02]: Technical Report}\\[1.5pt]
+    \rule{\textwidth}{0.6pt}
+\end{center}
+
+\vspace{-16pt}
+
+\section{Introduction and Problem Statement}
+Manual resume screening across large applicant pools is slow, subjective, and operationally inefficient. Traditional lexical matching tools fail against keyword stuffing, where applicants artificially match job descriptions without having verified experience. Conversely, evaluating entire pools with commercial Large Language Models (LLMs) incurs high latency, substantial API costs, and vulnerability to indirect prompt injections.
+
+To resolve these challenges, this project presents an automated, two-stage Information Retrieval (IR) screening pipeline orchestrated via LangChain~\cite{langchain}. The system provides two operational modes:
+\begin{itemize}[topsep=1pt,itemsep=0pt,parsep=0pt]
+    \item \textbf{Mode A (Local Neural Engine):} Runs completely offline on commodity CPU hardware using open-source transformers, incurring zero operational API costs.
+    \item \textbf{Mode B (Generative LLM Engine):} Employs an external LLM via LangChain with Pydantic structured output validation to synthesize explainable recruiter audit scorecards.
+\end{itemize}
+
+\section{System Architecture and Model Justifications}
+The pipeline is constructed as an acyclic graph via LangChain Expression Language (LCEL) with strict schema validation contracts across all intermediate representations.
+
+\subsection{Document Ingestion and Security Guardrails}
+Resumes (PDF/TXT) are parsed and normalized via Unicode NFKC decomposition, stripping non-printable control characters ($\mathcal{C}_c, \mathcal{C}_f$). A compiled, case-insensitive regex engine scans incoming text for adversarial injection vectors (e.g., system command overrides, delimiters, or score overrides). Detected payloads are redacted into benign tokens, raising an alert flag that penalizes the composite score by 50\%.
+
+\subsection{Stage 1: Coarse Hybrid Retrieval Model}
+Filters large applicant pools down to a high-recall shortlist in sub-linear vector lookup time.
+\begin{itemize}[topsep=1pt,itemsep=0pt,parsep=0pt]
+    \item \textbf{Selected Model:} \texttt{BAAI/bge-base-en-v1.5} (Bi-Encoder, 768 dimensions, 512 tokens)~\cite{bge_models}.
+    \item \textbf{Technical Justification:} Job descriptions and resumes are structurally asymmetric in syntax and length. While symmetric models suffer under length disparity, BGE prepends an asymmetric search instruction prefix to the query vector space ($\mathbf{q} \in \mathbb{R}^{768}$) while encoding raw resumes ($\mathbf{d} \in \mathbb{R}^{768}$), achieving top-tier retrieval on the MTEB benchmark.
+\end{itemize}
+
+\subsection{Stage 2: Deep Cross-Encoder and Generative Reranking}
+Refines Stage 1 outputs using joint cross-attention or generative semantic reasoning:
+\begin{itemize}[topsep=1pt,itemsep=0pt,parsep=0pt]
+    \item \textbf{Mode A Neural Model:} \texttt{BAAI/bge-reranker-base}~\cite{bge_models}. Jointly encodes the concatenated pair $[\mathbf{q}; \mathbf{d}]$ with all-to-all cross-attention. Trained on hard negatives, it penalizes superficial keyword matching that deceives bi-encoder cosine similarity.
+    \item \textbf{Mode B Generative Model:} \texttt{openai/gpt-oss-20b} (via Groq LPU) with \texttt{gpt-4o-mini} fallback.
+    \begin{itemize}[topsep=0.5pt,itemsep=0pt,parsep=0pt]
+        \item \textit{Zero Marginal Cost:} Accessible over Groq's developer free tier, eliminating testing costs.
+        \item \textit{LPU Hardware Acceleration:} Operating as a 21B Mixture-of-Experts architecture ($\approx 3.6\text{B}$ active parameters/token) served on Groq LPUs, it completes inference in under 450 ms per resume.
+        \item \textit{Deterministic Schema Conformance:} Native integration with LangChain's \texttt{.with\_\allowbreak structured\_\allowbreak output()} ensures valid Pydantic JSON decoding with zero hallucinated keys.
+    \end{itemize}
+    \item \textbf{OpenAI Fallback:} An adaptive client factory routes to \texttt{gpt-4o-mini} if standard OpenAI keys (\texttt{sk-...}) are detected instead of Groq keys (\texttt{gsk\_...}), ensuring vendor independence.
+\end{itemize}
+
+\section{Mathematical Formulation of Candidate Scoring}
+
+\subsection{Stage 1: Convex Hybrid Combination}
+For query $\mathbf{q}$ and candidate document $\mathbf{d}_i$, dense semantic similarity ($\sigma_{\text{dense}} = \frac{\mathbf{q} \cdot \mathbf{d}_i}{\|\mathbf{q}\| \|\mathbf{d}_i\|} \times 100$) and exact mandatory skill overlap ($\sigma_{\text{lex}} = \frac{|\mathcal{S}_{\text{cand}} \cap \mathcal{S}_{\text{jd}}|}{|\mathcal{S}_{\text{jd}}|} \times 100$) are blended into a coarse retrieval score:
+{\small
+\begin{equation}
+    S_{\text{Stage1}} = 0.60 \cdot \sigma_{\text{dense}} + 0.40 \cdot \sigma_{\text{lex}}
+\end{equation}
+}
+
+\subsection{Stage 2: Multi-Attribute Rubric and Non-Linear Penalization}
+Stage 2 evaluates candidate profiles across four calibrated dimensions:
+{\small
+\begin{equation}
+    R_{\text{Stage2}} = 0.40 \cdot S_{\text{tech}} + 0.35 \cdot S_{\text{exp}} + 0.15 \cdot S_{\text{domain}} + 0.10 \cdot S_{\text{edu}}
+\end{equation}
+}
+where $S_{\text{domain}}$ and $S_{\text{edu}}$ denote domain and academic fit. To counter keyword stuffers who artificially inflate $S_{\text{tech}}$, $S_{\text{exp}}$ enforces a \textbf{quadratic tenure penalty} when verified experience ($T_{\text{cand}}$) is below the required experience ($T_{\text{req}}$):
+{\small
+\begin{equation}
+    S_{\text{exp}} = \begin{cases} 
+        \left(\frac{T_{\text{cand}}}{T_{\text{req}}}\right)^2 \times 100, & \text{if } T_{\text{cand}} < T_{\text{req}} \\
+        \min\left(100.0, \, 75.0 + 50.0 \left(\frac{T_{\text{cand}}}{T_{\text{req}}} - 1.0\right)\right), & \text{if } T_{\text{cand}} \ge T_{\text{req}}
+    \end{cases}
+\end{equation}
+}
+Under linear scaling, an applicant with 1.0 year of tenure for a 4.0-year role receives 25.0\%; the quadratic function drops this to $(0.25)^2 \times 100 = 6.25\%$. Furthermore, an \textbf{Anti-Keyword-Stuffing Gate} suppresses lexical inflation:
+{\small
+\begin{equation}
+    R_{\text{calibrated}} = \begin{cases} 
+        R_{\text{Stage2}} \times 0.40, & \text{if } \frac{|\mathcal{S}_{\text{cand}} \cap \mathcal{S}_{\text{jd}}|}{|\mathcal{S}_{\text{jd}}|} \ge 0.70 \text{ and } T_{\text{cand}} < 0.60\, T_{\text{req}} \\
+        R_{\text{Stage2}}, & \text{otherwise}
+    \end{cases}
+\end{equation}
+}
+
+\subsection{Final Composite Score and Security Gating}
+The global ranking combines both stages, scaled by threat detection indicator $\mathbb{I}_{\text{threat}} \in \{0, 1\}$:
+{\small
+\begin{equation}
+    S_{\text{final}} = \left( 0.20 \cdot \sigma_{\text{dense}} + 0.10 \cdot \sigma_{\text{lex}} + 0.70 \cdot R_{\text{calibrated}} \right) \times (1.0 - 0.50 \cdot \mathbb{I}_{\text{threat}})
+\end{equation}
+}
+
+\section{Experimental Testing, Results, and Verification}
+The framework was evaluated across a standardized benchmark corpus of \textbf{1,000 resumes} spanning \textbf{10 distinct job domain suites}~\cite{benchmark_suite}. Each suite contained 100 resumes divided into four cohorts: qualified seniors ($n=20$), borderline mid-levels ($n=25$), junior keyword stuffers ($n=30$), and unrelated/adversarial profiles ($n=25$).
+
+\vspace{-2pt}
+\begin{table}[h]
+\centering
+\scriptsize
+\setstretch{0.92}
+\caption{Empirical Benchmark Metrics Across Both Operational Modes}
+\vspace{2pt}
+\begin{tabularx}{\textwidth}{Xcccc}
+\toprule
+\textbf{Benchmark Suite (100 CVs Each)} & \textbf{P@20 (A / B)} & \textbf{MRR (A / B)} & \textbf{Avg Stuffer (A / B)} & \textbf{Threats} \\
+\midrule
+Suite 01: Senior Backend Engineer      & 100.0\% / 100.0\% & 1.00 / 1.00 & \#75.5 / \#38.5 & 10 / 10 \\
+Suite 02: ML Research Engineer         & 85.0\% / 100.0\%  & 1.00 / 1.00 & \#75.5 / \#38.0 & 10 / 10 \\
+Suite 03: DevOps \& Platform           & 95.0\% / 100.0\%  & 1.00 / 1.00 & \#75.5 / \#37.5 & 10 / 10 \\
+Suite 04: Data Platform Engineer       & 85.0\% / 100.0\%  & 1.00 / 1.00 & \#75.5 / \#39.0 & 10 / 10 \\
+Suite 05: Lead Frontend Engineer       & 65.0\% / 95.0\%   & 1.00 / 1.00 & \#75.5 / \#38.5 & 10 / 10 \\
+Suite 06: Cybersecurity Analyst        & 40.0\% / 90.0\%   & 0.17 / 1.00 & \#43.9 / \#40.0 & 10 / 10 \\
+Suite 07: Full Stack Engineer          & 95.0\% / 100.0\%  & 1.00 / 1.00 & \#75.5 / \#37.0 & 10 / 10 \\
+Suite 08: Embedded Systems             & 80.0\% / 100.0\%  & 1.00 / 1.00 & \#75.5 / \#38.5 & 10 / 10 \\
+Suite 09: Database Administrator       & 85.0\% / 100.0\%  & 1.00 / 1.00 & \#75.5 / \#38.0 & 10 / 10 \\
+Suite 10: NLP \& Agentic AI Architect  & 100.0\% / 100.0\% & 1.00 / 1.00 & \#75.5 / \#38.0 & 10 / 10 \\
+\midrule
+\textbf{Aggregate Benchmark (1,000 CVs)} & \textbf{83.00\% / 98.50\%} & \textbf{0.9167 / 1.0000} & \textbf{\#72.3 / \#38.3} & \textbf{100 / 100} \\
+\bottomrule
+\end{tabularx}
+\end{table}
+\vspace{-4pt}
+
+\subsection{Comparative Analysis of Experimental Findings}
+\begin{itemize}[topsep=1pt,itemsep=0pt,parsep=0pt]
+    \item \textbf{Precision@20 \& Ranking Quality:} Mode A maintained an 83.00\% Mean P@20 and 0.9167 MRR across 1,000 CVs on local CPU. Mode B achieved 98.50\% Mean P@20 and 1.0000 MRR, isolating verified seniors at ranks \#1--\#20 (scores 72.44--84.27).
+    \item \textbf{Keyword Stuffer Demotion:} Quadratic tenure scaling demoted stuffers to average rank \#72.3 in Mode A. Mode B autoregressively identified superficial listings, reducing Stage 2 scores from 85.0\% to 19.5\%--40.5\% (ranks \#21--\#46).
+    \item \textbf{Adversarial Neutralization:} Guardrails intercepted 100\% (100/100) of prompt injection payloads, enforcing 50\% score penalties and relegating attackers to ranks \#91--\#100 (scores 7.54--12.74).
+    \item \textbf{Latency Profile:} Mode A completed evaluations in 65 ms/resume on CPU within a 1.1 GB memory footprint. Mode B produced structured recruiter justifications in 420 ms/resume on Groq LPUs.
+\end{itemize}
+
+\section{Conclusion}
+This project demonstrates an auditable, two-stage IR resume screening pipeline orchestrated via LangChain. By combining asymmetric bi-encoders, hard-negative cross-encoders, and schema-constrained generative reasoning, the system eliminates keyword inflation while neutralizing prompt injections. The dual-mode design balances operational flexibility: Mode A provides cost-free, high-throughput offline screening on commodity CPUs, while Mode B offers rich, explainable recruiter scorecard audits.
+
+\begin{thebibliography}{9}
+\scriptsize
+\bibitem{langchain} H.~Chase, ``LangChain: Building applications with LLMs through composability,'' 2023. [Online]. Available: \url{https://github.com/langchain-ai/langchain}
+\bibitem{bge_models} Beijing Academy of Artificial Intelligence (BAAI), ``BAAI General Embedding (BGE) Models: Bi-Encoder and Reranker Series,'' 2023. [Online]. Available: \url{https://huggingface.co/BAAI}
+\bibitem{groq_lpu} Groq Inc., ``Language Processing Units (LPUs) and Developer Inference Cloud,'' 2024. [Online]. Available: \url{https://groq.com}
+\bibitem{benchmark_suite} Project Repository \& 1,000-CV Empirical Evaluation Suite, 2026. [Online]. Available: \url{https://github.com/SHIVANGIJOSHI/cv-sorting-pipeline-cs02}
+\end{thebibliography}
+
+\end{document}

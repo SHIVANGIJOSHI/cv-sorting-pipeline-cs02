@@ -1,0 +1,9 @@
+Candidate: Kavita Mukherjee (Associate Developer)
+Email: kavita.mukherjee@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: Snowflake, Kafka, PostgreSQL, dbt, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Snowflake endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

@@ -1,0 +1,9 @@
+Candidate: Michael Choudhury (Associate Developer)
+Email: michael.choudhury@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: PostgreSQL, Redis, Kafka, Python, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained PostgreSQL endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

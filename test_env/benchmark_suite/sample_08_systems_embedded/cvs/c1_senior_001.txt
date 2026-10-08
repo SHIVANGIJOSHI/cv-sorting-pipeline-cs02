@@ -1,0 +1,11 @@
+Candidate: Ananya Patel (Senior Specialist)
+Email: ananya.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.6 years of experience designing and shipping scalable systems, specializing in GDB, SPI, Linux Kernel, UART.
+Technical Skills: GDB, SPI, Linux Kernel, UART, I2C, C++, RTOS, Microcontrollers, CAN bus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (2.6 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using GDB and SPI.
+Education: B.Tech in Computer Science, NIT Trichy

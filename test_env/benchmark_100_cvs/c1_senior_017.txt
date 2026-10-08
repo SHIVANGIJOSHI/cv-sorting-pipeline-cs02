@@ -1,0 +1,22 @@
+Candidate: Kavita Mukherjee
+Title: Senior Backend & Distributed Systems Engineer
+Email: kavita.mukherjee@engineering.io
+
+Executive Summary:
+Principal software engineer offering 7.8 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Java, FastAPI, Python, Docker, PostgreSQL
+Infrastructure & Storage: Kubernetes, Kafka, MongoDB, Airflow, GraphQL
+
+Professional Experience:
+1. Lead Software Engineer | OmniData Solutions (5.8 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 41k requests/second.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Nexus Fintech (2.0 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 54k requests/second.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, BITS Pilani

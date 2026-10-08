@@ -1,0 +1,11 @@
+Candidate: David Iyer (Senior Specialist)
+Email: david.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.7 years of experience designing and shipping scalable systems, specializing in JAX, Triton, CUDA, LangChain.
+Technical Skills: JAX, Triton, CUDA, LangChain, PyTorch, RAG, vLLM, TensorRT, Ray, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (3.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using JAX and Triton.
+Education: B.Tech in Computer Science, NIT Trichy

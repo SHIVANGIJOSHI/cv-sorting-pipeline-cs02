@@ -1,0 +1,7 @@
+Alice Smith - Senior Software Engineer
+Experience: 5 years in backend and AI engineering.
+Skills: Python, PyTorch, RAG, Transformers, Docker, Kubernetes, PostgreSQL, FastAPI.
+Work History:
+- Designed distributed RAG pipelines processing 10M daily embeddings using PyTorch and PostgreSQL.
+- Built scalable microservices in Python and Java deployed with Docker and Kubernetes.
+Education: B.Tech in Computer Science.

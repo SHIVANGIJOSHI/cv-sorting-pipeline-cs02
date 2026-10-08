@@ -1,0 +1,9 @@
+Candidate: David Smith (Associate Developer)
+Email: david.smith@workmail.com
+Summary:
+Software developer with 3.6 years of professional experience supporting web and system infrastructure.
+Skills: Docker, Kubernetes, Helm, Grafana, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Docker endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

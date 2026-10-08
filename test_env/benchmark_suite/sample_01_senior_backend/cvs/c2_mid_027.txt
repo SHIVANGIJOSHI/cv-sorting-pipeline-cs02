@@ -1,0 +1,9 @@
+Candidate: James Nair (Associate Developer)
+Email: james.nair@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: FastAPI, Kubernetes, AWS, Java, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained FastAPI endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

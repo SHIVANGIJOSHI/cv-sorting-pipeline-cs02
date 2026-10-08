@@ -1,0 +1,18 @@
+Candidate: Elena Iyer
+Title: Software Engineer (Mid-Level)
+Email: elena.iyer@techdev.net
+
+Professional Summary:
+Software engineer with 2.8 years of experience supporting web applications, basic REST APIs, and backend data processing.
+
+Skills:
+Java, Docker, Python, Kafka, Airflow, Cassandra, HTML/CSS, Git, Jira.
+
+Work Experience:
+Software Developer | Vanguard Distributed Tech (2.8 years)
+- Developed API endpoints and integrated third-party payment gateways.
+- Assisted lead architect with database schema updates and Docker configuration files.
+- Participated in weekly agile stand-ups and code reviews.
+
+Education:
+Bachelor of Science in Information Technology, IIT Kharagpur

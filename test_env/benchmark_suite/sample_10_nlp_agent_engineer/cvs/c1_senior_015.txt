@@ -1,0 +1,11 @@
+Candidate: Kavita Brown (Senior Specialist)
+Email: kavita.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.5 years of experience designing and shipping scalable systems, specializing in LangChain, FastAPI, Prompt Engineering, RAG.
+Technical Skills: LangChain, FastAPI, Prompt Engineering, RAG, Vector Databases, Docker, LlamaIndex, Semantic Kernel, pgvector, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using LangChain and FastAPI.
+Education: B.Tech in Computer Science, IIIT Hyderabad

@@ -1,0 +1,9 @@
+Candidate: Priya Gupta (Associate Developer)
+Email: priya.gupta@workmail.com
+Summary:
+Software developer with 1.7 years of professional experience supporting web and system infrastructure.
+Skills: GDB, Linux Kernel, SPI, I2C, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (1.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained GDB endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

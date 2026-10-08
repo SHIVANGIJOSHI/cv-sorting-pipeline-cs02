@@ -1,0 +1,9 @@
+Candidate: Aarav Choudhury (Associate Developer)
+Email: aarav.choudhury@workmail.com
+Summary:
+Software developer with 1.8 years of professional experience supporting web and system infrastructure.
+Skills: C, C++, ARM Cortex, SPI, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (1.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,10 @@
+Candidate: Aarav Brown (Junior Trainee / Fresher)
+Email: aarav.brown@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: React, TypeScript, Next.js, JavaScript, Redux, TailwindCSS, GraphQL, Webpack, Jest, Vite, Node.js, Cypress, Storybook, HTML5.
+Skills Inventory:
+React, TypeScript, Next.js, JavaScript, Redux, TailwindCSS, GraphQL, Webpack, Jest, Vite, Node.js, Cypress, Storybook, HTML5, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.0 years):
+  Reviewed tutorials and observed team workflows covering JavaScript, Redux, TailwindCSS, Next.js.
+Education: Diploma in Computer Applications

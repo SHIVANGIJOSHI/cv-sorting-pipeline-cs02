@@ -1,0 +1,11 @@
+Candidate: James Gupta (Senior Specialist)
+Email: james.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.4 years of experience designing and shipping scalable systems, specializing in Helm, Grafana, Terraform, Linux.
+Technical Skills: Helm, Grafana, Terraform, Linux, CI/CD, Prometheus, Kubernetes, ArgoCD, Vault, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Helm and Grafana.
+Education: B.Tech in Computer Science, Delhi Technological University

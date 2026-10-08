@@ -1,0 +1,11 @@
+Candidate: Sarah Patel (Senior Specialist)
+Email: sarah.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.9 years of experience designing and shipping scalable systems, specializing in HuggingFace, JAX, Python, LangChain.
+Technical Skills: HuggingFace, JAX, Python, LangChain, CUDA, vLLM, RAG, TensorRT, FAISS, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (4.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using HuggingFace and JAX.
+Education: B.Tech in Computer Science, BITS Pilani

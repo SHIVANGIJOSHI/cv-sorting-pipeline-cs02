@@ -1,0 +1,9 @@
+Candidate: Priya Verma (Associate Developer)
+Email: priya.verma@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: Webpack, TailwindCSS, React, Redux, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Webpack endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

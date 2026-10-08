@@ -1,0 +1,11 @@
+Candidate: James Williams (Senior Specialist)
+Email: james.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.5 years of experience designing and shipping scalable systems, specializing in TypeScript, GraphQL, Redux, React.
+Technical Skills: TypeScript, GraphQL, Redux, React, Webpack, Next.js, TailwindCSS, Cypress, HTML5, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (5.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TypeScript and GraphQL.
+Education: B.Tech in Computer Science, BITS Pilani

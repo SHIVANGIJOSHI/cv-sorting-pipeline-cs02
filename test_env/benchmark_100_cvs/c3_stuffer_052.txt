@@ -1,0 +1,18 @@
+Candidate: Vikram Choudhury
+Title: Junior Associate / Software Trainee
+Email: vikram.choudhury@entrylevel.org
+
+Summary:
+Enthusiastic beginner and fast learner possessing broad theoretical familiarity across modern enterprise stacks:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, GraphQL, MongoDB, Elasticsearch, gRPC, Prometheus, Terraform, RabbitMQ, Cassandra, Airflow.
+
+Technical Keyword Inventory:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, GraphQL, MongoDB, Elasticsearch, gRPC, Prometheus, Terraform, RabbitMQ, Cassandra, Airflow, Artificial Intelligence, Deep Learning, Blockchain, DevOps, Cloud.
+
+Experience:
+Junior Intern | Tech Solutions Hub (0.9 years)
+- Reviewed online documentation and completed lab tutorials covering Python, Kafka, PostgreSQL, Java, AWS.
+- Maintained documentation for team meetings and assisted with manual testing.
+
+Education:
+Diploma in Computer Applications

@@ -1,0 +1,10 @@
+Candidate: David Reddy (Junior Trainee / Fresher)
+Email: david.reddy@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus.
+Skills Inventory:
+PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.0 years):
+  Reviewed tutorials and observed team workflows covering MySQL, Bash, SQL, Database Tuning.
+Education: Diploma in Computer Applications

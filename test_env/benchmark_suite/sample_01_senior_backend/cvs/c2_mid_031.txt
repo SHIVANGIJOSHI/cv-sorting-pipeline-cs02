@@ -1,0 +1,9 @@
+Candidate: Kavita Mukherjee (Associate Developer)
+Email: kavita.mukherjee@workmail.com
+Summary:
+Software developer with 2.4 years of professional experience supporting web and system infrastructure.
+Skills: Kubernetes, AWS, Python, Kafka, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Kubernetes endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

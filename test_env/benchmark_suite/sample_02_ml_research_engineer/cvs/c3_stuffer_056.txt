@@ -1,0 +1,10 @@
+Candidate: Aditya Gupta (Junior Trainee / Fresher)
+Email: aditya.gupta@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: PyTorch, JAX, Python, CUDA, HuggingFace, RAG, vLLM, Triton, LangChain, DeepSpeed, TensorRT, FAISS, Weights & Biases, Ray.
+Skills Inventory:
+PyTorch, JAX, Python, CUDA, HuggingFace, RAG, vLLM, Triton, LangChain, DeepSpeed, TensorRT, FAISS, Weights & Biases, Ray, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.6 years):
+  Reviewed tutorials and observed team workflows covering PyTorch, Python, LangChain, HuggingFace.
+Education: Diploma in Computer Applications

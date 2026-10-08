@@ -1,0 +1,22 @@
+Candidate: Vikram Gupta
+Title: Senior Backend & Distributed Systems Engineer
+Email: vikram.gupta@engineering.io
+
+Executive Summary:
+Principal software engineer offering 7.1 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Java, FastAPI, AWS, PostgreSQL, Kubernetes
+Infrastructure & Storage: Docker, Kafka, GraphQL, Airflow, Prometheus
+
+Professional Experience:
+1. Lead Software Engineer | Apex Core Systems (5.1 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 16k requests/second.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Apex Core Systems (2.0 years)
+   - Led database optimization initiative, restructuring Redis indexing and partition strategies which decreased p99 query latency by 51%.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, IIIT Hyderabad

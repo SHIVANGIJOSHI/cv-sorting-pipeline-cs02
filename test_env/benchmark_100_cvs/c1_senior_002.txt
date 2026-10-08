@@ -1,0 +1,22 @@
+Candidate: Elena Verma
+Title: Senior Backend & Distributed Systems Engineer
+Email: elena.verma@engineering.io
+
+Executive Summary:
+Principal software engineer offering 6.8 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Docker, AWS, Kafka, Redis, Kubernetes
+Infrastructure & Storage: Python, PostgreSQL, Prometheus, RabbitMQ, Cassandra
+
+Professional Experience:
+1. Lead Software Engineer | Nexus Fintech (4.8 years)
+   - Led database optimization initiative, restructuring PostgreSQL indexing and partition strategies which decreased p99 query latency by 63%.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Apex Core Systems (2.0 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 50k requests/second.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, Delhi Technological University

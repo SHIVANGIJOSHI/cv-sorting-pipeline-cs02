@@ -1,0 +1,18 @@
+Candidate: Sarah Kulkarni
+Title: Software Engineer (Mid-Level)
+Email: sarah.kulkarni@techdev.net
+
+Professional Summary:
+Software engineer with 2.6 years of experience supporting web applications, basic REST APIs, and backend data processing.
+
+Skills:
+Redis, FastAPI, Java, Kubernetes, Prometheus, Airflow, HTML/CSS, Git, Jira.
+
+Work Experience:
+Software Developer | Nexus Fintech (2.6 years)
+- Developed API endpoints and integrated third-party payment gateways.
+- Assisted lead architect with database schema updates and Docker configuration files.
+- Participated in weekly agile stand-ups and code reviews.
+
+Education:
+Bachelor of Science in Information Technology, IIIT Hyderabad

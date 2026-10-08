@@ -1,0 +1,9 @@
+Candidate: Emily Nair (Associate Developer)
+Email: emily.nair@workmail.com
+Summary:
+Software developer with 1.0 years of professional experience supporting web and system infrastructure.
+Skills: PyTorch, Triton, CUDA, RAG, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (1.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained PyTorch endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

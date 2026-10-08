@@ -1,0 +1,11 @@
+Candidate: Kavita Patel (Senior Specialist)
+Email: kavita.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.7 years of experience designing and shipping scalable systems, specializing in TailwindCSS, TypeScript, GraphQL, Jest.
+Technical Skills: TailwindCSS, TypeScript, GraphQL, Jest, Webpack, JavaScript, React, Node.js, HTML5, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (5.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TailwindCSS and TypeScript.
+Education: B.Tech in Computer Science, Delhi Technological University

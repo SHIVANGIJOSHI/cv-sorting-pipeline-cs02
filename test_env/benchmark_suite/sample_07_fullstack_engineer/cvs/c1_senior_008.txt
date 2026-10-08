@@ -1,0 +1,11 @@
+Candidate: Aarav Choudhury (Senior Specialist)
+Email: aarav.choudhury@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.2 years of experience designing and shipping scalable systems, specializing in Docker, PostgreSQL, Node.js, AWS.
+Technical Skills: Docker, PostgreSQL, Node.js, AWS, REST APIs, TypeScript, React, MongoDB, Jest, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (5.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and PostgreSQL.
+Education: B.Tech in Computer Science, BITS Pilani

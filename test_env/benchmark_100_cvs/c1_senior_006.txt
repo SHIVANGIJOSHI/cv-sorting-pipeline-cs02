@@ -1,0 +1,22 @@
+Candidate: Emily Brown
+Title: Senior Backend & Distributed Systems Engineer
+Email: emily.brown@engineering.io
+
+Executive Summary:
+Principal software engineer offering 4.6 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Python, AWS, PostgreSQL, Kubernetes, Docker
+Infrastructure & Storage: Redis, FastAPI, MongoDB, Airflow, GraphQL
+
+Professional Experience:
+1. Lead Software Engineer | Nexus Fintech (2.6 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 25k requests/second.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | OmniData Solutions (2.0 years)
+   - Designed asynchronous message brokering layer using Kafka and Redis to decouple payment workflows.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, NIT Trichy

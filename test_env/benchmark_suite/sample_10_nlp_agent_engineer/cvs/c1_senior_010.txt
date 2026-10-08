@@ -1,0 +1,11 @@
+Candidate: Deepak Rao (Senior Specialist)
+Email: deepak.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.1 years of experience designing and shipping scalable systems, specializing in Prompt Engineering, Python, FastAPI, RAG.
+Technical Skills: Prompt Engineering, Python, FastAPI, RAG, Vector Databases, Docker, LlamaIndex, Semantic Kernel, pgvector, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Prompt Engineering and Python.
+Education: B.Tech in Computer Science, Anna University

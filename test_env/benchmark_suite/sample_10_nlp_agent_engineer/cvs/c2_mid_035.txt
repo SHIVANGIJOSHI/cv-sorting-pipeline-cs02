@@ -1,0 +1,9 @@
+Candidate: Ananya Nair (Associate Developer)
+Email: ananya.nair@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: Python, Docker, OpenAI API, LlamaIndex, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Python endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

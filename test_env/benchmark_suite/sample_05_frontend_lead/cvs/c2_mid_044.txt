@@ -1,0 +1,9 @@
+Candidate: Kavita Verma (Associate Developer)
+Email: kavita.verma@workmail.com
+Summary:
+Software developer with 3.1 years of professional experience supporting web and system infrastructure.
+Skills: React, TypeScript, TailwindCSS, Webpack, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (3.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained React endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,9 @@
+Candidate: David Rao (Associate Developer)
+Email: david.rao@workmail.com
+Summary:
+Software developer with 2.7 years of professional experience supporting web and system infrastructure.
+Skills: dbt, Hadoop, SQL, Airflow, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained dbt endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

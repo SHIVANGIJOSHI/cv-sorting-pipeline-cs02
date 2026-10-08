@@ -1,0 +1,11 @@
+Candidate: David Kulkarni (Senior Specialist)
+Email: david.kulkarni@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.2 years of experience designing and shipping scalable systems, specializing in Snowflake, dbt, SQL, Hadoop.
+Technical Skills: Snowflake, dbt, SQL, Hadoop, Kafka, Airflow, PostgreSQL, Databricks, Flink, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (5.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Snowflake and dbt.
+Education: B.Tech in Computer Science, Delhi Technological University

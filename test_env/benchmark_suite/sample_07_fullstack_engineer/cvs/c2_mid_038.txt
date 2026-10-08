@@ -1,0 +1,9 @@
+Candidate: Emily Verma (Associate Developer)
+Email: emily.verma@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: React, TypeScript, Express, Git, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained React endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

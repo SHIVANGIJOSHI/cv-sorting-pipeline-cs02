@@ -1,0 +1,11 @@
+Candidate: Michael Rao (Senior Specialist)
+Email: michael.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.6 years of experience designing and shipping scalable systems, specializing in TypeScript, REST APIs, Node.js, PostgreSQL.
+Technical Skills: TypeScript, REST APIs, Node.js, PostgreSQL, AWS, React, Docker, TailwindCSS, Redis, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (4.6 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TypeScript and REST APIs.
+Education: B.Tech in Computer Science, IIT Kharagpur

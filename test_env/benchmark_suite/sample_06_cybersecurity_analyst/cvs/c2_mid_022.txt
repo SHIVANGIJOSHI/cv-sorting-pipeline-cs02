@@ -1,0 +1,9 @@
+Candidate: Kavita Choudhury (Associate Developer)
+Email: kavita.choudhury@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: Splunk, Wireshark, Cryptography, Python, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Splunk endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

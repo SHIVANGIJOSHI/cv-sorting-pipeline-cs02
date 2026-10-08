@@ -1,0 +1,11 @@
+Candidate: Aarav Iyer (Senior Specialist)
+Email: aarav.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.6 years of experience designing and shipping scalable systems, specializing in Jest, JavaScript, TypeScript, Next.js.
+Technical Skills: Jest, JavaScript, TypeScript, Next.js, TailwindCSS, React, Redux, Node.js, Cypress, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (3.6 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Jest and JavaScript.
+Education: B.Tech in Computer Science, BITS Pilani

@@ -1,0 +1,9 @@
+Candidate: Ananya Brown (Associate Developer)
+Email: ananya.brown@workmail.com
+Summary:
+Software developer with 2.9 years of professional experience supporting web and system infrastructure.
+Skills: ARM Cortex, UART, SPI, GDB, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained ARM Cortex endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

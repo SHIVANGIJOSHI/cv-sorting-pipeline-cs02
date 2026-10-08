@@ -1,0 +1,10 @@
+Candidate: Michael Smith (Junior Trainee / Fresher)
+Email: michael.smith@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.6 years):
+  Reviewed tutorials and observed team workflows covering AWS, Helm, CI/CD, Grafana.
+Education: Diploma in Computer Applications

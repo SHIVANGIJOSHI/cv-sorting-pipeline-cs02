@@ -1,0 +1,9 @@
+Candidate: James Smith (Associate Developer)
+Email: james.smith@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: Vector Databases, LlamaIndex, FastAPI, RAG, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vector Databases endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

@@ -1,0 +1,11 @@
+Candidate: Aarav Reddy (Senior Specialist)
+Email: aarav.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in AWS, Python, Redis, Java.
+Technical Skills: AWS, Python, Redis, Java, Kafka, PostgreSQL, FastAPI, gRPC, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using AWS and Python.
+Education: B.Tech in Computer Science, NIT Trichy

@@ -1,0 +1,10 @@
+Candidate: Vikram Gupta (Junior Trainee / Fresher)
+Email: vikram.gupta@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: C, C++, RTOS, ARM Cortex, Linux Kernel, I2C, SPI, UART, GDB, FreeRTOS, Device Drivers, CAN bus, Microcontrollers, Oscilloscope.
+Skills Inventory:
+C, C++, RTOS, ARM Cortex, Linux Kernel, I2C, SPI, UART, GDB, FreeRTOS, Device Drivers, CAN bus, Microcontrollers, Oscilloscope, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.9 years):
+  Reviewed tutorials and observed team workflows covering ARM Cortex, C, RTOS, C++.
+Education: Diploma in Computer Applications

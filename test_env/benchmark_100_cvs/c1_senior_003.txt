@@ -1,0 +1,22 @@
+Candidate: Michael Johnson
+Title: Senior Backend & Distributed Systems Engineer
+Email: michael.johnson@engineering.io
+
+Executive Summary:
+Principal software engineer offering 6.6 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Kafka, AWS, Docker, Python, FastAPI
+Infrastructure & Storage: Java, PostgreSQL, Terraform, RabbitMQ, Cassandra
+
+Professional Experience:
+1. Lead Software Engineer | Pinnacle Cloud Services (4.6 years)
+   - Spearheaded containerization with Docker and Kubernetes, reducing staging deployment turnarounds from hours to under 12 minutes.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | HyperScale Labs (2.0 years)
+   - Spearheaded containerization with Docker and Kubernetes, reducing staging deployment turnarounds from hours to under 4 minutes.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, Anna University

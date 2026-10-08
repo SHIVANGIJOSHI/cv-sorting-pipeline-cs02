@@ -1,0 +1,11 @@
+Candidate: Vikram Rao (Senior Specialist)
+Email: vikram.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.9 years of experience designing and shipping scalable systems, specializing in Vector Databases, LlamaIndex, Python, LangChain.
+Technical Skills: Vector Databases, LlamaIndex, Python, LangChain, Prompt Engineering, Docker, FastAPI, pgvector, LangGraph, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (3.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Vector Databases and LlamaIndex.
+Education: B.Tech in Computer Science, NIT Trichy

@@ -1,0 +1,11 @@
+Candidate: Fatima Reddy (Senior Specialist)
+Email: fatima.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.4 years of experience designing and shipping scalable systems, specializing in Kafka, SQL, Apache Spark, dbt.
+Technical Skills: Kafka, SQL, Apache Spark, dbt, Airflow, PostgreSQL, Hadoop, Presto, BigQuery, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Kafka and SQL.
+Education: B.Tech in Computer Science, BITS Pilani

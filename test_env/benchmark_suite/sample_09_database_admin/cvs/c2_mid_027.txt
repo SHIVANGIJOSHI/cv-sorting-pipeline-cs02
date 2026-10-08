@@ -1,0 +1,9 @@
+Candidate: Priya Williams (Associate Developer)
+Email: priya.williams@workmail.com
+Summary:
+Software developer with 4.4 years of professional experience supporting web and system infrastructure.
+Skills: MySQL, Database Tuning, Python, PostgreSQL, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (4.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained MySQL endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,6 @@
+Bob Jones - Junior Developer
+Experience: 1 year experience.
+Skills: Python, Java, PyTorch, Transformers, RAG, PostgreSQL, OpenSearch, Docker, Kubernetes, FastAPI.
+Summary:
+Interested in software engineering and learning Python, PyTorch, and RAG. Looking for entry-level opportunities.
+Education: Bachelor of Science.

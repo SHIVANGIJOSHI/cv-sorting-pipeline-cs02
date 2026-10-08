@@ -1,0 +1,9 @@
+Candidate: Ananya Sharma (Associate Developer)
+Email: ananya.sharma@workmail.com
+Summary:
+Software developer with 4.3 years of professional experience supporting web and system infrastructure.
+Skills: AWS, Prometheus, Helm, Kubernetes, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (4.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained AWS endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

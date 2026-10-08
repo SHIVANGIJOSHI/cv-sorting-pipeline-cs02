@@ -1,0 +1,9 @@
+Candidate: Priya Smith (Associate Developer)
+Email: priya.smith@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: Vector Databases, LlamaIndex, Prompt Engineering, RAG, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vector Databases endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

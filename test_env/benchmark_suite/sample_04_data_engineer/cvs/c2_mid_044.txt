@@ -1,0 +1,9 @@
+Candidate: Fatima Reddy (Associate Developer)
+Email: fatima.reddy@workmail.com
+Summary:
+Software developer with 3.2 years of professional experience supporting web and system infrastructure.
+Skills: Snowflake, PostgreSQL, Python, Apache Spark, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Snowflake endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

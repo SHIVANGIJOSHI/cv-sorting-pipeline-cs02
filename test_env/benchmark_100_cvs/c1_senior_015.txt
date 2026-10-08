@@ -1,0 +1,22 @@
+Candidate: Elena Iyer
+Title: Senior Backend & Distributed Systems Engineer
+Email: elena.iyer@engineering.io
+
+Executive Summary:
+Principal software engineer offering 4.6 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Kafka, Docker, Java, FastAPI, Redis
+Infrastructure & Storage: Kubernetes, PostgreSQL, GraphQL, Cassandra, RabbitMQ
+
+Professional Experience:
+1. Lead Software Engineer | OmniData Solutions (2.6 years)
+   - Architected and deployed a resilient event-driven ingestion pipeline handling over 22k requests/second.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Apex Core Systems (2.0 years)
+   - Spearheaded containerization with Docker and Kubernetes, reducing staging deployment turnarounds from hours to under 5 minutes.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, IIIT Hyderabad

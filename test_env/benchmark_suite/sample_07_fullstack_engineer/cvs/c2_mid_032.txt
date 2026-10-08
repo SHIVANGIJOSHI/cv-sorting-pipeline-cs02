@@ -1,0 +1,9 @@
+Candidate: David Nair (Associate Developer)
+Email: david.nair@workmail.com
+Summary:
+Software developer with 1.1 years of professional experience supporting web and system infrastructure.
+Skills: PostgreSQL, REST APIs, React, AWS, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (1.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained PostgreSQL endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

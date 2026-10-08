@@ -1,0 +1,10 @@
+Candidate: Sarah Johnson (Junior Trainee / Fresher)
+Email: sarah.johnson@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: C, C++, RTOS, ARM Cortex, Linux Kernel, I2C, SPI, UART, GDB, FreeRTOS, Device Drivers, CAN bus, Microcontrollers, Oscilloscope.
+Skills Inventory:
+C, C++, RTOS, ARM Cortex, Linux Kernel, I2C, SPI, UART, GDB, FreeRTOS, Device Drivers, CAN bus, Microcontrollers, Oscilloscope, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.7 years):
+  Reviewed tutorials and observed team workflows covering C, ARM Cortex, UART, GDB.
+Education: Diploma in Computer Applications

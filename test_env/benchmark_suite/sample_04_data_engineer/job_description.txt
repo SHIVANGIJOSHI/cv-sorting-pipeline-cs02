@@ -1,0 +1,10 @@
+Job Title: Senior Data Platform Engineer
+Minimum Experience Required: 4.0 years
+Mandatory Technical Skills: Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop
+Preferred Skills: Delta Lake, BigQuery, Databricks, Presto, Flink
+
+Job Overview:
+Hiring a Senior Data Engineer with 4+ years experience building batch and streaming ingestion pipelines with Spark, Kafka, and Snowflake.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing Apache Spark and Python.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

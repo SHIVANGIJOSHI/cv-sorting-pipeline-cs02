@@ -1,0 +1,22 @@
+Candidate: Priya Brown
+Title: Senior Backend & Distributed Systems Engineer
+Email: priya.brown@engineering.io
+
+Executive Summary:
+Principal software engineer offering 6.5 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Kafka, Java, PostgreSQL, Redis, Python
+Infrastructure & Storage: Kubernetes, Docker, MongoDB, Terraform, RabbitMQ
+
+Professional Experience:
+1. Lead Software Engineer | Vanguard Distributed Tech (4.5 years)
+   - Designed asynchronous message brokering layer using Kafka and Redis to decouple payment workflows.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Nexus Fintech (2.0 years)
+   - Designed asynchronous message brokering layer using Kafka and Redis to decouple payment workflows.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, Delhi Technological University

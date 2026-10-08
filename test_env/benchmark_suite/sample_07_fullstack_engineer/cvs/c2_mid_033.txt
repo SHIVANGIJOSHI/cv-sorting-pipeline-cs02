@@ -1,0 +1,9 @@
+Candidate: Michael Brown (Associate Developer)
+Email: michael.brown@workmail.com
+Summary:
+Software developer with 1.4 years of professional experience supporting web and system infrastructure.
+Skills: AWS, Node.js, TypeScript, Git, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (1.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained AWS endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

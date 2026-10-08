@@ -1,0 +1,9 @@
+Candidate: Deepak Kulkarni (Associate Developer)
+Email: deepak.kulkarni@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: Next.js, TypeScript, GraphQL, React, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Next.js endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

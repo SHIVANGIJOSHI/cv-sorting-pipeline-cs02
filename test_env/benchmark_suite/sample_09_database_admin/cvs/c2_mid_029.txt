@@ -1,0 +1,9 @@
+Candidate: Michael Gupta (Associate Developer)
+Email: michael.gupta@workmail.com
+Summary:
+Software developer with 3.9 years of professional experience supporting web and system infrastructure.
+Skills: Linux, High Availability, Bash, Python, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Linux endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

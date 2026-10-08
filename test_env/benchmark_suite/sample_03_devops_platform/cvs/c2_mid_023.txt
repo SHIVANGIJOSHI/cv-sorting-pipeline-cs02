@@ -1,0 +1,9 @@
+Candidate: Aarav Sharma (Associate Developer)
+Email: aarav.sharma@workmail.com
+Summary:
+Software developer with 4.2 years of professional experience supporting web and system infrastructure.
+Skills: Grafana, Prometheus, Docker, Terraform, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (4.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Grafana endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

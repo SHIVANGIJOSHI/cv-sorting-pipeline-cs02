@@ -1,0 +1,9 @@
+Candidate: Michael Williams (Associate Developer)
+Email: michael.williams@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: Redux, JavaScript, Jest, TypeScript, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Redux endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

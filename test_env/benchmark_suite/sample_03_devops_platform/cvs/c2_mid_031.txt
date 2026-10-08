@@ -1,0 +1,9 @@
+Candidate: Michael Iyer (Associate Developer)
+Email: michael.iyer@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: AWS, Prometheus, Kubernetes, Terraform, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained AWS endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

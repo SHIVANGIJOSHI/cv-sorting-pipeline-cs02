@@ -1,0 +1,9 @@
+Candidate: Neha Nair (Associate Developer)
+Email: neha.nair@workmail.com
+Summary:
+Software developer with 3.0 years of professional experience supporting web and system infrastructure.
+Skills: Python, Vector Databases, Docker, LangChain, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Python endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

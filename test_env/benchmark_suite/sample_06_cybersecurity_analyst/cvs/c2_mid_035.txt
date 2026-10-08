@@ -1,0 +1,9 @@
+Candidate: Ananya Rao (Associate Developer)
+Email: ananya.rao@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: Cryptography, Splunk, Wireshark, Vulnerability Assessment, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Cryptography endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

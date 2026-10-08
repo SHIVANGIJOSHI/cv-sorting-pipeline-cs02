@@ -1,0 +1,9 @@
+Candidate: Fatima Williams (Associate Developer)
+Email: fatima.williams@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: High Availability, Python, Database Tuning, Replication, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained High Availability endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

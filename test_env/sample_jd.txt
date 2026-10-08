@@ -1,0 +1,7 @@
+Role: Senior AI / Backend Software Engineer
+Requirements:
+- Strong proficiency in Python and Java.
+- 4+ years of professional software development experience.
+- Experience with PyTorch, Transformers, and Retrieval-Augmented Generation (RAG).
+- Background in backend systems, PostgreSQL, OpenSearch, Docker, and Kubernetes.
+- Experience designing scalable distributed systems and REST/FastAPI endpoints.

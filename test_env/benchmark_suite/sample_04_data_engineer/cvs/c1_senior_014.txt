@@ -1,0 +1,11 @@
+Candidate: Michael Mukherjee (Senior Specialist)
+Email: michael.mukherjee@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.0 years of experience designing and shipping scalable systems, specializing in Airflow, Python, Hadoop, PostgreSQL.
+Technical Skills: Airflow, Python, Hadoop, PostgreSQL, Apache Spark, Snowflake, Kafka, Databricks, Flink, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (5.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Airflow and Python.
+Education: B.Tech in Computer Science, Anna University

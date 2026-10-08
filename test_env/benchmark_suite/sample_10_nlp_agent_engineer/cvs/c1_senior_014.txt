@@ -1,0 +1,11 @@
+Candidate: Emily Patel (Senior Specialist)
+Email: emily.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.3 years of experience designing and shipping scalable systems, specializing in Vector Databases, Docker, OpenAI API, FastAPI.
+Technical Skills: Vector Databases, Docker, OpenAI API, FastAPI, LlamaIndex, RAG, Prompt Engineering, Semantic Kernel, Ollama, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (3.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Vector Databases and Docker.
+Education: B.Tech in Computer Science, IIIT Hyderabad

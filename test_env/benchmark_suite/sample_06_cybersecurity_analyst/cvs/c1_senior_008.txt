@@ -1,0 +1,11 @@
+Candidate: Priya Verma (Senior Specialist)
+Email: priya.verma@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.0 years of experience designing and shipping scalable systems, specializing in Wireshark, Python, OWASP, SIEM.
+Technical Skills: Wireshark, Python, OWASP, SIEM, Vulnerability Assessment, Splunk, Burp Suite, NIST, Suricata, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (3.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Wireshark and Python.
+Education: B.Tech in Computer Science, IIIT Hyderabad

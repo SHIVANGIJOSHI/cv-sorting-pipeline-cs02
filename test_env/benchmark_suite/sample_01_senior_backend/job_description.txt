@@ -1,0 +1,10 @@
+Job Title: Senior Backend & Distributed Systems Engineer
+Minimum Experience Required: 4.0 years
+Mandatory Technical Skills: Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS
+Preferred Skills: gRPC, GraphQL, Cassandra, Terraform, Prometheus
+
+Job Overview:
+Looking for a Senior Backend Engineer with 4+ years experience designing resilient microservices, asynchronous Kafka queues, and scalable PostgreSQL databases.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing Python and Java.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

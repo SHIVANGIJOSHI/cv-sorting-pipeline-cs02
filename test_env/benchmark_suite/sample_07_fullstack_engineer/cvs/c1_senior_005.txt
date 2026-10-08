@@ -1,0 +1,11 @@
+Candidate: Fatima Patel (Senior Specialist)
+Email: fatima.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.3 years of experience designing and shipping scalable systems, specializing in Express, Git, TypeScript, Node.js.
+Technical Skills: Express, Git, TypeScript, Node.js, PostgreSQL, AWS, React, TailwindCSS, Redis, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (2.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Express and Git.
+Education: B.Tech in Computer Science, IIIT Hyderabad

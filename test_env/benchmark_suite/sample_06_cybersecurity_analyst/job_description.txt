@@ -1,0 +1,10 @@
+Job Title: Application Security & Threat Detection Engineer
+Minimum Experience Required: 4.0 years
+Mandatory Technical Skills: SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography
+Preferred Skills: Metasploit, Snort, Suricata, NIST, IAM
+
+Job Overview:
+Seeking an AppSec specialist with 4+ years evaluating system vulnerabilities, threat detection in Splunk, and conducting web application penetration tests.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing SIEM and Python.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

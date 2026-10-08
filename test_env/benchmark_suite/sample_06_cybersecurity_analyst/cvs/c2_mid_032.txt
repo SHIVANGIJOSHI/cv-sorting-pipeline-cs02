@@ -1,0 +1,9 @@
+Candidate: James Patel (Associate Developer)
+Email: james.patel@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: Burp Suite, Vulnerability Assessment, Cryptography, SIEM, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Burp Suite endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

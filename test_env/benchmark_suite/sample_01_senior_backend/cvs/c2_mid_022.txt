@@ -1,0 +1,9 @@
+Candidate: Neha Verma (Associate Developer)
+Email: neha.verma@workmail.com
+Summary:
+Software developer with 2.4 years of professional experience supporting web and system infrastructure.
+Skills: Redis, Java, Kubernetes, PostgreSQL, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (2.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Redis endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

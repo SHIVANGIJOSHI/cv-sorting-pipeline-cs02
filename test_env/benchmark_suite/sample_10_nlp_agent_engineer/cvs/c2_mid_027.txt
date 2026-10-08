@@ -1,0 +1,9 @@
+Candidate: David Brown (Associate Developer)
+Email: david.brown@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: LlamaIndex, OpenAI API, Prompt Engineering, LangChain, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LlamaIndex endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

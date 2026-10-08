@@ -1,0 +1,11 @@
+Candidate: Rohan Kulkarni (Senior Specialist)
+Email: rohan.kulkarni@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.5 years of experience designing and shipping scalable systems, specializing in Docker, AWS, PostgreSQL, Node.js.
+Technical Skills: Docker, AWS, PostgreSQL, Node.js, TypeScript, Git, React, MongoDB, Prisma, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (5.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and AWS.
+Education: B.Tech in Computer Science, NIT Trichy

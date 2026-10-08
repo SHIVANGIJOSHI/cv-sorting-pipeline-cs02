@@ -1,0 +1,9 @@
+Candidate: Aarav Choudhury (Associate Developer)
+Email: aarav.choudhury@workmail.com
+Summary:
+Software developer with 1.2 years of professional experience supporting web and system infrastructure.
+Skills: CUDA, vLLM, Triton, Python, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (1.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained CUDA endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

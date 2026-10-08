@@ -1,0 +1,9 @@
+Candidate: Emily Verma (Associate Developer)
+Email: emily.verma@workmail.com
+Summary:
+Software developer with 2.4 years of professional experience supporting web and system infrastructure.
+Skills: CUDA, RAG, JAX, Python, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained CUDA endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

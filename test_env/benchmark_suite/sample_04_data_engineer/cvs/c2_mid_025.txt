@@ -1,0 +1,9 @@
+Candidate: Vikram Sharma (Associate Developer)
+Email: vikram.sharma@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: Airflow, dbt, PostgreSQL, Apache Spark, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Airflow endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur
