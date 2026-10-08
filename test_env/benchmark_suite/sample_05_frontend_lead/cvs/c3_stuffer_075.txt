@@ -1,0 +1,10 @@
+Candidate: Michael Reddy (Junior Trainee / Fresher)
+Email: michael.reddy@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: React, TypeScript, Next.js, JavaScript, Redux, TailwindCSS, GraphQL, Webpack, Jest, Vite, Node.js, Cypress, Storybook, HTML5.
+Skills Inventory:
+React, TypeScript, Next.js, JavaScript, Redux, TailwindCSS, GraphQL, Webpack, Jest, Vite, Node.js, Cypress, Storybook, HTML5, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.5 years):
+  Reviewed tutorials and observed team workflows covering Next.js, Webpack, TailwindCSS, Redux.
+Education: Diploma in Computer Applications

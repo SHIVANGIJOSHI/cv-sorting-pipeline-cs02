@@ -1,0 +1,11 @@
+Candidate: David Sharma (Senior Specialist)
+Email: david.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.2 years of experience designing and shipping scalable systems, specializing in Database Tuning, Replication, High Availability, Bash.
+Technical Skills: Database Tuning, Replication, High Availability, Bash, PostgreSQL, SQL, MySQL, Prometheus, PgBouncer, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (5.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Database Tuning and Replication.
+Education: B.Tech in Computer Science, BITS Pilani

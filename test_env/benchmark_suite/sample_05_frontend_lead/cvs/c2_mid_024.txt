@@ -1,0 +1,9 @@
+Candidate: Aditya Iyer (Associate Developer)
+Email: aditya.iyer@workmail.com
+Summary:
+Software developer with 3.4 years of professional experience supporting web and system infrastructure.
+Skills: Next.js, Jest, JavaScript, GraphQL, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (3.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Next.js endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

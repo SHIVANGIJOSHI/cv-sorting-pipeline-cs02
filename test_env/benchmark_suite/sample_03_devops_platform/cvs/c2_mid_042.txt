@@ -1,0 +1,9 @@
+Candidate: Sarah Patel (Associate Developer)
+Email: sarah.patel@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: Terraform, Prometheus, AWS, Linux, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Terraform endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

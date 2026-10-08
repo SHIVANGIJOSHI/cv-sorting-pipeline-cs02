@@ -1,0 +1,11 @@
+Candidate: Neha Iyer (Senior Specialist)
+Email: neha.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.1 years of experience designing and shipping scalable systems, specializing in Kubernetes, FastAPI, Kafka, PostgreSQL.
+Technical Skills: Kubernetes, FastAPI, Kafka, PostgreSQL, Docker, Java, Redis, Prometheus, Cassandra, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (5.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Kubernetes and FastAPI.
+Education: B.Tech in Computer Science, NIT Trichy

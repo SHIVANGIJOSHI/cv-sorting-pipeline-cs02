@@ -1,0 +1,11 @@
+Candidate: James Williams (Senior Specialist)
+Email: james.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.2 years of experience designing and shipping scalable systems, specializing in Java, Redis, FastAPI, AWS.
+Technical Skills: Java, Redis, FastAPI, AWS, Kubernetes, Python, Docker, Prometheus, Cassandra, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (6.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Java and Redis.
+Education: B.Tech in Computer Science, BITS Pilani

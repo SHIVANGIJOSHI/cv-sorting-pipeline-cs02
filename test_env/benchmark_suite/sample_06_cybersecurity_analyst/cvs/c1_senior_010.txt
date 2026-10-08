@@ -1,0 +1,11 @@
+Candidate: Michael Rao (Senior Specialist)
+Email: michael.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.1 years of experience designing and shipping scalable systems, specializing in Cryptography, Python, OWASP, SIEM.
+Technical Skills: Cryptography, Python, OWASP, SIEM, Linux, Burp Suite, Vulnerability Assessment, Snort, Metasploit, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (6.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Cryptography and Python.
+Education: B.Tech in Computer Science, Delhi Technological University

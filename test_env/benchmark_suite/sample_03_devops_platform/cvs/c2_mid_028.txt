@@ -1,0 +1,9 @@
+Candidate: Aarav Kulkarni (Associate Developer)
+Email: aarav.kulkarni@workmail.com
+Summary:
+Software developer with 3.6 years of professional experience supporting web and system infrastructure.
+Skills: Grafana, AWS, Prometheus, Kubernetes, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Grafana endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

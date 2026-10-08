@@ -1,0 +1,9 @@
+Candidate: Priya Kulkarni (Associate Developer)
+Email: priya.kulkarni@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: Bash, SQL, Database Tuning, Replication, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Bash endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

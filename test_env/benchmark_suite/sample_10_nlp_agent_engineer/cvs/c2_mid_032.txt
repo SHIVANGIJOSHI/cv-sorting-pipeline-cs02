@@ -1,0 +1,9 @@
+Candidate: James Patel (Associate Developer)
+Email: james.patel@workmail.com
+Summary:
+Software developer with 3.0 years of professional experience supporting web and system infrastructure.
+Skills: RAG, LlamaIndex, Prompt Engineering, OpenAI API, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained RAG endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

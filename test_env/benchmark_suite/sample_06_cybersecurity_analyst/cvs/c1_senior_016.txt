@@ -1,0 +1,11 @@
+Candidate: Aditya Patel (Senior Specialist)
+Email: aditya.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.4 years of experience designing and shipping scalable systems, specializing in SIEM, Burp Suite, Wireshark, Splunk.
+Technical Skills: SIEM, Burp Suite, Wireshark, Splunk, Python, Linux, OWASP, IAM, Metasploit, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (6.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using SIEM and Burp Suite.
+Education: B.Tech in Computer Science, NIT Trichy

@@ -1,0 +1,11 @@
+Candidate: Ananya Iyer (Senior Specialist)
+Email: ananya.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.4 years of experience designing and shipping scalable systems, specializing in Terraform, Helm, Prometheus, Linux.
+Technical Skills: Terraform, Helm, Prometheus, Linux, AWS, Docker, Kubernetes, Vault, Ansible, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (6.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Terraform and Helm.
+Education: B.Tech in Computer Science, IIT Kharagpur

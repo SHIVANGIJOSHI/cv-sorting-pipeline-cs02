@@ -1,0 +1,56 @@
+================================================================================
+Capstone Project CS[02]: CV Sorting using LLMs - Execution Guide
+================================================================================
+
+1. Environment Prerequisites:
+   - Python 3.10+ (Recommended: 3.10 or 3.11)
+   - CPU-only execution (Runs locally on standard CPU without dedicated GPU)
+   - Operating System: macOS / Linux / Windows
+
+2. Dependency Installation:
+   pip install -r requirements.txt
+
+3. Execution Modes:
+
+   MODE A: Local Offline Neural Execution (Default - Recommended)
+   -----------------------------------------------------------------------------
+   Runs the pipeline fully offline on CPU using BAAI/bge-base-en-v1.5 (Bi-Encoder)
+   and BAAI/bge-reranker-base (Cross-Encoder) orchestrated via LangChain LCEL.
+   Requires NO external API keys, tokens, or network connectivity.
+
+   Command:
+   python main.py --jd_path <path_to_jd> --cv_dir <path_to_cv_directory>
+
+   Example:
+   python main.py --jd_path ./sample_jd.txt --cv_dir ./sample_cvs --top_k 5
+
+   MODE B: Generative LLM Reasoning via LangChain (Optional API Mode)
+   -------------------------------------------------------------------
+   Evaluates candidates using LangChain ChatOpenAI or ChatGroq with Pydantic 
+   grammar-constrained structured output validation.
+
+   The API key can be supplied at runtime using either method:
+
+   Method 1: Pass via CLI argument (--api_key)
+   python main.py --jd_path ./sample_jd.txt --cv_dir ./sample_cvs --mode api --api_key "gsk_your_groq_key"
+   # Or for OpenAI:
+   python main.py --jd_path ./sample_jd.txt --cv_dir ./sample_cvs --mode api --api_key "sk-your_openai_key"
+
+   Method 2: Export as environment variable
+   export GROQ_API_KEY="gsk_your_groq_key"
+   # Or: export OPENAI_API_KEY="sk-your_openai_key"
+   python main.py --jd_path ./sample_jd.txt --cv_dir ./sample_cvs --mode api
+
+4. CLI Arguments Reference:
+   --jd_path      : (Required) Path to the Job Description file (.txt or .pdf).
+   --cv_dir       : (Required) Path to the directory containing candidate CVs (.txt or .pdf).
+   --mode         : (Optional) 'local' (default) or 'api'.
+   --top_k        : (Optional) Number of ranked candidates to display in terminal (default: 10).
+   --output_file  : (Optional) Path for exported JSON ranking payload (default: ranked_results.json).
+   --api_key      : (Optional) API key string for Mode B execution.
+
+5. Expected Outputs:
+   - Formatted ASCII ranking table printed directly to stdout with score breakdowns.
+   - Comprehensive audit justification and rubric analysis for the top candidate.
+   - Machine-readable structured JSON payload exported to the target output file.
+================================================================================

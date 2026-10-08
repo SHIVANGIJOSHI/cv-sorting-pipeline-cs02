@@ -1,0 +1,10 @@
+Candidate: Elena Nair (Junior Trainee / Fresher)
+Email: elena.nair@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG, Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama.
+Skills Inventory:
+LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG, Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.8 years):
+  Reviewed tutorials and observed team workflows covering Python, OpenAI API, LangChain, RAG.
+Education: Diploma in Computer Applications

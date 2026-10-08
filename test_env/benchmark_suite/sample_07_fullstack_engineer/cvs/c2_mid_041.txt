@@ -1,0 +1,9 @@
+Candidate: Neha Johnson (Associate Developer)
+Email: neha.johnson@workmail.com
+Summary:
+Software developer with 1.4 years of professional experience supporting web and system infrastructure.
+Skills: TypeScript, React, PostgreSQL, Git, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (1.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained TypeScript endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

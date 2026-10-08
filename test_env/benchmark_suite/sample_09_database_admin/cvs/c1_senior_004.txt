@@ -1,0 +1,11 @@
+Candidate: Fatima Gupta (Senior Specialist)
+Email: fatima.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.5 years of experience designing and shipping scalable systems, specializing in PostgreSQL, MySQL, Replication, Python.
+Technical Skills: PostgreSQL, MySQL, Replication, Python, Bash, Linux, SQL, Percona, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (5.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using PostgreSQL and MySQL.
+Education: B.Tech in Computer Science, NIT Trichy

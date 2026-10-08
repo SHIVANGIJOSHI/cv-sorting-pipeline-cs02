@@ -1,0 +1,11 @@
+Candidate: Elena Rao (Senior Specialist)
+Email: elena.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.4 years of experience designing and shipping scalable systems, specializing in MySQL, Bash, Replication, SQL.
+Technical Skills: MySQL, Bash, Replication, SQL, PostgreSQL, High Availability, Database Tuning, Percona, PgBouncer, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using MySQL and Bash.
+Education: B.Tech in Computer Science, Anna University

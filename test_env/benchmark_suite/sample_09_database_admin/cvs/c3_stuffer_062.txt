@@ -1,0 +1,10 @@
+Candidate: Elena Johnson (Junior Trainee / Fresher)
+Email: elena.johnson@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus.
+Skills Inventory:
+PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.0 years):
+  Reviewed tutorials and observed team workflows covering SQL, PostgreSQL, Linux, Database Tuning.
+Education: Diploma in Computer Applications

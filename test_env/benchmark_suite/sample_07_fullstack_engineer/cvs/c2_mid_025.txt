@@ -1,0 +1,9 @@
+Candidate: Elena Nair (Associate Developer)
+Email: elena.nair@workmail.com
+Summary:
+Software developer with 1.4 years of professional experience supporting web and system infrastructure.
+Skills: Git, React, REST APIs, Node.js, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (1.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Git endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

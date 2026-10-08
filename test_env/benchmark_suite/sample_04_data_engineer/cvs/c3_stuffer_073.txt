@@ -1,0 +1,10 @@
+Candidate: Kavita Verma (Junior Trainee / Fresher)
+Email: kavita.verma@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink.
+Skills Inventory:
+Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.1 years):
+  Reviewed tutorials and observed team workflows covering PostgreSQL, dbt, Python, SQL.
+Education: Diploma in Computer Applications

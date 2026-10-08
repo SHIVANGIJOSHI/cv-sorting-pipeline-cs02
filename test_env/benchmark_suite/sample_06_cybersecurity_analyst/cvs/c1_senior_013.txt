@@ -1,0 +1,11 @@
+Candidate: Ananya Johnson (Senior Specialist)
+Email: ananya.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.2 years of experience designing and shipping scalable systems, specializing in Cryptography, SIEM, OWASP, Python.
+Technical Skills: Cryptography, SIEM, OWASP, Python, Wireshark, Splunk, Vulnerability Assessment, NIST, Suricata, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (6.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Cryptography and SIEM.
+Education: B.Tech in Computer Science, NIT Trichy

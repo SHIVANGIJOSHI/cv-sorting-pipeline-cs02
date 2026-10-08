@@ -1,0 +1,9 @@
+Candidate: Rohan Nair (Associate Developer)
+Email: rohan.nair@workmail.com
+Summary:
+Software developer with 4.4 years of professional experience supporting web and system infrastructure.
+Skills: Bash, High Availability, SQL, PostgreSQL, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (4.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Bash endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

@@ -1,0 +1,11 @@
+Candidate: Elena Reddy (Senior Specialist)
+Email: elena.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.0 years of experience designing and shipping scalable systems, specializing in Express, Docker, React, PostgreSQL.
+Technical Skills: Express, Docker, React, PostgreSQL, REST APIs, Node.js, Git, TailwindCSS, Prisma, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (5.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Express and Docker.
+Education: B.Tech in Computer Science, BITS Pilani

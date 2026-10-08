@@ -1,0 +1,9 @@
+Candidate: James Gupta (Associate Developer)
+Email: james.gupta@workmail.com
+Summary:
+Software developer with 1.8 years of professional experience supporting web and system infrastructure.
+Skills: Triton, HuggingFace, PyTorch, CUDA, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (1.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Triton endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

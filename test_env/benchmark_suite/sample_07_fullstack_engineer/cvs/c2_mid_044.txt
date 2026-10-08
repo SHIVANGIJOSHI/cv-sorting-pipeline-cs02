@@ -1,0 +1,9 @@
+Candidate: Aarav Sharma (Associate Developer)
+Email: aarav.sharma@workmail.com
+Summary:
+Software developer with 1.1 years of professional experience supporting web and system infrastructure.
+Skills: Node.js, PostgreSQL, Express, AWS, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (1.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Node.js endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

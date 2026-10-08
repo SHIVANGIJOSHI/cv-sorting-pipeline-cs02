@@ -1,0 +1,11 @@
+Candidate: Michael Sharma (Senior Specialist)
+Email: michael.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.2 years of experience designing and shipping scalable systems, specializing in Python, Linux, Vulnerability Assessment, OWASP.
+Technical Skills: Python, Linux, Vulnerability Assessment, OWASP, Cryptography, Wireshark, Splunk, Metasploit, IAM, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (5.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Python and Linux.
+Education: B.Tech in Computer Science, IIT Kharagpur

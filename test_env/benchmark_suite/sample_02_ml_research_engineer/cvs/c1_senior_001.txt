@@ -1,0 +1,11 @@
+Candidate: Kavita Patel (Senior Specialist)
+Email: kavita.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.5 years of experience designing and shipping scalable systems, specializing in CUDA, Python, LangChain, vLLM.
+Technical Skills: CUDA, Python, LangChain, vLLM, JAX, PyTorch, RAG, Ray, TensorRT, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (2.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using CUDA and Python.
+Education: B.Tech in Computer Science, IIT Kharagpur

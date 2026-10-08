@@ -1,0 +1,11 @@
+Candidate: Sarah Sharma (Senior Specialist)
+Email: sarah.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.5 years of experience designing and shipping scalable systems, specializing in LangChain, RAG, Docker, Python.
+Technical Skills: LangChain, RAG, Docker, Python, OpenAI API, Prompt Engineering, LlamaIndex, Ollama, pgvector, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (3.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using LangChain and RAG.
+Education: B.Tech in Computer Science, IIIT Hyderabad

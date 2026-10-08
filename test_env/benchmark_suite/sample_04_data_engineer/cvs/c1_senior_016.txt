@@ -1,0 +1,11 @@
+Candidate: Aarav Brown (Senior Specialist)
+Email: aarav.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in Snowflake, dbt, Python, Apache Spark.
+Technical Skills: Snowflake, dbt, Python, Apache Spark, Airflow, SQL, Kafka, Delta Lake, BigQuery, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Snowflake and dbt.
+Education: B.Tech in Computer Science, Delhi Technological University

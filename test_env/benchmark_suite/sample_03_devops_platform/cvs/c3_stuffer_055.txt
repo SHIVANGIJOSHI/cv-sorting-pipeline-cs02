@@ -1,0 +1,10 @@
+Candidate: Fatima Johnson (Junior Trainee / Fresher)
+Email: fatima.johnson@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.1 years):
+  Reviewed tutorials and observed team workflows covering Docker, Prometheus, Linux, Grafana.
+Education: Diploma in Computer Applications

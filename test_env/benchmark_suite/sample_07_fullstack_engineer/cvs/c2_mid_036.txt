@@ -1,0 +1,9 @@
+Candidate: Elena Sharma (Associate Developer)
+Email: elena.sharma@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: Node.js, TypeScript, Git, Express, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Node.js endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

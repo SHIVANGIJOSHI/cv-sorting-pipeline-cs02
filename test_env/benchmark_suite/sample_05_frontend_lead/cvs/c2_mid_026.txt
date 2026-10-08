@@ -1,0 +1,9 @@
+Candidate: Sarah Gupta (Associate Developer)
+Email: sarah.gupta@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: GraphQL, Next.js, Redux, React, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained GraphQL endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

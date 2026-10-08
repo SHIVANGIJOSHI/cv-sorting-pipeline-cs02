@@ -1,0 +1,10 @@
+Candidate: Elena Johnson (Junior Trainee / Fresher)
+Email: elena.johnson@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.5 years):
+  Reviewed tutorials and observed team workflows covering AWS, CI/CD, Docker, Kubernetes.
+Education: Diploma in Computer Applications

@@ -1,0 +1,9 @@
+Candidate: Aditya Kulkarni (Associate Developer)
+Email: aditya.kulkarni@workmail.com
+Summary:
+Software developer with 2.7 years of professional experience supporting web and system infrastructure.
+Skills: LlamaIndex, LangChain, OpenAI API, FastAPI, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LlamaIndex endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

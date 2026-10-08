@@ -1,0 +1,9 @@
+Candidate: Aarav Johnson (Associate Developer)
+Email: aarav.johnson@workmail.com
+Summary:
+Software developer with 1.7 years of professional experience supporting web and system infrastructure.
+Skills: Express, PostgreSQL, Git, REST APIs, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (1.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Express endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

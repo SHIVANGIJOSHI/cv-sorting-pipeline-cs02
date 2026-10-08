@@ -1,0 +1,9 @@
+Candidate: Aditya Sharma (Associate Developer)
+Email: aditya.sharma@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: JavaScript, TypeScript, Next.js, TailwindCSS, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained JavaScript endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

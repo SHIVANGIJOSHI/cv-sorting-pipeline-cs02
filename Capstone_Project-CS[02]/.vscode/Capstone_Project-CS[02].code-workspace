@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../test_env"
+		}
+	],
+	"settings": {
+		"diffEditor.codeLens": true
+	}
+}

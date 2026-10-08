@@ -1,0 +1,9 @@
+Candidate: James Reddy (Associate Developer)
+Email: james.reddy@workmail.com
+Summary:
+Software developer with 4.5 years of professional experience supporting web and system infrastructure.
+Skills: SQL, Python, Bash, Linux, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (4.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained SQL endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

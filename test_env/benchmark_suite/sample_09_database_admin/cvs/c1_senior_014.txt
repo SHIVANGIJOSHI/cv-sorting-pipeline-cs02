@@ -1,0 +1,11 @@
+Candidate: Kavita Williams (Senior Specialist)
+Email: kavita.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.8 years of experience designing and shipping scalable systems, specializing in Linux, PostgreSQL, Replication, High Availability.
+Technical Skills: Linux, PostgreSQL, Replication, High Availability, MySQL, Bash, Python, PgBouncer, Patroni, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (6.8 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Linux and PostgreSQL.
+Education: B.Tech in Computer Science, IIT Kharagpur

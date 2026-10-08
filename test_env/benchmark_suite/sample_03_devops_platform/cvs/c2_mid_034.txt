@@ -1,0 +1,9 @@
+Candidate: Ananya Smith (Associate Developer)
+Email: ananya.smith@workmail.com
+Summary:
+Software developer with 4.3 years of professional experience supporting web and system infrastructure.
+Skills: Grafana, Helm, Prometheus, Linux, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (4.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Grafana endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

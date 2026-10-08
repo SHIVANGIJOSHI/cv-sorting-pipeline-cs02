@@ -1,0 +1,9 @@
+Candidate: Vikram Patel (Associate Developer)
+Email: vikram.patel@workmail.com
+Summary:
+Software developer with 2.9 years of professional experience supporting web and system infrastructure.
+Skills: Kubernetes, Docker, Redis, PostgreSQL, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Kubernetes endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

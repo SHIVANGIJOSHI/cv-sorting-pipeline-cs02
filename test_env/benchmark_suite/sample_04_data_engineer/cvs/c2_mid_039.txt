@@ -1,0 +1,9 @@
+Candidate: Ananya Smith (Associate Developer)
+Email: ananya.smith@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: SQL, Apache Spark, PostgreSQL, Kafka, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained SQL endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

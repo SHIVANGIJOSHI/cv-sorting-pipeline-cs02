@@ -1,0 +1,9 @@
+Candidate: David Choudhury (Associate Developer)
+Email: david.choudhury@workmail.com
+Summary:
+Software developer with 3.1 years of professional experience supporting web and system infrastructure.
+Skills: AWS, Redis, FastAPI, Kubernetes, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (3.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained AWS endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

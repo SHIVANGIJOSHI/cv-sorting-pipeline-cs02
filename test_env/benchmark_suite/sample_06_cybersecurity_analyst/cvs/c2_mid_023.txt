@@ -1,0 +1,9 @@
+Candidate: Vikram Williams (Associate Developer)
+Email: vikram.williams@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: Wireshark, SIEM, Linux, Python, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Wireshark endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

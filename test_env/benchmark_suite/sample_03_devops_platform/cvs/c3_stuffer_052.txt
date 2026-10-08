@@ -1,0 +1,10 @@
+Candidate: Neha Iyer (Junior Trainee / Fresher)
+Email: neha.iyer@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.7 years):
+  Reviewed tutorials and observed team workflows covering Kubernetes, Prometheus, Helm, AWS.
+Education: Diploma in Computer Applications

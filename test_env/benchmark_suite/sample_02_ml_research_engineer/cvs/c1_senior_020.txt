@@ -1,0 +1,11 @@
+Candidate: Sarah Mukherjee (Senior Specialist)
+Email: sarah.mukherjee@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in RAG, LangChain, HuggingFace, CUDA.
+Technical Skills: RAG, LangChain, HuggingFace, CUDA, Python, vLLM, Triton, Weights & Biases, TensorRT, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using RAG and LangChain.
+Education: B.Tech in Computer Science, IIIT Hyderabad

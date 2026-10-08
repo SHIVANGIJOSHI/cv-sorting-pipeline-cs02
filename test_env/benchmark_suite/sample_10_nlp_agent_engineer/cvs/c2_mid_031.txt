@@ -1,0 +1,9 @@
+Candidate: Aarav Mukherjee (Associate Developer)
+Email: aarav.mukherjee@workmail.com
+Summary:
+Software developer with 3.1 years of professional experience supporting web and system infrastructure.
+Skills: Vector Databases, RAG, LangChain, Python, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vector Databases endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

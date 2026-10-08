@@ -1,0 +1,10 @@
+Job Title: Embedded Systems & Firmware Engineer
+Minimum Experience Required: 3.5 years
+Mandatory Technical Skills: C, C++, RTOS, ARM Cortex, Linux Kernel, I2C, SPI, UART, GDB
+Preferred Skills: FreeRTOS, Device Drivers, CAN bus, Microcontrollers, Oscilloscope
+
+Job Overview:
+Hiring an Embedded Systems Engineer with 3.5+ years writing low-level firmware in C/C++, driver development, and real-time RTOS communication protocols.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing C and C++.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

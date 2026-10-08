@@ -1,0 +1,9 @@
+Candidate: Vikram Kulkarni (Associate Developer)
+Email: vikram.kulkarni@workmail.com
+Summary:
+Software developer with 2.1 years of professional experience supporting web and system infrastructure.
+Skills: PyTorch, JAX, vLLM, RAG, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained PyTorch endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

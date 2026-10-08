@@ -1,0 +1,9 @@
+Candidate: Aarav Patel (Associate Developer)
+Email: aarav.patel@workmail.com
+Summary:
+Software developer with 4.4 years of professional experience supporting web and system infrastructure.
+Skills: High Availability, Database Tuning, Bash, Linux, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (4.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained High Availability endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

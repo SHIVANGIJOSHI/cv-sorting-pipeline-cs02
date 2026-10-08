@@ -1,0 +1,9 @@
+Candidate: Emily Nair (Associate Developer)
+Email: emily.nair@workmail.com
+Summary:
+Software developer with 2.5 years of professional experience supporting web and system infrastructure.
+Skills: ARM Cortex, RTOS, I2C, SPI, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained ARM Cortex endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

@@ -1,0 +1,9 @@
+Candidate: Aarav Iyer (Associate Developer)
+Email: aarav.iyer@workmail.com
+Summary:
+Software developer with 2.0 years of professional experience supporting web and system infrastructure.
+Skills: TypeScript, Express, Git, React, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained TypeScript endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

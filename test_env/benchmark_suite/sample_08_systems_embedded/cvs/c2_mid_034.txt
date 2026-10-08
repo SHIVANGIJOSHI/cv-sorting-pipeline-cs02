@@ -1,0 +1,9 @@
+Candidate: Michael Rao (Associate Developer)
+Email: michael.rao@workmail.com
+Summary:
+Software developer with 2.9 years of professional experience supporting web and system infrastructure.
+Skills: C, RTOS, UART, ARM Cortex, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

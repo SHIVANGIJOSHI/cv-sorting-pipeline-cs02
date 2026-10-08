@@ -1,0 +1,11 @@
+Candidate: David Johnson (Senior Specialist)
+Email: david.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.9 years of experience designing and shipping scalable systems, specializing in FastAPI, LlamaIndex, Prompt Engineering, Vector Databases.
+Technical Skills: FastAPI, LlamaIndex, Prompt Engineering, Vector Databases, OpenAI API, Docker, Python, pgvector, Semantic Kernel, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (3.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using FastAPI and LlamaIndex.
+Education: B.Tech in Computer Science, Delhi Technological University

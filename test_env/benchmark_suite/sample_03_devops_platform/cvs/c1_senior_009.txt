@@ -1,0 +1,11 @@
+Candidate: Fatima Choudhury (Senior Specialist)
+Email: fatima.choudhury@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.7 years of experience designing and shipping scalable systems, specializing in Helm, Grafana, AWS, Docker.
+Technical Skills: Helm, Grafana, AWS, Docker, Linux, Terraform, CI/CD, Istio, Vault, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (6.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Helm and Grafana.
+Education: B.Tech in Computer Science, NIT Trichy

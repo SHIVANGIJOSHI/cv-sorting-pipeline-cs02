@@ -1,0 +1,11 @@
+Candidate: Elena Verma (Senior Specialist)
+Email: elena.verma@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.9 years of experience designing and shipping scalable systems, specializing in Hadoop, PostgreSQL, Airflow, dbt.
+Technical Skills: Hadoop, PostgreSQL, Airflow, dbt, SQL, Apache Spark, Kafka, BigQuery, Delta Lake, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (5.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Hadoop and PostgreSQL.
+Education: B.Tech in Computer Science, Delhi Technological University

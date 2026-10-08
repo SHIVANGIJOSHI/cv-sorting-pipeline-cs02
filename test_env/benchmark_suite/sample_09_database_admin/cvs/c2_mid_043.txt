@@ -1,0 +1,9 @@
+Candidate: Deepak Kulkarni (Associate Developer)
+Email: deepak.kulkarni@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: Replication, PostgreSQL, Linux, High Availability, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Replication endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

@@ -1,0 +1,9 @@
+Candidate: Kavita Reddy (Associate Developer)
+Email: kavita.reddy@workmail.com
+Summary:
+Software developer with 2.8 years of professional experience supporting web and system infrastructure.
+Skills: Linux, Cryptography, Wireshark, Vulnerability Assessment, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Linux endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

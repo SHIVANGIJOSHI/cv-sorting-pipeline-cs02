@@ -1,0 +1,9 @@
+Candidate: Rohan Mukherjee (Associate Developer)
+Email: rohan.mukherjee@workmail.com
+Summary:
+Software developer with 1.9 years of professional experience supporting web and system infrastructure.
+Skills: LangChain, vLLM, PyTorch, Python, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (1.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LangChain endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

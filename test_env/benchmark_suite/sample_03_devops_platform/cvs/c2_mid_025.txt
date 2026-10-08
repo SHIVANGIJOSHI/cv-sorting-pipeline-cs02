@@ -1,0 +1,9 @@
+Candidate: Rohan Rao (Associate Developer)
+Email: rohan.rao@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: Linux, Kubernetes, Grafana, Terraform, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Linux endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

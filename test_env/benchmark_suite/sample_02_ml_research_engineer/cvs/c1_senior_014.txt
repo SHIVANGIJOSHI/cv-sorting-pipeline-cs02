@@ -1,0 +1,11 @@
+Candidate: Emily Reddy (Senior Specialist)
+Email: emily.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.4 years of experience designing and shipping scalable systems, specializing in RAG, LangChain, PyTorch, CUDA.
+Technical Skills: RAG, LangChain, PyTorch, CUDA, Python, Triton, JAX, DeepSpeed, FAISS, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (5.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using RAG and LangChain.
+Education: B.Tech in Computer Science, NIT Trichy

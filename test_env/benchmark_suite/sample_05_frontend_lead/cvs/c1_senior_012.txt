@@ -1,0 +1,11 @@
+Candidate: Emily Brown (Senior Specialist)
+Email: emily.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.1 years of experience designing and shipping scalable systems, specializing in JavaScript, GraphQL, React, TailwindCSS.
+Technical Skills: JavaScript, GraphQL, React, TailwindCSS, Jest, Redux, TypeScript, Storybook, Vite, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (5.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using JavaScript and GraphQL.
+Education: B.Tech in Computer Science, IIT Kharagpur

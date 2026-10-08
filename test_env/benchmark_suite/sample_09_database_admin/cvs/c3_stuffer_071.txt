@@ -1,0 +1,10 @@
+Candidate: James Patel (Junior Trainee / Fresher)
+Email: james.patel@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus.
+Skills Inventory:
+PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL, Patroni, PgBouncer, Percona, WAL-E, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.1 years):
+  Reviewed tutorials and observed team workflows covering PostgreSQL, Replication, Database Tuning, Python.
+Education: Diploma in Computer Applications

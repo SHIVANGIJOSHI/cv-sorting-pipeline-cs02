@@ -1,0 +1,9 @@
+Candidate: Ananya Mukherjee (Associate Developer)
+Email: ananya.mukherjee@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: Prometheus, Grafana, Helm, Docker, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Prometheus endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

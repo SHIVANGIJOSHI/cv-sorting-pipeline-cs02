@@ -1,0 +1,9 @@
+Candidate: Fatima Sharma (Associate Developer)
+Email: fatima.sharma@workmail.com
+Summary:
+Software developer with 4.1 years of professional experience supporting web and system infrastructure.
+Skills: Grafana, Terraform, Kubernetes, Docker, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (4.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Grafana endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

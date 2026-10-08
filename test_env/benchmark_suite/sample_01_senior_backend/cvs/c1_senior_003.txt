@@ -1,0 +1,11 @@
+Candidate: David Williams (Senior Specialist)
+Email: david.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.0 years of experience designing and shipping scalable systems, specializing in Java, PostgreSQL, Kubernetes, Python.
+Technical Skills: Java, PostgreSQL, Kubernetes, Python, Kafka, FastAPI, Docker, Prometheus, gRPC, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (5.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Java and PostgreSQL.
+Education: B.Tech in Computer Science, IIIT Hyderabad

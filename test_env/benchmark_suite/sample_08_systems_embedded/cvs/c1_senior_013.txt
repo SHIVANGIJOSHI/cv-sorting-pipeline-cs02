@@ -1,0 +1,11 @@
+Candidate: Neha Rao (Senior Specialist)
+Email: neha.rao@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.7 years of experience designing and shipping scalable systems, specializing in I2C, GDB, C, UART.
+Technical Skills: I2C, GDB, C, UART, SPI, RTOS, C++, FreeRTOS, Oscilloscope, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (5.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using I2C and GDB.
+Education: B.Tech in Computer Science, IIIT Hyderabad

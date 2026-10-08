@@ -1,0 +1,10 @@
+Job Title: Lead Database Reliability Engineer (DBRE)
+Minimum Experience Required: 5.0 years
+Mandatory Technical Skills: PostgreSQL, MySQL, Database Tuning, Replication, High Availability, Linux, Python, Bash, SQL
+Preferred Skills: Patroni, PgBouncer, Percona, WAL-E, Prometheus
+
+Job Overview:
+Seeking a Database Reliability Engineer with 5+ years experience managing distributed PostgreSQL replication clusters, query optimization, and failover automation.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing PostgreSQL and MySQL.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

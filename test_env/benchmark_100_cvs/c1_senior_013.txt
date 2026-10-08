@@ -1,0 +1,22 @@
+Candidate: Emily Rao
+Title: Senior Backend & Distributed Systems Engineer
+Email: emily.rao@engineering.io
+
+Executive Summary:
+Principal software engineer offering 6.4 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Kubernetes, Java, Python, Kafka, AWS
+Infrastructure & Storage: Docker, FastAPI, Prometheus, Airflow, gRPC
+
+Professional Experience:
+1. Lead Software Engineer | Pinnacle Cloud Services (4.4 years)
+   - Designed asynchronous message brokering layer using Kafka and Redis to decouple payment workflows.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Vanguard Distributed Tech (2.0 years)
+   - Designed asynchronous message brokering layer using Kafka and Redis to decouple payment workflows.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, BITS Pilani

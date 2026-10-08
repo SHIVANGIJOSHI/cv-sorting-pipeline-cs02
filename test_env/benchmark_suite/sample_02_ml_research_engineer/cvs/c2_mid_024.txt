@@ -1,0 +1,9 @@
+Candidate: Fatima Mukherjee (Associate Developer)
+Email: fatima.mukherjee@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: vLLM, CUDA, HuggingFace, Python, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained vLLM endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

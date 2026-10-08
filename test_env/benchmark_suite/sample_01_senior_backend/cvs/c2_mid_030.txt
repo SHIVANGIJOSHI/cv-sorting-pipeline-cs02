@@ -1,0 +1,9 @@
+Candidate: Elena Verma (Associate Developer)
+Email: elena.verma@workmail.com
+Summary:
+Software developer with 3.2 years of professional experience supporting web and system infrastructure.
+Skills: Java, Kafka, PostgreSQL, Redis, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Java endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

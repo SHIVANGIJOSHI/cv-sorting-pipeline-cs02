@@ -1,0 +1,11 @@
+Candidate: James Gupta (Senior Specialist)
+Email: james.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 9.5 years of experience designing and shipping scalable systems, specializing in Python, Linux, PostgreSQL, Replication.
+Technical Skills: Python, Linux, PostgreSQL, Replication, Bash, MySQL, Database Tuning, Percona, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (7.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Python and Linux.
+Education: B.Tech in Computer Science, BITS Pilani

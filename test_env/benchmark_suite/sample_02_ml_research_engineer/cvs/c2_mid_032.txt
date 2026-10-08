@@ -1,0 +1,9 @@
+Candidate: Emily Iyer (Associate Developer)
+Email: emily.iyer@workmail.com
+Summary:
+Software developer with 1.4 years of professional experience supporting web and system infrastructure.
+Skills: JAX, Triton, LangChain, HuggingFace, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (1.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained JAX endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

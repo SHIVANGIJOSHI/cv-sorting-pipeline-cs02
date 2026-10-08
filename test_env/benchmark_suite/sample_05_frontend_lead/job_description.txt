@@ -1,0 +1,10 @@
+Job Title: Lead Frontend / UI Engineer
+Minimum Experience Required: 4.0 years
+Mandatory Technical Skills: React, TypeScript, Next.js, JavaScript, Redux, TailwindCSS, GraphQL, Webpack, Jest
+Preferred Skills: Vite, Node.js, Cypress, Storybook, HTML5
+
+Job Overview:
+Looking for a Lead Frontend Engineer with 4+ years of experience leading modern React, TypeScript, and Next.js web application architectures with high performance.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing React and TypeScript.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

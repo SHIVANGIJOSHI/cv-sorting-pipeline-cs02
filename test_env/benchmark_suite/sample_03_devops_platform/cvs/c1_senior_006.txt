@@ -1,0 +1,11 @@
+Candidate: Sarah Patel (Senior Specialist)
+Email: sarah.patel@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.4 years of experience designing and shipping scalable systems, specializing in Prometheus, Docker, Helm, Linux.
+Technical Skills: Prometheus, Docker, Helm, Linux, Terraform, Grafana, CI/CD, Bash, Vault, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Prometheus and Docker.
+Education: B.Tech in Computer Science, IIIT Hyderabad

@@ -1,0 +1,10 @@
+Candidate: James Verma (Junior Trainee / Fresher)
+Email: james.verma@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography, Metasploit, Snort, Suricata, NIST, IAM.
+Skills Inventory:
+SIEM, Python, Wireshark, Burp Suite, OWASP, Vulnerability Assessment, Splunk, Linux, Cryptography, Metasploit, Snort, Suricata, NIST, IAM, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.7 years):
+  Reviewed tutorials and observed team workflows covering Vulnerability Assessment, Cryptography, OWASP, Linux.
+Education: Diploma in Computer Applications

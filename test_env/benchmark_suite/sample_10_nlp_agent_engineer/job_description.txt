@@ -1,0 +1,10 @@
+Job Title: LLM & Agentic AI Systems Architect
+Minimum Experience Required: 4.0 years
+Mandatory Technical Skills: LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG
+Preferred Skills: Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama
+
+Job Overview:
+Agentic AI Architect wanted with 4+ years experience designing enterprise RAG systems, tool-use agent workflows, and vector store pipelines using LangChain.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing LangChain and LlamaIndex.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

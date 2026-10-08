@@ -1,0 +1,9 @@
+Candidate: Elena Johnson (Associate Developer)
+Email: elena.johnson@workmail.com
+Summary:
+Software developer with 2.6 years of professional experience supporting web and system infrastructure.
+Skills: C++, SPI, ARM Cortex, C, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C++ endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

@@ -1,0 +1,9 @@
+Candidate: Neha Rao (Associate Developer)
+Email: neha.rao@workmail.com
+Summary:
+Software developer with 4.1 years of professional experience supporting web and system infrastructure.
+Skills: Docker, Linux, CI/CD, Prometheus, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (4.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Docker endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

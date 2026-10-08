@@ -1,0 +1,9 @@
+Candidate: Sarah Verma (Associate Developer)
+Email: sarah.verma@workmail.com
+Summary:
+Software developer with 3.2 years of professional experience supporting web and system infrastructure.
+Skills: Webpack, Redux, React, Jest, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Webpack endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

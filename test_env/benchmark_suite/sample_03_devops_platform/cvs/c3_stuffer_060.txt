@@ -1,0 +1,10 @@
+Candidate: Deepak Smith (Junior Trainee / Fresher)
+Email: deepak.smith@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash.
+Skills Inventory:
+Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux, ArgoCD, Ansible, Vault, Istio, Bash, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.7 years):
+  Reviewed tutorials and observed team workflows covering AWS, Linux, Helm, Docker.
+Education: Diploma in Computer Applications

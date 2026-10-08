@@ -1,0 +1,9 @@
+Candidate: Rohan Mukherjee (Associate Developer)
+Email: rohan.mukherjee@workmail.com
+Summary:
+Software developer with 2.4 years of professional experience supporting web and system infrastructure.
+Skills: Git, React, TypeScript, PostgreSQL, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (2.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Git endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

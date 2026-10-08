@@ -1,0 +1,11 @@
+Candidate: Ananya Johnson (Senior Specialist)
+Email: ananya.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 4.7 years of experience designing and shipping scalable systems, specializing in Docker, PostgreSQL, Git, Node.js.
+Technical Skills: Docker, PostgreSQL, Git, Node.js, AWS, Express, React, MongoDB, Jest, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (2.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and PostgreSQL.
+Education: B.Tech in Computer Science, NIT Trichy

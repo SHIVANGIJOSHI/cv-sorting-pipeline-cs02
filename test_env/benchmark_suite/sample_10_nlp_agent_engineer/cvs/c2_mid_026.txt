@@ -1,0 +1,9 @@
+Candidate: Elena Rao (Associate Developer)
+Email: elena.rao@workmail.com
+Summary:
+Software developer with 3.0 years of professional experience supporting web and system infrastructure.
+Skills: Docker, LangChain, Vector Databases, OpenAI API, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Docker endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

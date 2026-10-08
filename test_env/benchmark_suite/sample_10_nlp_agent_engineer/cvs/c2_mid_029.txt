@@ -1,0 +1,9 @@
+Candidate: David Johnson (Associate Developer)
+Email: david.johnson@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: Vector Databases, LangChain, LlamaIndex, RAG, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vector Databases endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

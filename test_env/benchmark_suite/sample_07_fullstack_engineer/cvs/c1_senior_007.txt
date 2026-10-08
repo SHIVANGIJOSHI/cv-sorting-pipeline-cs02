@@ -1,0 +1,11 @@
+Candidate: Aarav Verma (Senior Specialist)
+Email: aarav.verma@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.1 years of experience designing and shipping scalable systems, specializing in TypeScript, React, PostgreSQL, Node.js.
+Technical Skills: TypeScript, React, PostgreSQL, Node.js, Git, REST APIs, AWS, TailwindCSS, Prisma, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (4.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TypeScript and React.
+Education: B.Tech in Computer Science, NIT Trichy

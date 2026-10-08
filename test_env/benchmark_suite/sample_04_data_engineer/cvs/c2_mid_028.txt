@@ -1,0 +1,9 @@
+Candidate: Aditya Patel (Associate Developer)
+Email: aditya.patel@workmail.com
+Summary:
+Software developer with 2.8 years of professional experience supporting web and system infrastructure.
+Skills: Hadoop, Python, SQL, PostgreSQL, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Hadoop endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

@@ -1,0 +1,9 @@
+Candidate: Vikram Smith (Associate Developer)
+Email: vikram.smith@workmail.com
+Summary:
+Software developer with 4.0 years of professional experience supporting web and system infrastructure.
+Skills: MySQL, Python, Database Tuning, SQL, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (4.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained MySQL endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

@@ -1,0 +1,11 @@
+Candidate: Aarav Sharma (Senior Specialist)
+Email: aarav.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.8 years of experience designing and shipping scalable systems, specializing in MySQL, Database Tuning, Linux, PostgreSQL.
+Technical Skills: MySQL, Database Tuning, Linux, PostgreSQL, SQL, Replication, Bash, Prometheus, Percona, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (5.8 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using MySQL and Database Tuning.
+Education: B.Tech in Computer Science, IIT Kharagpur

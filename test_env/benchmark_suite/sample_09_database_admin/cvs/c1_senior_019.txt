@@ -1,0 +1,11 @@
+Candidate: Ananya Brown (Senior Specialist)
+Email: ananya.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.7 years of experience designing and shipping scalable systems, specializing in High Availability, Database Tuning, Bash, Replication.
+Technical Skills: High Availability, Database Tuning, Bash, Replication, SQL, PostgreSQL, MySQL, PgBouncer, Patroni, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using High Availability and Database Tuning.
+Education: B.Tech in Computer Science, NIT Trichy

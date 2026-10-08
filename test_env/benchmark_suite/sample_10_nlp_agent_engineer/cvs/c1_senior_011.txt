@@ -1,0 +1,11 @@
+Candidate: Sarah Brown (Senior Specialist)
+Email: sarah.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.1 years of experience designing and shipping scalable systems, specializing in Prompt Engineering, Docker, RAG, LangChain.
+Technical Skills: Prompt Engineering, Docker, RAG, LangChain, OpenAI API, FastAPI, Vector Databases, ChromaDB, Semantic Kernel, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (3.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Prompt Engineering and Docker.
+Education: B.Tech in Computer Science, Delhi Technological University

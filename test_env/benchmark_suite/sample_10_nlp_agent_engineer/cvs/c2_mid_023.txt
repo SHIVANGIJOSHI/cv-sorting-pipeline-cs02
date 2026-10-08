@@ -1,0 +1,9 @@
+Candidate: Neha Nair (Associate Developer)
+Email: neha.nair@workmail.com
+Summary:
+Software developer with 3.1 years of professional experience supporting web and system infrastructure.
+Skills: LangChain, Python, Prompt Engineering, LlamaIndex, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LangChain endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

@@ -1,0 +1,9 @@
+Candidate: Emily Smith (Associate Developer)
+Email: emily.smith@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: UART, ARM Cortex, RTOS, Linux Kernel, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained UART endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

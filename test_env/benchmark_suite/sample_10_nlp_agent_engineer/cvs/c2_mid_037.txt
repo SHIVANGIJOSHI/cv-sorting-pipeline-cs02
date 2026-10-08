@@ -1,0 +1,9 @@
+Candidate: David Brown (Associate Developer)
+Email: david.brown@workmail.com
+Summary:
+Software developer with 3.4 years of professional experience supporting web and system infrastructure.
+Skills: Docker, LangChain, Python, Vector Databases, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Docker endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

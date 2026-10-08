@@ -1,0 +1,10 @@
+Candidate: David Reddy (Junior Trainee / Fresher)
+Email: david.reddy@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: PyTorch, JAX, Python, CUDA, HuggingFace, RAG, vLLM, Triton, LangChain, DeepSpeed, TensorRT, FAISS, Weights & Biases, Ray.
+Skills Inventory:
+PyTorch, JAX, Python, CUDA, HuggingFace, RAG, vLLM, Triton, LangChain, DeepSpeed, TensorRT, FAISS, Weights & Biases, Ray, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.8 years):
+  Reviewed tutorials and observed team workflows covering Python, RAG, PyTorch, CUDA.
+Education: Diploma in Computer Applications

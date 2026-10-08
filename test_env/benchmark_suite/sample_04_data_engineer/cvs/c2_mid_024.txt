@@ -1,0 +1,9 @@
+Candidate: Aditya Williams (Associate Developer)
+Email: aditya.williams@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: Snowflake, SQL, dbt, PostgreSQL, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Snowflake endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

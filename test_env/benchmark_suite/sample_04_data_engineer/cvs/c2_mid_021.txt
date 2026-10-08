@@ -1,0 +1,9 @@
+Candidate: Neha Reddy (Associate Developer)
+Email: neha.reddy@workmail.com
+Summary:
+Software developer with 3.4 years of professional experience supporting web and system infrastructure.
+Skills: Hadoop, Kafka, Snowflake, Airflow, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.4 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Hadoop endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

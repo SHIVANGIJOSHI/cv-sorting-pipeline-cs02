@@ -1,0 +1,10 @@
+Candidate: Elena Patel (Junior Trainee / Fresher)
+Email: elena.patel@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink.
+Skills Inventory:
+Apache Spark, Python, SQL, Airflow, Kafka, Snowflake, dbt, PostgreSQL, Hadoop, Delta Lake, BigQuery, Databricks, Presto, Flink, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.9 years):
+  Reviewed tutorials and observed team workflows covering SQL, dbt, Hadoop, Kafka.
+Education: Diploma in Computer Applications

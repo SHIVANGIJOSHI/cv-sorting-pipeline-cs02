@@ -1,0 +1,11 @@
+Candidate: Elena Sharma (Senior Specialist)
+Email: elena.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.5 years of experience designing and shipping scalable systems, specializing in JavaScript, Jest, TailwindCSS, GraphQL.
+Technical Skills: JavaScript, Jest, TailwindCSS, GraphQL, Redux, TypeScript, Next.js, Storybook, Cypress, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (4.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using JavaScript and Jest.
+Education: B.Tech in Computer Science, IIT Kharagpur

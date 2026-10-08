@@ -1,0 +1,9 @@
+Candidate: Neha Sharma (Associate Developer)
+Email: neha.sharma@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: PostgreSQL, Python, Hadoop, Kafka, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained PostgreSQL endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,11 @@
+Candidate: Kavita Johnson (Senior Specialist)
+Email: kavita.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.0 years of experience designing and shipping scalable systems, specializing in CUDA, PyTorch, Triton, LangChain.
+Technical Skills: CUDA, PyTorch, Triton, LangChain, HuggingFace, Python, RAG, TensorRT, DeepSpeed, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (5.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using CUDA and PyTorch.
+Education: B.Tech in Computer Science, NIT Trichy

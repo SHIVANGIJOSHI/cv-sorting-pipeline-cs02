@@ -1,0 +1,9 @@
+Candidate: Emily Williams (Associate Developer)
+Email: emily.williams@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: LlamaIndex, LangChain, OpenAI API, Prompt Engineering, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LlamaIndex endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

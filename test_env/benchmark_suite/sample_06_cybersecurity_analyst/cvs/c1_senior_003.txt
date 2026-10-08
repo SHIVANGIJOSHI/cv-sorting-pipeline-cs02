@@ -1,0 +1,11 @@
+Candidate: Sarah Brown (Senior Specialist)
+Email: sarah.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.1 years of experience designing and shipping scalable systems, specializing in Wireshark, OWASP, Cryptography, Splunk.
+Technical Skills: Wireshark, OWASP, Cryptography, Splunk, Python, Linux, Burp Suite, Suricata, NIST, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (3.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Wireshark and OWASP.
+Education: B.Tech in Computer Science, IIIT Hyderabad

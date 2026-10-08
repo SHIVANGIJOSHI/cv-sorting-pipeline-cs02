@@ -1,0 +1,11 @@
+Candidate: Priya Iyer (Senior Specialist)
+Email: priya.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.4 years of experience designing and shipping scalable systems, specializing in LangChain, Python, Prompt Engineering, FastAPI.
+Technical Skills: LangChain, Python, Prompt Engineering, FastAPI, LlamaIndex, Vector Databases, OpenAI API, ChromaDB, pgvector, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using LangChain and Python.
+Education: B.Tech in Computer Science, IIT Kharagpur

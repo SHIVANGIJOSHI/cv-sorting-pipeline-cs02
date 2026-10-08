@@ -1,0 +1,11 @@
+Candidate: Sarah Johnson (Senior Specialist)
+Email: sarah.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.5 years of experience designing and shipping scalable systems, specializing in Prompt Engineering, RAG, LangChain, OpenAI API.
+Technical Skills: Prompt Engineering, RAG, LangChain, OpenAI API, Vector Databases, Docker, Python, ChromaDB, pgvector, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (4.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Prompt Engineering and RAG.
+Education: B.Tech in Computer Science, IIT Kharagpur

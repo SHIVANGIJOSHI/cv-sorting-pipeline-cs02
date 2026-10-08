@@ -1,0 +1,9 @@
+Candidate: Deepak Kulkarni (Associate Developer)
+Email: deepak.kulkarni@workmail.com
+Summary:
+Software developer with 3.7 years of professional experience supporting web and system infrastructure.
+Skills: High Availability, Linux, Replication, PostgreSQL, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (3.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained High Availability endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

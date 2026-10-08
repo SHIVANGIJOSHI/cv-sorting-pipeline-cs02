@@ -1,0 +1,9 @@
+Candidate: Aarav Brown (Associate Developer)
+Email: aarav.brown@workmail.com
+Summary:
+Software developer with 3.7 years of professional experience supporting web and system infrastructure.
+Skills: MySQL, High Availability, Bash, Replication, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained MySQL endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

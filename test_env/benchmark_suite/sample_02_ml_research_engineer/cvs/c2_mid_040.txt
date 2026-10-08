@@ -1,0 +1,9 @@
+Candidate: David Iyer (Associate Developer)
+Email: david.iyer@workmail.com
+Summary:
+Software developer with 2.2 years of professional experience supporting web and system infrastructure.
+Skills: LangChain, vLLM, CUDA, RAG, Git, Jira.
+Work History:
+- Developer at Vanguard Tech (2.2 years):
+  Supported production bug fixes, wrote basic test suites, and maintained LangChain endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

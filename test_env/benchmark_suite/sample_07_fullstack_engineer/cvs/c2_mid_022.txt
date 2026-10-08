@@ -1,0 +1,9 @@
+Candidate: Aarav Iyer (Associate Developer)
+Email: aarav.iyer@workmail.com
+Summary:
+Software developer with 1.3 years of professional experience supporting web and system infrastructure.
+Skills: Express, TypeScript, REST APIs, React, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (1.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Express endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

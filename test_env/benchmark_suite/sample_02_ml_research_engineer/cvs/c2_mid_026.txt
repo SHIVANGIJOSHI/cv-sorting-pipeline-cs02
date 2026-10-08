@@ -1,0 +1,9 @@
+Candidate: Neha Patel (Associate Developer)
+Email: neha.patel@workmail.com
+Summary:
+Software developer with 1.6 years of professional experience supporting web and system infrastructure.
+Skills: CUDA, Triton, Python, HuggingFace, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (1.6 years):
+  Supported production bug fixes, wrote basic test suites, and maintained CUDA endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

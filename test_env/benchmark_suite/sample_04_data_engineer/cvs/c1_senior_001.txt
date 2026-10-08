@@ -1,0 +1,11 @@
+Candidate: Michael Mukherjee (Senior Specialist)
+Email: michael.mukherjee@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.9 years of experience designing and shipping scalable systems, specializing in Snowflake, Apache Spark, SQL, PostgreSQL.
+Technical Skills: Snowflake, Apache Spark, SQL, PostgreSQL, dbt, Hadoop, Python, BigQuery, Databricks, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (5.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Snowflake and Apache Spark.
+Education: B.Tech in Computer Science, Anna University

@@ -1,0 +1,9 @@
+Candidate: Neha Iyer (Associate Developer)
+Email: neha.iyer@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: TypeScript, Jest, Next.js, JavaScript, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained TypeScript endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

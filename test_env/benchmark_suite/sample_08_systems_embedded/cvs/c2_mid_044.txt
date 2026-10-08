@@ -1,0 +1,9 @@
+Candidate: James Choudhury (Associate Developer)
+Email: james.choudhury@workmail.com
+Summary:
+Software developer with 1.9 years of professional experience supporting web and system infrastructure.
+Skills: C, RTOS, I2C, UART, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (1.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained C endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

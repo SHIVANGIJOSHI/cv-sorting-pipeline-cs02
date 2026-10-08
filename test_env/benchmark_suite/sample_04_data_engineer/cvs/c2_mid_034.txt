@@ -1,0 +1,9 @@
+Candidate: Ananya Iyer (Associate Developer)
+Email: ananya.iyer@workmail.com
+Summary:
+Software developer with 2.1 years of professional experience supporting web and system infrastructure.
+Skills: Python, dbt, PostgreSQL, Hadoop, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.1 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Python endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

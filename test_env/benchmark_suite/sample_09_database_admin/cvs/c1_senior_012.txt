@@ -1,0 +1,11 @@
+Candidate: Fatima Kulkarni (Senior Specialist)
+Email: fatima.kulkarni@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.0 years of experience designing and shipping scalable systems, specializing in High Availability, MySQL, Python, SQL.
+Technical Skills: High Availability, MySQL, Python, SQL, PostgreSQL, Linux, Database Tuning, Percona, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (5.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using High Availability and MySQL.
+Education: B.Tech in Computer Science, BITS Pilani

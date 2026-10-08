@@ -1,0 +1,10 @@
+Candidate: Deepak Gupta (Junior Trainee / Fresher)
+Email: deepak.gupta@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG, Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama.
+Skills Inventory:
+LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG, Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.5 years):
+  Reviewed tutorials and observed team workflows covering OpenAI API, Prompt Engineering, LangChain, RAG.
+Education: Diploma in Computer Applications

@@ -1,0 +1,10 @@
+Candidate: Michael Johnson (Junior Trainee / Fresher)
+Email: michael.johnson@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, Prometheus.
+Skills Inventory:
+Python, Java, Kubernetes, Docker, PostgreSQL, FastAPI, Redis, Kafka, AWS, gRPC, GraphQL, Cassandra, Terraform, Prometheus, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.0 years):
+  Reviewed tutorials and observed team workflows covering Java, Kafka, Kubernetes, Python.
+Education: Diploma in Computer Applications

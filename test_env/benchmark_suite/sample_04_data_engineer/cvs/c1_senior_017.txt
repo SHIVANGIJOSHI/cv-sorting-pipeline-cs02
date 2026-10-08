@@ -1,0 +1,11 @@
+Candidate: Kavita Choudhury (Senior Specialist)
+Email: kavita.choudhury@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.8 years of experience designing and shipping scalable systems, specializing in Apache Spark, Airflow, SQL, Kafka.
+Technical Skills: Apache Spark, Airflow, SQL, Kafka, Python, dbt, Hadoop, Delta Lake, BigQuery, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (3.8 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Apache Spark and Airflow.
+Education: B.Tech in Computer Science, BITS Pilani

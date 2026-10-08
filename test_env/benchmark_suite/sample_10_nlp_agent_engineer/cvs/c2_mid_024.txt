@@ -1,0 +1,9 @@
+Candidate: Michael Smith (Associate Developer)
+Email: michael.smith@workmail.com
+Summary:
+Software developer with 2.7 years of professional experience supporting web and system infrastructure.
+Skills: FastAPI, LangChain, OpenAI API, LlamaIndex, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.7 years):
+  Supported production bug fixes, wrote basic test suites, and maintained FastAPI endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

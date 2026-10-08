@@ -1,0 +1,11 @@
+Candidate: Vikram Sharma (Senior Specialist)
+Email: vikram.sharma@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.0 years of experience designing and shipping scalable systems, specializing in GraphQL, TypeScript, Jest, Webpack.
+Technical Skills: GraphQL, TypeScript, Jest, Webpack, TailwindCSS, Redux, React, Storybook, Cypress, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (6.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using GraphQL and TypeScript.
+Education: B.Tech in Computer Science, NIT Trichy

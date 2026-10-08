@@ -1,0 +1,11 @@
+Candidate: Aarav Iyer (Senior Specialist)
+Email: aarav.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.4 years of experience designing and shipping scalable systems, specializing in Docker, Kubernetes, Java, Redis.
+Technical Skills: Docker, Kubernetes, Java, Redis, FastAPI, PostgreSQL, Kafka, GraphQL, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (5.4 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and Kubernetes.
+Education: B.Tech in Computer Science, Anna University

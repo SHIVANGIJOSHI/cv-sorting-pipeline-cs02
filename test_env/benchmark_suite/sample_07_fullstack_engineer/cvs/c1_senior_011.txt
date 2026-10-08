@@ -1,0 +1,11 @@
+Candidate: Elena Verma (Senior Specialist)
+Email: elena.verma@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.0 years of experience designing and shipping scalable systems, specializing in TypeScript, Git, PostgreSQL, Docker.
+Technical Skills: TypeScript, Git, PostgreSQL, Docker, AWS, Node.js, Express, Prisma, TailwindCSS, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (3.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TypeScript and Git.
+Education: B.Tech in Computer Science, IIIT Hyderabad

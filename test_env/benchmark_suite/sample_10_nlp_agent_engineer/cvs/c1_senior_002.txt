@@ -1,0 +1,11 @@
+Candidate: David Gupta (Senior Specialist)
+Email: david.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.2 years of experience designing and shipping scalable systems, specializing in FastAPI, Python, LlamaIndex, OpenAI API.
+Technical Skills: FastAPI, Python, LlamaIndex, OpenAI API, RAG, LangChain, Vector Databases, Ollama, LangGraph, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (6.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using FastAPI and Python.
+Education: B.Tech in Computer Science, Anna University

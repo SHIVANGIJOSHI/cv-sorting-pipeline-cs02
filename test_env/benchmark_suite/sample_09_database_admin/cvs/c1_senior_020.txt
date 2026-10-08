@@ -1,0 +1,11 @@
+Candidate: Neha Kulkarni (Senior Specialist)
+Email: neha.kulkarni@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.6 years of experience designing and shipping scalable systems, specializing in PostgreSQL, SQL, High Availability, Database Tuning.
+Technical Skills: PostgreSQL, SQL, High Availability, Database Tuning, Python, Linux, Replication, PgBouncer, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.6 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using PostgreSQL and SQL.
+Education: B.Tech in Computer Science, IIIT Hyderabad

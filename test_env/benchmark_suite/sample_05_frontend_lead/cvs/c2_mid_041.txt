@@ -1,0 +1,9 @@
+Candidate: Vikram Kulkarni (Associate Developer)
+Email: vikram.kulkarni@workmail.com
+Summary:
+Software developer with 2.8 years of professional experience supporting web and system infrastructure.
+Skills: Webpack, Redux, TypeScript, Next.js, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (2.8 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Webpack endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

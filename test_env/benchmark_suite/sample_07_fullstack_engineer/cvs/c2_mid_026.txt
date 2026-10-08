@@ -1,0 +1,9 @@
+Candidate: Ananya Gupta (Associate Developer)
+Email: ananya.gupta@workmail.com
+Summary:
+Software developer with 1.9 years of professional experience supporting web and system infrastructure.
+Skills: Express, REST APIs, TypeScript, Git, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (1.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Express endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

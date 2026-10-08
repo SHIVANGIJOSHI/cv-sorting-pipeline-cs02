@@ -1,0 +1,11 @@
+Candidate: Priya Reddy (Senior Specialist)
+Email: priya.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.9 years of experience designing and shipping scalable systems, specializing in Docker, Prometheus, CI/CD, AWS.
+Technical Skills: Docker, Prometheus, CI/CD, AWS, Terraform, Helm, Grafana, Bash, ArgoCD, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (5.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and Prometheus.
+Education: B.Tech in Computer Science, IIT Kharagpur

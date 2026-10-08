@@ -1,0 +1,11 @@
+Candidate: Michael Nair (Senior Specialist)
+Email: michael.nair@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in Burp Suite, Wireshark, Splunk, Vulnerability Assessment.
+Technical Skills: Burp Suite, Wireshark, Splunk, Vulnerability Assessment, Python, OWASP, SIEM, IAM, Metasploit, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Burp Suite and Wireshark.
+Education: B.Tech in Computer Science, IIIT Hyderabad

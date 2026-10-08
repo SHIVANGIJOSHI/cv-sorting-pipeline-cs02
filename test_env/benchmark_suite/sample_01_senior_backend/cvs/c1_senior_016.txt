@@ -1,0 +1,11 @@
+Candidate: Emily Nair (Senior Specialist)
+Email: emily.nair@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.3 years of experience designing and shipping scalable systems, specializing in PostgreSQL, AWS, Redis, Kafka.
+Technical Skills: PostgreSQL, AWS, Redis, Kafka, Docker, Kubernetes, FastAPI, gRPC, Terraform, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (5.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using PostgreSQL and AWS.
+Education: B.Tech in Computer Science, IIIT Hyderabad

@@ -1,0 +1,10 @@
+Job Title: Full Stack Software Engineer
+Minimum Experience Required: 3.0 years
+Mandatory Technical Skills: Node.js, React, TypeScript, PostgreSQL, Docker, Express, REST APIs, AWS, Git
+Preferred Skills: Prisma, Redis, MongoDB, TailwindCSS, Jest
+
+Job Overview:
+Full Stack Engineer needed with 3+ years experience building full-stack cloud products using React frontends, Node/TypeScript APIs, and PostgreSQL databases.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing Node.js and React.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

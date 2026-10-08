@@ -1,0 +1,11 @@
+Candidate: Emily Smith (Senior Specialist)
+Email: emily.smith@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.1 years of experience designing and shipping scalable systems, specializing in Kubernetes, Java, FastAPI, AWS.
+Technical Skills: Kubernetes, Java, FastAPI, AWS, PostgreSQL, Redis, Docker, Prometheus, gRPC, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Vanguard Tech (5.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Kubernetes and Java.
+Education: B.Tech in Computer Science, Anna University

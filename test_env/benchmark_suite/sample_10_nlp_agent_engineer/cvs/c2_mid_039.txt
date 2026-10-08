@@ -1,0 +1,9 @@
+Candidate: Aditya Sharma (Associate Developer)
+Email: aditya.sharma@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: Docker, Python, Vector Databases, LlamaIndex, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Docker endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

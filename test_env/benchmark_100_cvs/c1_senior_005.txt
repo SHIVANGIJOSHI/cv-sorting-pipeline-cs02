@@ -1,0 +1,22 @@
+Candidate: Kavita Verma
+Title: Senior Backend & Distributed Systems Engineer
+Email: kavita.verma@engineering.io
+
+Executive Summary:
+Principal software engineer offering 7.4 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Python, Redis, AWS, Kubernetes, PostgreSQL
+Infrastructure & Storage: Docker, Kafka, gRPC, Elasticsearch, Airflow
+
+Professional Experience:
+1. Lead Software Engineer | OmniData Solutions (5.4 years)
+   - Led database optimization initiative, restructuring PostgreSQL indexing and partition strategies which decreased p99 query latency by 48%.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | HyperScale Labs (2.0 years)
+   - Spearheaded containerization with Docker and Kubernetes, reducing staging deployment turnarounds from hours to under 3 minutes.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, Delhi Technological University

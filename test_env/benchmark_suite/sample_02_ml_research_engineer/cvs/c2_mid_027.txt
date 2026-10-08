@@ -1,0 +1,9 @@
+Candidate: Neha Rao (Associate Developer)
+Email: neha.rao@workmail.com
+Summary:
+Software developer with 2.0 years of professional experience supporting web and system infrastructure.
+Skills: vLLM, CUDA, Triton, LangChain, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (2.0 years):
+  Supported production bug fixes, wrote basic test suites, and maintained vLLM endpoints.
+Education: Bachelor of Science in Information Technology, IIIT Hyderabad

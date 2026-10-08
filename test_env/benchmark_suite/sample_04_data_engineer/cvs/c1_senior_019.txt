@@ -1,0 +1,11 @@
+Candidate: Ananya Reddy (Senior Specialist)
+Email: ananya.reddy@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.3 years of experience designing and shipping scalable systems, specializing in Python, Apache Spark, Kafka, Hadoop.
+Technical Skills: Python, Apache Spark, Kafka, Hadoop, Airflow, SQL, dbt, Presto, Databricks, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (6.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Python and Apache Spark.
+Education: B.Tech in Computer Science, Delhi Technological University

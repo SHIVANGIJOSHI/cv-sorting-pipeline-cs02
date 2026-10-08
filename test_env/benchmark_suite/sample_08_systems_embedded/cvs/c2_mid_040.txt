@@ -1,0 +1,9 @@
+Candidate: Ananya Rao (Associate Developer)
+Email: ananya.rao@workmail.com
+Summary:
+Software developer with 2.9 years of professional experience supporting web and system infrastructure.
+Skills: RTOS, GDB, Linux Kernel, UART, Git, Jira.
+Work History:
+- Developer at HyperScale Labs (2.9 years):
+  Supported production bug fixes, wrote basic test suites, and maintained RTOS endpoints.
+Education: Bachelor of Science in Information Technology, Delhi Technological University

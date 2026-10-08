@@ -1,0 +1,9 @@
+Candidate: David Smith (Associate Developer)
+Email: david.smith@workmail.com
+Summary:
+Software developer with 3.5 years of professional experience supporting web and system infrastructure.
+Skills: Database Tuning, MySQL, High Availability, Replication, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Database Tuning endpoints.
+Education: Bachelor of Science in Information Technology, IIT Kharagpur

@@ -1,0 +1,9 @@
+Candidate: Ananya Gupta (Associate Developer)
+Email: ananya.gupta@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: OWASP, Cryptography, SIEM, Splunk, Git, Jira.
+Work History:
+- Developer at Apex Core Systems (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained OWASP endpoints.
+Education: Bachelor of Science in Information Technology, BITS Pilani

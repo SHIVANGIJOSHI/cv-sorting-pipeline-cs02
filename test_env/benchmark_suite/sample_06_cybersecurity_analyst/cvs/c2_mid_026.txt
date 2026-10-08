@@ -1,0 +1,9 @@
+Candidate: Elena Choudhury (Associate Developer)
+Email: elena.choudhury@workmail.com
+Summary:
+Software developer with 2.3 years of professional experience supporting web and system infrastructure.
+Skills: Vulnerability Assessment, Burp Suite, Splunk, OWASP, Git, Jira.
+Work History:
+- Developer at Nexus Fintech (2.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Vulnerability Assessment endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

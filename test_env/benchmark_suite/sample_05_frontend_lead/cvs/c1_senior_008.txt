@@ -1,0 +1,11 @@
+Candidate: Neha Brown (Senior Specialist)
+Email: neha.brown@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.5 years of experience designing and shipping scalable systems, specializing in TailwindCSS, Webpack, Jest, GraphQL.
+Technical Skills: TailwindCSS, Webpack, Jest, GraphQL, TypeScript, JavaScript, Next.js, HTML5, Vite, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (5.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using TailwindCSS and Webpack.
+Education: B.Tech in Computer Science, IIIT Hyderabad

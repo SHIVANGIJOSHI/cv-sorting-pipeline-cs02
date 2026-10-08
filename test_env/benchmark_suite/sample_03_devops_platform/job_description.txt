@@ -1,0 +1,10 @@
+Job Title: Staff DevOps & Cloud Platform Engineer
+Minimum Experience Required: 5.0 years
+Mandatory Technical Skills: Kubernetes, Terraform, AWS, Docker, Helm, CI/CD, Prometheus, Grafana, Linux
+Preferred Skills: ArgoCD, Ansible, Vault, Istio, Bash
+
+Job Overview:
+Staff Cloud Platform Engineer needed with 5+ years of experience architecting multi-region Kubernetes clusters, GitOps pipelines via ArgoCD, and infrastructure as code.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing Kubernetes and Terraform.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

@@ -1,0 +1,11 @@
+Candidate: Michael Gupta (Senior Specialist)
+Email: michael.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.3 years of experience designing and shipping scalable systems, specializing in Docker, AWS, Kafka, Python.
+Technical Skills: Docker, AWS, Kafka, Python, Redis, Java, PostgreSQL, GraphQL, gRPC, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Nexus Fintech (6.3 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Docker and AWS.
+Education: B.Tech in Computer Science, IIT Kharagpur

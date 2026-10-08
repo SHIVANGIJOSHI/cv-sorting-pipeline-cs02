@@ -1,0 +1,10 @@
+Candidate: Ananya Kulkarni (Junior Trainee / Fresher)
+Email: ananya.kulkarni@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Node.js, React, TypeScript, PostgreSQL, Docker, Express, REST APIs, AWS, Git, Prisma, Redis, MongoDB, TailwindCSS, Jest.
+Skills Inventory:
+Node.js, React, TypeScript, PostgreSQL, Docker, Express, REST APIs, AWS, Git, Prisma, Redis, MongoDB, TailwindCSS, Jest, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.1 years):
+  Reviewed tutorials and observed team workflows covering Git, AWS, Express, PostgreSQL.
+Education: Diploma in Computer Applications

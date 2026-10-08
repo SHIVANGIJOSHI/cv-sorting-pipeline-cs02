@@ -1,0 +1,11 @@
+Candidate: Sarah Choudhury (Senior Specialist)
+Email: sarah.choudhury@techdomain.org
+Professional Summary:
+Accomplished engineer with 8.5 years of experience designing and shipping scalable systems, specializing in Kubernetes, Prometheus, Helm, AWS.
+Technical Skills: Kubernetes, Prometheus, Helm, AWS, Docker, Grafana, Terraform, Vault, Ansible, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (6.5 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Kubernetes and Prometheus.
+Education: B.Tech in Computer Science, IIIT Hyderabad

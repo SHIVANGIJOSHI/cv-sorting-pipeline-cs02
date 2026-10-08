@@ -1,0 +1,9 @@
+Candidate: Kavita Iyer (Associate Developer)
+Email: kavita.iyer@workmail.com
+Summary:
+Software developer with 4.5 years of professional experience supporting web and system infrastructure.
+Skills: Bash, SQL, Replication, Database Tuning, Git, Jira.
+Work History:
+- Developer at Pinnacle Cloud (4.5 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Bash endpoints.
+Education: Bachelor of Science in Information Technology, Anna University

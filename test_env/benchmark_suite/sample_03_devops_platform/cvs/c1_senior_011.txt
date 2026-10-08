@@ -1,0 +1,11 @@
+Candidate: Elena Iyer (Senior Specialist)
+Email: elena.iyer@techdomain.org
+Professional Summary:
+Accomplished engineer with 7.2 years of experience designing and shipping scalable systems, specializing in CI/CD, Kubernetes, Prometheus, AWS.
+Technical Skills: CI/CD, Kubernetes, Prometheus, AWS, Terraform, Linux, Docker, Istio, Bash, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (5.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using CI/CD and Kubernetes.
+Education: B.Tech in Computer Science, Delhi Technological University

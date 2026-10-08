@@ -1,0 +1,11 @@
+Candidate: Aarav Johnson (Senior Specialist)
+Email: aarav.johnson@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.9 years of experience designing and shipping scalable systems, specializing in Hadoop, Snowflake, SQL, Kafka.
+Technical Skills: Hadoop, Snowflake, SQL, Kafka, Apache Spark, Python, Airflow, BigQuery, Presto, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at HyperScale Labs (4.9 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Hadoop and Snowflake.
+Education: B.Tech in Computer Science, NIT Trichy

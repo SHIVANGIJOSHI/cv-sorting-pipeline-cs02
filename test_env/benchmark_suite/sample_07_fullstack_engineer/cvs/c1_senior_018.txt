@@ -1,0 +1,11 @@
+Candidate: Priya Nair (Senior Specialist)
+Email: priya.nair@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.0 years of experience designing and shipping scalable systems, specializing in React, Docker, AWS, TypeScript.
+Technical Skills: React, Docker, AWS, TypeScript, REST APIs, PostgreSQL, Node.js, Prisma, TailwindCSS, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at OmniData Solutions (4.0 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using React and Docker.
+Education: B.Tech in Computer Science, IIIT Hyderabad

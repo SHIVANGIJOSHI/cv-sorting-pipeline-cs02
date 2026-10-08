@@ -1,0 +1,10 @@
+Job Title: Research Software Engineer (AI / Machine Learning)
+Minimum Experience Required: 3.0 years
+Mandatory Technical Skills: PyTorch, JAX, Python, CUDA, HuggingFace, RAG, vLLM, Triton, LangChain
+Preferred Skills: DeepSpeed, TensorRT, FAISS, Weights & Biases, Ray
+
+Job Overview:
+Seeking an AI Research Software Engineer with 3+ years experience optimizing LLM inference, serving models via vLLM, and developing RAG workflows using PyTorch and JAX.
+Key Responsibilities:
+- Architect, build, and maintain production-grade services utilizing PyTorch and JAX.
+- Ensure robust monitoring, scalability, and automated testing across CI/CD environments.

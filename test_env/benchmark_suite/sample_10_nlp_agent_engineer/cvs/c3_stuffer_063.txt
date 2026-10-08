@@ -1,0 +1,10 @@
+Candidate: Priya Smith (Junior Trainee / Fresher)
+Email: priya.smith@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG, Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama.
+Skills Inventory:
+LangChain, LlamaIndex, Python, Vector Databases, Prompt Engineering, FastAPI, Docker, OpenAI API, RAG, Semantic Kernel, pgvector, ChromaDB, LangGraph, Ollama, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (1.3 years):
+  Reviewed tutorials and observed team workflows covering Docker, Prompt Engineering, LangChain, Vector Databases.
+Education: Diploma in Computer Applications

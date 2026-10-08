@@ -1,0 +1,9 @@
+Candidate: Kavita Kulkarni (Associate Developer)
+Email: kavita.kulkarni@workmail.com
+Summary:
+Software developer with 3.3 years of professional experience supporting web and system infrastructure.
+Skills: Prometheus, Helm, Docker, Linux, Git, Jira.
+Work History:
+- Developer at OmniData Solutions (3.3 years):
+  Supported production bug fixes, wrote basic test suites, and maintained Prometheus endpoints.
+Education: Bachelor of Science in Information Technology, NIT Trichy

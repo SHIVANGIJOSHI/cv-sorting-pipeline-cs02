@@ -1,0 +1,11 @@
+Candidate: Vikram Choudhury (Senior Specialist)
+Email: vikram.choudhury@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.1 years of experience designing and shipping scalable systems, specializing in Wireshark, Burp Suite, Vulnerability Assessment, SIEM.
+Technical Skills: Wireshark, Burp Suite, Vulnerability Assessment, SIEM, Linux, Splunk, OWASP, Snort, Metasploit, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (3.1 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Wireshark and Burp Suite.
+Education: B.Tech in Computer Science, Anna University

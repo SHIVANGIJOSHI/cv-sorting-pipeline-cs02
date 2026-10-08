@@ -1,0 +1,11 @@
+Candidate: Aditya Gupta (Senior Specialist)
+Email: aditya.gupta@techdomain.org
+Professional Summary:
+Accomplished engineer with 6.7 years of experience designing and shipping scalable systems, specializing in OpenAI API, Prompt Engineering, Vector Databases, LlamaIndex.
+Technical Skills: OpenAI API, Prompt Engineering, Vector Databases, LlamaIndex, Python, RAG, FastAPI, ChromaDB, Ollama, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Pinnacle Cloud (4.7 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using OpenAI API and Prompt Engineering.
+Education: B.Tech in Computer Science, BITS Pilani

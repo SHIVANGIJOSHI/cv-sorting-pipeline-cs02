@@ -1,0 +1,10 @@
+Candidate: Ananya Choudhury (Junior Trainee / Fresher)
+Email: ananya.choudhury@fresherweb.net
+Summary:
+Fast learner with wide knowledge across: Node.js, React, TypeScript, PostgreSQL, Docker, Express, REST APIs, AWS, Git, Prisma, Redis, MongoDB, TailwindCSS, Jest.
+Skills Inventory:
+Node.js, React, TypeScript, PostgreSQL, Docker, Express, REST APIs, AWS, Git, Prisma, Redis, MongoDB, TailwindCSS, Jest, DevOps, Artificial Intelligence, Blockchain, System Design.
+Professional History:
+- Trainee Intern (0.6 years):
+  Reviewed tutorials and observed team workflows covering PostgreSQL, React, Git, REST APIs.
+Education: Diploma in Computer Applications

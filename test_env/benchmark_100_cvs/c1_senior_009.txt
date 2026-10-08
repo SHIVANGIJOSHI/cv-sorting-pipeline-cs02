@@ -1,0 +1,22 @@
+Candidate: James Johnson
+Title: Senior Backend & Distributed Systems Engineer
+Email: james.johnson@engineering.io
+
+Executive Summary:
+Principal software engineer offering 6.3 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Java, Docker, PostgreSQL, Python, Kubernetes
+Infrastructure & Storage: FastAPI, Kafka, RabbitMQ, Prometheus, Cassandra
+
+Professional Experience:
+1. Lead Software Engineer | Pinnacle Cloud Services (4.3 years)
+   - Led database optimization initiative, restructuring PostgreSQL indexing and partition strategies which decreased p99 query latency by 41%.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Pinnacle Cloud Services (2.0 years)
+   - Spearheaded containerization with Docker and Kubernetes, reducing staging deployment turnarounds from hours to under 4 minutes.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, BITS Pilani

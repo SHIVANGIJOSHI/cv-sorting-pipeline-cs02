@@ -1,0 +1,11 @@
+Candidate: Neha Williams (Senior Specialist)
+Email: neha.williams@techdomain.org
+Professional Summary:
+Accomplished engineer with 5.2 years of experience designing and shipping scalable systems, specializing in Redis, Python, Kubernetes, PostgreSQL.
+Technical Skills: Redis, Python, Kubernetes, PostgreSQL, Java, Docker, Kafka, gRPC, Prometheus, Linux, Git, Agile.
+Work Experience:
+- Lead Specialist at Apex Core Systems (3.2 years):
+  Led technical architecture and scaled distributed workflows. Improved system throughput by 40% and mentored junior colleagues.
+- Software Engineer (2.0 years):
+  Built reliable services with automated testing and continuous integration using Redis and Python.
+Education: B.Tech in Computer Science, IIIT Hyderabad

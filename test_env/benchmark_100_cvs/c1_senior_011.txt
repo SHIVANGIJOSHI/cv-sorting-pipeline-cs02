@@ -1,0 +1,22 @@
+Candidate: Michael Choudhury
+Title: Senior Backend & Distributed Systems Engineer
+Email: michael.choudhury@engineering.io
+
+Executive Summary:
+Principal software engineer offering 7.5 years of extensive experience delivering fault-tolerant, high-throughput microservice backends, cloud-native deployments, and distributed architectures.
+
+Core Technical Competencies:
+Languages & Frameworks : Python, FastAPI, Java, Redis, Kubernetes
+Infrastructure & Storage: PostgreSQL, Kafka, Elasticsearch, MongoDB, Prometheus
+
+Professional Experience:
+1. Lead Software Engineer | Nexus Fintech (5.5 years)
+   - Led database optimization initiative, restructuring PostgreSQL indexing and partition strategies which decreased p99 query latency by 51%.
+   - Mentored junior engineers, established automated CI/CD gating, and standardized observability metrics.
+
+2. Backend Engineer | Apex Core Systems (2.0 years)
+   - Spearheaded containerization with Docker and Kubernetes, reducing staging deployment turnarounds from hours to under 7 minutes.
+   - Authored clean, performant services conforming to REST and gRPC specifications.
+
+Education:
+B.Tech in Computer Science and Engineering, Delhi Technological University
